@@ -1,0 +1,1293 @@
+{
+  "schema_version": 1,
+  "built_at": "2026-11-07T06:10:04+00:00",
+  "source_head": "cf57c7350e6202a28b61dc90501abf916bb157b6",
+  "files": [
+    {
+      "path": ".github/ISSUE_TEMPLATE/bug_report.yml",
+      "bytes": 4238,
+      "sha256": "60db3821800fbfbe9a1df0069502bcf22d38c172c49f425ff2ff5d5267cb6f80"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/config.yml",
+      "bytes": 678,
+      "sha256": "5f89c074fc157369d5385f481b4adfa04242c6ed3c193bff92c4fc91a5e94bc3"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/feature_proposal.yml",
+      "bytes": 2158,
+      "sha256": "5d45e7893f324a579ca9332eb4a818c93dbdf5feae98ba4771615bf29c0e9072"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/knowledge_contribution.yml",
+      "bytes": 2996,
+      "sha256": "410b46c095b342b2b6f48a328810f282056fed98b76e0f36e47ec124d0ae2828"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/tool_adapter.yml",
+      "bytes": 2656,
+      "sha256": "eff4b3b75daf6ec0f4e7da82bc9085a0b897669890650946b6eab0665e4a2b5b"
+    },
+    {
+      "path": ".github/PULL_REQUEST_TEMPLATE.md",
+      "bytes": 1651,
+      "sha256": "554a4712d6923bf63fe75dd9618cd49d28498f93622d29c93e3324a0ac403523"
+    },
+    {
+      "path": ".github/workflows/test.yml",
+      "bytes": 628,
+      "sha256": "11125ab70148cec0a5fac0d6be75545362e87f636744672420783eef0e0b82f3"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 783,
+      "sha256": "fd097c25bbb16711b33f6b988491b8ecc61fa5603f289a828d2c78b533ff6c39"
+    },
+    {
+      "path": "CODE_OF_CONDUCT.md",
+      "bytes": 2738,
+      "sha256": "c71f8d85dae3d848e64196131bbb5f0cbe2582f15c437188d417df3ca7f806b0"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "bytes": 5939,
+      "sha256": "7c294197875d996b3283526a12ff0f8542b0288916fbd5d52354eba98ba2e610"
+    },
+    {
+      "path": "docs/community-setup.md",
+      "bytes": 3871,
+      "sha256": "739c0ef361a46eee42803ecad21782c2df0b1d6a4aed82a480049000e6d1fe36"
+    },
+    {
+      "path": "docs/licensing.md",
+      "bytes": 2293,
+      "sha256": "ab1e05b9efa3fcac3b00e0cb9512e7b95425caa3cf9efad8b14a36f59b30ce00"
+    },
+    {
+      "path": "docs/release.md",
+      "bytes": 3411,
+      "sha256": "33e748ab047264505c948d2e86f407c2ff65a1d5cc59cec0e539bae7e183df5b"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1085,
+      "sha256": "d8e8b0e8935e75e9b7c606aee75117b3c22e96b4dcb35dbf3dcd8e6243fc4a1b"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5637,
+      "sha256": "ebd3d57fb834a579fbad21c9a78cc1baa56af5ca85cf6c83a09f0890f2fdd799"
+    },
+    {
+      "path": "requirements-dev.txt",
+      "bytes": 36,
+      "sha256": "f0ebbcdfa9e51b08e64b201b981c123f5c76fad924ee2b4b6ad14bec9659f922"
+    },
+    {
+      "path": "scripts/audit_repository.py",
+      "bytes": 4979,
+      "sha256": "eb9795ffc90028fc67b778f68d0ceaceb7bc22ab59f19c43f2b3d4b99c90be61"
+    },
+    {
+      "path": "scripts/build_release.py",
+      "bytes": 6858,
+      "sha256": "9e52401995cd24fc42a18537acd194efd08ecfa8e6b90f7cba666cb40255a168"
+    },
+    {
+      "path": "scripts/publication_audit.py",
+      "bytes": 12831,
+      "sha256": "7dec3d2dec212f60649d51c109714b596fe635cefdb3bf04313e79cba22aa6b7"
+    },
+    {
+      "path": "scripts/run_tests.py",
+      "bytes": 685,
+      "sha256": "423c83a3f5ee7096656426946fde5b30d23373db057142b5c6351c9eae22174e"
+    },
+    {
+      "path": "SECURITY.md",
+      "bytes": 2105,
+      "sha256": "815ab03f47eff054e5123a9ca58a6d4ab4afe36d20cd73142685fc0211ff214b"
+    },
+    {
+      "path": "skills/architecture-design-workflow/agents/openai.yaml",
+      "bytes": 396,
+      "sha256": "f8c0b361ae5281c162d75fdf2fb165f8ce320ada900245bd97949dbb6e2de4b8"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/benchmarks/queries.json",
+      "bytes": 8217,
+      "sha256": "d5343617828bf72d6ce991f523b252618c314d3225a14c54e9ba7dc77284d975"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/benchmarks/results/baseline.json",
+      "bytes": 13106,
+      "sha256": "dc453d8d33ddb13cc26e50cd8fcaff535505a9af6c1eb14c71da1bcbaadc5dae"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/benchmarks/results/case-quality-audit.json",
+      "bytes": 9607,
+      "sha256": "25d14399e9bf0a98ff4e6a211feaaac8194f76115d95367c5e69b18e22f77cd2"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/benchmarks/results/hybrid.json",
+      "bytes": 24484,
+      "sha256": "3edc356d0ff57f463e11785735c42218d316aae2a301106481a32fc6f45107ec"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/benchmarks/results/quality-audit.json",
+      "bytes": 7835,
+      "sha256": "3b06c8fc7ee5d7f4137870fb8fea8bc070081e97a608ebadaabcf007dc05ea59"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/benchmarks/results/semantic.json",
+      "bytes": 24445,
+      "sha256": "634cd04b0f0433effb147de84afec3059be0ce179a0ead3c0b04f279f463c559"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/benchmarks/run_benchmark.py",
+      "bytes": 4687,
+      "sha256": "4f28f7b2ee3365145e9224602cc03307eb4705a17f6a6c4d21d1969228e8e48a"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/603-tennessee-apartments.md",
+      "bytes": 3038,
+      "sha256": "d50d0a23c86cd1ce3754807466aef72bbb9551b72dc6987023f564bb121467a4"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/alila-yangshuo.md",
+      "bytes": 4260,
+      "sha256": "177e5fb9be889bb628bd5c043a603e98ed83fd68caac1738524c305319e1db5c"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/changsha-meixihu-culture-art-centre.md",
+      "bytes": 3243,
+      "sha256": "b6548f70ced81f159774d8ecb5a1c9b7d14b2e990436ac15d3752b7cac54e164"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/china-design-museum.md",
+      "bytes": 4515,
+      "sha256": "ded3fd06820b2165c919292b1cb5b252c83cb5f5e6ec4f407260475479c145bf"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/civic-chengdu-floating-park-bridge.md",
+      "bytes": 4181,
+      "sha256": "264294cec403011102fe25d22297f3d307eb86493f3b0706db26a2b673739fd9"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/cloudscape-haikou.md",
+      "bytes": 3878,
+      "sha256": "c2e15f20d9022ab17b6c408e58e9dae7348b0f53229a2b192e55d92b531e4cd2"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/community-haikou-citizen-tourist-center.md",
+      "bytes": 2173,
+      "sha256": "88807dacc0d47881bfc3b63c59a6de1123cd165efc215f2311011f5e70d9b85f"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/community-lianhe-village.md",
+      "bytes": 3209,
+      "sha256": "5ff047ca40f45d98a42753b19bc1d39b780304f5717e57c537888a9d549b57df"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/community-luohu-library-youth-center.md",
+      "bytes": 2276,
+      "sha256": "7f6fa50899965f414d40b8a646d18c5118677c09bdda93ff8ee49d8205fb1fcd"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/community-nanjing-youjiawa.md",
+      "bytes": 3758,
+      "sha256": "91412bc5d310a68d58d644ac6711c047ff4f10a68cf902d42a953a93444305a2"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/community-qingpu-pinghe-sports-center.md",
+      "bytes": 2060,
+      "sha256": "a8f1b294b5d5fc63a79e575166895de91504ba5207bcc29459ab9433b6a05e7e"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/community-quzhou-sports-campus.md",
+      "bytes": 3867,
+      "sha256": "2d7a0f0bca0960b2f2f1d6568b5785425f7a31a68e59f7a7fb093661a1dc2dfc"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/courtyard-school-mandal.md",
+      "bytes": 3603,
+      "sha256": "7895f7906454d3e0aff603673ee2b60dca32f5fded8cd55d9114001a8830916c"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/cp-house-san-luis-potosi.md",
+      "bytes": 4188,
+      "sha256": "91388928d762af9bb0c5fbcaf3b6d7391b65b1142389b075efe0977bc2671099"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/cultural-antuoshan.md",
+      "bytes": 3264,
+      "sha256": "f09cb5029fcb1b7f144f60bab855e5901e9d653ee4d4e4fb92050843cc2de397"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/cultural-carmen-wurth-forum.md",
+      "bytes": 2944,
+      "sha256": "9c953f75f425da7ab99ae5ef095ad231309475adac43458632faf12cac8c58b7"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/cultural-grace-farms.md",
+      "bytes": 3100,
+      "sha256": "d64b3d3b3e56872b148420beace0243b96f0367c2afd901c59e7789497215477"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/cultural-huangguoshu-scenic-visitor-center.md",
+      "bytes": 2120,
+      "sha256": "1be6ae2319d02b0a6a949f4cddfc980d2f4006aadb56622721334533701782e3"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/cultural-jiaxing-hrnt.md",
+      "bytes": 4567,
+      "sha256": "32d4e2e184e6d33bcc6d16453eb5645a9f9affabfe76b419d6d860ac4795aa51"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/cultural-ponto-c.md",
+      "bytes": 3065,
+      "sha256": "eeee8a563962cf2908ce681ce92d821a09e6aeb668e907d9fc46acd56af234a7"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/cultural-wadden-sea-center.md",
+      "bytes": 2970,
+      "sha256": "991d1f2df56ddcd8c7575548529e8e35238f58084ffa3362657a1bdc164dcf1f"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/exhibition-kaizhou-music-valley.md",
+      "bytes": 3378,
+      "sha256": "0773006cfe4056398178d6b10095599b1b6dbe6a7b7fd45ea644dbdaa71c9362"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/fuzhou-strait-culture-art-centre.md",
+      "bytes": 4287,
+      "sha256": "413aebf469c787cb6f29d23b0a16d5572378d1c8c731647b7a444ff8b3d3d78b"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/gallery-abby-kortrijk.md",
+      "bytes": 2954,
+      "sha256": "333812a45afa75cf35668dae44058936d85481a41061e823de5bd8ed78122a87"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/gallery-hefei-art.md",
+      "bytes": 3655,
+      "sha256": "685d2192d618d470afabd9fb8d37c2d966f6429f24526e99b0524080e21b7813"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/gallery-hepworth-wakefield.md",
+      "bytes": 2516,
+      "sha256": "97f4f6117e15f9ff11094429261e4fd5cd2378770ccb9d98530f39c5a65bf3c6"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/gallery-taichung-green-museumbrary.md",
+      "bytes": 2990,
+      "sha256": "ec28f9810a935ba6aee089d21823f4d907811cb83a5f92fa083088c1301de7f2"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/gonzague-saint-bris-cultural-center.md",
+      "bytes": 2898,
+      "sha256": "1b2af1c1ead6fcdf0b2348fb12e787f329ffd8555ebd5477586da62daa848bc6"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/healthcare-friendship-hospital-satkhira.md",
+      "bytes": 4067,
+      "sha256": "33142b29a0670a151ca5b6ff4980c827fb8f4fb2caa8a1b40e50f3b6959e2f33"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/healthcare-maggies-leeds.md",
+      "bytes": 3291,
+      "sha256": "003202251bbb098b4acfef27d3f03272ea1b0315ac97ba1277fb78f146472494"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/heritage-zeitz-mocaa.md",
+      "bytes": 4110,
+      "sha256": "ce26443cc2912a8eeec1a468fe01fb8b0cacc51f80c262354dda2335f7c611b3"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/highrise-torre-reforma.md",
+      "bytes": 4311,
+      "sha256": "3c424a2d164298f01eeed5029bf22a8fa999971ab32b338458cc9e9d7a92fd52"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/hotel-oasia-downtown.md",
+      "bytes": 3970,
+      "sha256": "78918ed60110f96a3ee06cef0f8861c8900762796a178e82e2f1a3d30174dbc6"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/hotel-stone-inside.md",
+      "bytes": 3544,
+      "sha256": "cba2abc77eb47e1c0c51a12b693063ac3f2ded3857441e7e619023d03ce4bd38"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/hotel-zhoushan-summer.md",
+      "bytes": 3522,
+      "sha256": "8f12aaddbb3c21408485d4f160a0e9894d42b0b334dbf2d2ee28ff736ca13ff7"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/housing-baiziwan-social-housing.md",
+      "bytes": 1973,
+      "sha256": "782c39165f0ecb9e830df56deafde8e3bee5e76bb7eaec8466f8a30395d3aa79"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/industrial-amager-resource-center.md",
+      "bytes": 2869,
+      "sha256": "8b4b9a78fb64c08bf3c8beca99bb9ac8656a540e7dbe3c9c4aa20b1b002b0b22"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/industrial-brick-kiln-lane.md",
+      "bytes": 2921,
+      "sha256": "4a55d798b1112f0eedbaa76b65ecaec7ecfdf0cf2486a126c55f77af34a13e70"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/industrial-hangzhou-loft49.md",
+      "bytes": 4103,
+      "sha256": "f2386227c905f0e15f7d987b6a36b5bf20af9b8c2d797324cdc1c7a8a5bd539e"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/industrial-sallares-deu.md",
+      "bytes": 3464,
+      "sha256": "1dea39dad4cce92c657fd1666a54ec00393b0f0c5bf683e89856d4177d32da0d"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/jingdezhen-imperial-kiln-museum.md",
+      "bytes": 4119,
+      "sha256": "e256f4620a3586f7909039e4463f55814db449e83698c97360b38e024547728b"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/jishou-art-museum.md",
+      "bytes": 4343,
+      "sha256": "f3120a533bb618e5cc5e2f0049c9651a7aa77b9e88b5315d6130b66295b04d4d"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/kindergarten-gaoliying.md",
+      "bytes": 3221,
+      "sha256": "a094f4d585f7e6d62a5b286b24c25f582b13d0246dd38953d4bf1d341191a63c"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/kindergarten-golden-bay.md",
+      "bytes": 3139,
+      "sha256": "ba7bde5576c74052b1143a9ace2ebc38ddef1193e49af01fe9428ebe064fa83c"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/kingston-university-town-house.md",
+      "bytes": 3911,
+      "sha256": "6046288fda3276e49ba88f36cd72fad8cbe5de7a92dfe8043b126886279a8c30"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/la-borda.md",
+      "bytes": 3926,
+      "sha256": "8bbc9aa9ac65234a09fd4f4bdd7c90b4b328227187754add82234b36e400339d"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/lcg-40-apartments-marseille.md",
+      "bytes": 3078,
+      "sha256": "21717d3b4ef91adda5b62a016c926544c78f48a2054f3fcfb6e6810df7eb65ad"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/learning-rolex-learning-center.md",
+      "bytes": 4546,
+      "sha256": "720f277e068884f82e983d6a3d79aac82381edafee15fa28bb788824a614974d"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/library-changan-academy.md",
+      "bytes": 3461,
+      "sha256": "5893f732518dfe15fe23aae6867c9dd2304a9e3dd4aa19e9fc9ca949c3a36bc2"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/library-liyuan.md",
+      "bytes": 4398,
+      "sha256": "e83d79be3e020803139299e9a19b6cd8775c8df2b522ec91b8f33738dc22c88b"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/library-nsfz-xiaozhuang.md",
+      "bytes": 4280,
+      "sha256": "708df432bfd896f7c184e2b23f2b9456175e01a9e88f71c3dc6e071eaf994e51"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/library-scut-e3.md",
+      "bytes": 3452,
+      "sha256": "15f57945be507a94bb335be4f085d6686579bc08d0660c4144ccd0ab758f5ac2"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/library-seattle-central.md",
+      "bytes": 4603,
+      "sha256": "cea22d2b150d662e2817ca0b5c61b380e99304bd7d46ff982fb3f498f5edc7e6"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/library-xingzhi-college.md",
+      "bytes": 3283,
+      "sha256": "c14c97b4f3f69ec2157b9a054101bec403d03d5440920aa120b3b7e11d6d4f35"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/long-museum-west-bund.md",
+      "bytes": 4423,
+      "sha256": "4742b6eae205697c435d26bfd71e7c44685f7e7561438cf958ee81243c622751"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/m-plus-museum.md",
+      "bytes": 4218,
+      "sha256": "7e677de91fdf015c122d8664516157200f331490b4fdd24a506c0ac00f788392"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/meca-cultural-center.md",
+      "bytes": 3180,
+      "sha256": "8069d3c1d11c8532e9377a1e0c897fa854766002207475a4cb64fc22660f2f91"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/medical-baix-ebre-clinic.md",
+      "bytes": 3740,
+      "sha256": "68dcd490bb5b0136ed6a36e787223cf0def4d43eede8c44273f56674e9be8ebe"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/memorial-fushouyuan-changzhou.md",
+      "bytes": 3369,
+      "sha256": "839bfd0dcaaa10e9ced71cdccefba486a1253d15f0151f0a2979dba4af6af1e2"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/mercado-groningen.md",
+      "bytes": 3482,
+      "sha256": "fcac3c7e0c0f678cb7d619a2ef5ec2ef254c6973d50579eb72133e9040d9edd1"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/mirador-residence.md",
+      "bytes": 3061,
+      "sha256": "8428d4dd4a1374550b1f3d0ecb2b7ba7716c1227e9a0199840ec2c97ec2ed1c2"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/mixed-use-8-house.md",
+      "bytes": 4276,
+      "sha256": "331c48a655d75df95875eb4fb4fc0976e3cb640e34916e80cdcb53a31a0cb7d7"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/mixed-use-glass-farm.md",
+      "bytes": 3663,
+      "sha256": "220bf5da4b4eee89aa1c1690ad6369fe8c9986270fc52e9a37154e0945e87dae"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/moca-yinchuan.md",
+      "bytes": 3803,
+      "sha256": "1939c4726aba1b11191167dc1a05636bcab88f2dc42cd3e917146773baa10f33"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/museum-centre-pompidou-metz.md",
+      "bytes": 4573,
+      "sha256": "2801c29e6cfaa7a86a92a5a205f3cbad4d9090c3ae5a84caf2193a7f41bef1a4"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/museum-dahecun-site.md",
+      "bytes": 24017,
+      "sha256": "3256531cf76a7eb6519bb07d341aa63775fc9b8a87d0330f685171914931eddd"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/museum-danish-maritime.md",
+      "bytes": 3365,
+      "sha256": "05215cdff690f2c184a4a67d2d0972dd3d5c2e979d64ac05e87f673445d29247"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/museum-daxinzhuang-site.md",
+      "bytes": 3803,
+      "sha256": "16d97528c36a415cd885e294371dea1986937769bb59ef82ac55bd57c16ac9ee"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/museum-gc-prostho.md",
+      "bytes": 4040,
+      "sha256": "148a0befbfef573feb82d7fce87410a4405b68dd0fad03f26ace6553706abaff"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/museum-m9-district.md",
+      "bytes": 2907,
+      "sha256": "25ebb681e576ab90edec4c77d94556eff7c50efcbdb2f802c4c1879020cba798"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/museum-menil-collection.md",
+      "bytes": 4406,
+      "sha256": "7dda81af60063a8725c4b0e5b273288289d5129514cf45398b24488570b6fcbb"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/museum-porcelain-source.md",
+      "bytes": 3819,
+      "sha256": "31844e851f5249964e63be19274a99f267e5664868ebce2e3b2556454ef8eecd"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/museum-prada-foundation.md",
+      "bytes": 3023,
+      "sha256": "5ca469a77949e294ee1a0984f5d15e69b7fd11fd87f531af2a753ee3156f5ae5"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/museum-qinling.md",
+      "bytes": 24131,
+      "sha256": "1058cb988b18e121cd7367ac8f37c1a50e8e253424b5c4543c939ff0a16c514d"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/museum-qintai-art-museum.md",
+      "bytes": 2030,
+      "sha256": "f45a478301708d6c7e98676dc1eb15a5a22b75d566d024f3cdff2d6e255969ac"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/museum-shede-culture.md",
+      "bytes": 4078,
+      "sha256": "c2ca163867d363c73c0d4d69b9a1df70a333c591cc9c9122bc391b1b01d6a926"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/museum-shunchang-museum.md",
+      "bytes": 2147,
+      "sha256": "b3efd96b70cb440b729128cde695b9c488cd4b0755b925d733bab1124a35b1d5"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/museum-vitra-schaudepot.md",
+      "bytes": 2576,
+      "sha256": "4727ef698360066c4e2bb25c7c705cfc48a9cb5ed14149b56270458692e9510f"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/museum-zayed-national.md",
+      "bytes": 2828,
+      "sha256": "b8687333bf7e3113fd251dd628ae18c242d1efc42545e047478591384f16c9b8"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/national-kaohsiung-center-arts.md",
+      "bytes": 4047,
+      "sha256": "a7353062eaa3bf69c5c5f8b6189403ab156c3dc92ca501b48e5d6cc5113cb8f5"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/new-munch-museum.md",
+      "bytes": 3877,
+      "sha256": "6ec86c71c0a257fcf8a36dfd96adf870b5447f7b37059d0660627725803fedae"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/office-luxelakes-floating-headquarters.md",
+      "bytes": 1967,
+      "sha256": "cfd101264bbe63f0c3a01720b1866445e246e5e3b8c7c5da63080943a3a7ae58"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/ofiice-sakurazaka.md",
+      "bytes": 2684,
+      "sha256": "a43f59dd54578df199e04cda6bbad5f8b7b1b7043b331f3a1b1f76d683d886b0"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/olivier-debre-contemporary-art-center.md",
+      "bytes": 3961,
+      "sha256": "d976e97afde1626fceaa5a6c6e8349f5ab0789277241f0259b95d0226685a46c"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/origine-office-building.md",
+      "bytes": 3295,
+      "sha256": "6c5d67bd5a22dd5624896c24bf493aa3c03f1fb9ffd6c39d733b00a27bf0d322"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/pavilion-serpentine-2013.md",
+      "bytes": 4036,
+      "sha256": "92e8d855c4404ed9949426308276ef09efe9f2dbac20cdd198dd9d05ad984e64"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/pavilion-serpentine-2017.md",
+      "bytes": 3444,
+      "sha256": "7cac8f44440166381cfd453cf24faba1ebb762d2671812ed74bb86ab1fab6fc2"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/performing-arts-albignasego.md",
+      "bytes": 2979,
+      "sha256": "6c8b88d479d60c6c6aaea9fc7deaec7f53632ef4bd31095a34fe3814f1c26d53"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/performing-arts-chongqing-electric.md",
+      "bytes": 3130,
+      "sha256": "986bff552ba3b49e56b89ec89cdfa4e8aa63b4e0e22d2401cfab12b53b0a6fd2"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/performing-arts-elbphilharmonie.md",
+      "bytes": 4136,
+      "sha256": "77070984b71e579aa4320ec9014bd2129eca5410c485f44937d0daba1f477efb"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/performing-arts-north-shore-auditorium.md",
+      "bytes": 3996,
+      "sha256": "1928cc5f9567efbaa6cfb0822341221c49d9ae6b3f798302d46dc15833045c95"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/pingshan-performing-arts-center.md",
+      "bytes": 4436,
+      "sha256": "25cc0a5b1d1fc6b4b3e96c2df2887a52d7686b119b99db670d12880c1e51696b"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/power-station-of-art.md",
+      "bytes": 4505,
+      "sha256": "46492822573428dfc24ae78efd5cccfdbd63ae4eb84d5a988583633bbac85951"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/religious-chapel-st-ignatius.md",
+      "bytes": 4499,
+      "sha256": "c1833f068b17fe45c1a0a51aefded4f1c3767a1850998397a35d8e2603d93d84"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/religious-sancaklar-mosque.md",
+      "bytes": 2613,
+      "sha256": "fe590d06e95e62175b21156c17e96cb0c06c9d597735f62232d00d0613b3cc17"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/restaurant-house-and-restaurant.md",
+      "bytes": 4193,
+      "sha256": "d7f50f2c3b7097516b3dac5898d2e5423fcc1ed5f18a532336bcb69092aec076"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/retail-gxg-wuhan.md",
+      "bytes": 2512,
+      "sha256": "45a593139125cf18048503dbe4a2d64f98272155dc2168830c4feaf9946206dc"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/retail-huawei-wangfujing.md",
+      "bytes": 3948,
+      "sha256": "d5ed5b671357a89e38087c6c734afb657af868261f3ff4e83e67c3ed0143d131"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/school-anna-pao-sohmen.md",
+      "bytes": 3376,
+      "sha256": "bde7f40e3274e21c2d6c4577687f240e6238f0b887963fff109b7c18f1a2e53d"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/school-basis-shenzhen-flagship-campus.md",
+      "bytes": 2311,
+      "sha256": "2449ff5d1087c5bf12919a5aa36cb9ffd4ce55cfbdd4f28ab4fe749c386d9608"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/school-beijing-eleven-creative.md",
+      "bytes": 23232,
+      "sha256": "0463f9ef3712f3cef0379e276ebd248335dfcf3b7936a57a58cefa441e56c40d"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/school-caa-liangzhu-campus.md",
+      "bytes": 4937,
+      "sha256": "f43badc6c84d1a76007563b52f472136a320d10bd1dc129d4ebd1ae8650da6f9"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/school-dongguan-dongcheng.md",
+      "bytes": 3001,
+      "sha256": "061dbdfe8ace2ed0a246f56ac3a1db7a7662efc350d57c56ff35ce263da7e85a"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/school-ningbo-tongdizhou.md",
+      "bytes": 3667,
+      "sha256": "8c7037d2141b9d7d1d46e0f2e5d47811a455c6bb7789b35dd4a9d727ec3f8d6d"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/school-sammontalo.md",
+      "bytes": 3568,
+      "sha256": "25de9418e8560efe309cb4ed9bef36be705854cc6a68fb22d8f18838754d5d2f"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/school-union-vida.md",
+      "bytes": 3219,
+      "sha256": "bf75ee5ed4bdcefa35682562b733a6f824d955c739f502724522bdd445a9c332"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/school-zhonggongmiao-baofeng.md",
+      "bytes": 4019,
+      "sha256": "c7fde745e6d29ee2e68aa82d95336fbbab6dceb72726ee934fb6b65fc25ca5fe"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/sesc-24-de-maio.md",
+      "bytes": 4150,
+      "sha256": "5b401cf7c4f7336a6b370db90aaa77b515f0bbb3148a8d47ce676129394da25f"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/shanghai-astronomy-museum.md",
+      "bytes": 4051,
+      "sha256": "86968f474ebdfd507b27af3cb496dde813ed686c27a5c5c74076ff36905c11cf"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/social-housing-8-house.md",
+      "bytes": 4023,
+      "sha256": "f0044bb7bed65f325f621895697e805c1f7b605d28f87a0364549afbf91b14dd"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/sports-culture-centre-copenhagen.md",
+      "bytes": 3345,
+      "sha256": "a549408f91c0cddf8bbab435a1c4a0866aa10fdad840bdc287f7460aaec23ea4"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/sports-dongan-lake.md",
+      "bytes": 3340,
+      "sha256": "39ec4851e6be72f4d9e41782ce6f4b746d85baa224e71e62781aa057ec619bef"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/sports-dongxihu-center.md",
+      "bytes": 3848,
+      "sha256": "b7a005dff83eed8142583e30d7f9175cd72af9862ba7bb1d1ecf14835f60c986"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/taipei-performing-arts-center.md",
+      "bytes": 4014,
+      "sha256": "0e7a78b376146f94b8b8c0e76c4f7718caa7da4820604a9c19a6cd9f65a7502c"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/tank-shanghai.md",
+      "bytes": 4727,
+      "sha256": "b697580675e104f6162b07178f494f7e92ca2a5730f6ef442cba63a90a731ab0"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/the-canyon-mission-rock.md",
+      "bytes": 3298,
+      "sha256": "bd1c5345a1235e95e284f84b609146e1421c748fa8acfaaf5412ba004b60b2b5"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/the-twist-museum.md",
+      "bytes": 3576,
+      "sha256": "a8d622e301fbab5ae5b7d1cc75815ac59c3c903907564c656c347721ea21d9c4"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/tianjin-binhai-library.md",
+      "bytes": 4436,
+      "sha256": "284afdb27e13a1b9871c89c7ecbf7d669fa718d7e9b2b4a8e6884acd803c3f54"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/transport-arnhem-central-transfer-terminal.md",
+      "bytes": 3403,
+      "sha256": "dbced83acdc9d7fed2ef5ce1a0fbb90c2be6578e4b7d6fd3e29520312382ef8d"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/transport-south-sanlin-station.md",
+      "bytes": 3607,
+      "sha256": "3c7d5f77c5ccd3b553b911f82bb1a420c97a5fbf32d6806538dda9e4e9257da3"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/ucca-dune-art-museum.md",
+      "bytes": 4599,
+      "sha256": "cd49be90614d3c17862aeb6da1bb1eedafecfb5e7e2b43da379dbd07f09ce050"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/university-kroon-hall.md",
+      "bytes": 3320,
+      "sha256": "8aae686c6d5efcaad2e594bc4546ea6021cd6a776ac586de96e303ef1ac3e83f"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/university-nus-sde4.md",
+      "bytes": 3694,
+      "sha256": "2289ba71f67030a7135f403c32e99cda26e64d41b3e6297cd4d7fed0a4e657c0"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/v-and-a-dundee.md",
+      "bytes": 3940,
+      "sha256": "40e294aa2cd94bd2829999c9ce804d6526987bcc49989f1b77976019de9e72a7"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/visitor-icefjord-centre.md",
+      "bytes": 2904,
+      "sha256": "beb13cfd9366ea52111ed181e28b96c5ca666733851c47acd7cf38b3f346a918"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/wellness-therme-vals.md",
+      "bytes": 4351,
+      "sha256": "6bb782133ad618513e8e58cd4f44dab87f5e81367f1a4fd2af883f81e62f54b1"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/west-village-basis-yard.md",
+      "bytes": 4911,
+      "sha256": "e3b6006e25f245ec2d852270f88d61478f475dc2bb8b3c14df860bc353dcb336"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/cases/xiadi-paddy-field-bookstore.md",
+      "bytes": 4540,
+      "sha256": "d7c49dfdbe08eea723ca7179152f290fdd302c875b48e8c9b2e4569da9a8ca84"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/index/cases.json",
+      "bytes": 190172,
+      "sha256": "debe39333fe943738936afc29b6e05d2cfbf879adab21097d55bb7c4cea061ed"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/index/semantic-sections.json",
+      "bytes": 25011692,
+      "sha256": "46995b98639b5f55cf7312eeae477dc47d4f8bc74f4429b7504760c73af1e250"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/ingestion/ingest_case.py",
+      "bytes": 1559,
+      "sha256": "272904d370d48312e56d2c7c9deb57327aaa4ac4bfe27ba03c8c2d0269df47b3"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/ingestion/normalize_case.py",
+      "bytes": 701,
+      "sha256": "1210ef0b5ddabf7075782f8da4461bffe4e08c2782a1c16f66775ec287df9cb2"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/ingestion/queue.jsonl",
+      "bytes": 146,
+      "sha256": "9fcd77f5419322122b4065b42f7633c385eaa2c426b360b5244fbd621ee7eb59"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/ingestion/README.md",
+      "bytes": 995,
+      "sha256": "acd99dd889989e021f9e3c13da6625da4abfe1c4e3559253cc0c99686255f71f"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/ontology/aliases.json",
+      "bytes": 1124,
+      "sha256": "71255b13df10ce97cc3f2111b2e454fed1be26d58c698836eb456285b213037a"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/ontology/tags.json",
+      "bytes": 3133,
+      "sha256": "0ae2518b1d09269e0004a2a6813111fe4330332dbfd7ce49047b7ed93e7871d7"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/README.md",
+      "bytes": 4798,
+      "sha256": "fe24778c4a5ecd390faa944f64155084612352e1f742d52281662d96ff545dc0"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/scripts/audit_case_quality.py",
+      "bytes": 2576,
+      "sha256": "8f7ab8110b44ea785e595bb6b0b0136547b1da2eafb9110f3997d88886320773"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/scripts/build_index.py",
+      "bytes": 10536,
+      "sha256": "f970a3f026a7c1d001be20d73686a67163c13de08e43a122989c6e3399ea7e50"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/scripts/build_semantic_index.py",
+      "bytes": 1890,
+      "sha256": "c7d0d8acc8bb672c107e962755be229eca0ea7468d739364ffa0287504b59c7b"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/scripts/enhance_tags.py",
+      "bytes": 2571,
+      "sha256": "3bc835688662948f81a98cf1b70112374380c47710f0d657eb27c989b2ae4dae"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/scripts/rerank_cases.py",
+      "bytes": 7888,
+      "sha256": "14249470a281926625548e369b812517b107af7465452c501e5b2c8db75f920a"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/scripts/search_cases.py",
+      "bytes": 26607,
+      "sha256": "97887a4dc3d12e177bf42732e2042ec3fb8a319fedeadd6177e7f25754c7368c"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/scripts/semantic_index.py",
+      "bytes": 11506,
+      "sha256": "42ff09a875e3681e7d597c4583701ac53911521d7f3010d13f4fd846b947d547"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/scripts/test_rag_tools.py",
+      "bytes": 23088,
+      "sha256": "3e2eacaa006ee16ffcf8e788a9729e137581d27cd2cc9869e65eb8e2884d5868"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/scripts/validate_case.py",
+      "bytes": 3236,
+      "sha256": "088320dff7ae0b2dcb458b66b0647c814d7d00e424090b1e8021c710f8bfb21a"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/sources/W1-gooood-sources.md",
+      "bytes": 8813,
+      "sha256": "6dabe7ed9a8805c381dd0180ada4590b38f982f0d8758506ca0f213826fa8b87"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/sources/W2-international-sources.md",
+      "bytes": 8650,
+      "sha256": "66a0da70b6521473e9b84cdc4d9f5cd9fd4d4c2714a165e0435ac8090dcffe2e"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/sources/W3-divisare-sources.md",
+      "bytes": 2596,
+      "sha256": "6c4bd15be0480498814d9ea0e885d2d5c5ba4f4d188e357daf502d284310fb28"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/sources/W4-cn-classic-sources.md",
+      "bytes": 4611,
+      "sha256": "386b23f0952830a971440e7d77aa4ab36cee8888057bdeca7d0a128bcd73598b"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/sources/W5-masters-sources.md",
+      "bytes": 3795,
+      "sha256": "152118ffa2a6975367bc7e19b7ee0802ef9850d39f5d78e13b2572d60b4ed60f"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/templates/case-template.md",
+      "bytes": 4169,
+      "sha256": "75d66d9ad6a27fc812389dce89c3af4e17e66c365e3ed6811792c373b33e48cd"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/templates/PROJECT_LOG_TEMPLATE.md",
+      "bytes": 3300,
+      "sha256": "a26994339bb21ac648d7b2855504fe2b0f8ad277e0ebdeffdee6d707b8b136a5"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/templates/PROJECT_TEMPLATE.md",
+      "bytes": 553,
+      "sha256": "ad4cb0f3332e5bb19a1a744d034ca66ced2003c7e34a5e6ad8f6e654b82eb91b"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/editable-delivery.md",
+      "bytes": 3175,
+      "sha256": "74daaa85ce3d50363534c1a81b7e571bd93bbc6f3eb623872ccffad5c13e2c4b"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/knowledge/design-knowledge.md",
+      "bytes": 598,
+      "sha256": "3b64641fb11839f3b3deb783124561f96e06070a1e773fb9fea7ca58c297d256"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/knowledge/README.md",
+      "bytes": 2603,
+      "sha256": "942e0c04922e5bf0e9a785e27a1709dc593feb5c52fe85a6f29845d6be9cb488"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/library.md",
+      "bytes": 4903,
+      "sha256": "ea22cd4c8ba84d5ec7ac4006210485328bbd8cd5d8c5bcddbb6561476d40c1bc"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/methods/building-code-check/guide.md",
+      "bytes": 15169,
+      "sha256": "2a4e5598839e7eab7181d7abbee730178796eff201ebb832b91fd765f69e4184"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/methods/concept-design/guide.md",
+      "bytes": 26387,
+      "sha256": "7bc603c4e72c9f63aba4b3cacca16dccf3e4d8282c779a11407f75b331cd3ba5"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/methods/drawing-standard/guide.md",
+      "bytes": 11169,
+      "sha256": "b02ad5966a3665a7c45b931b07155ebedee078e95225041ceb1f66cc02fcf6b6"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/methods/kindergarten-design/guide.md",
+      "bytes": 28803,
+      "sha256": "e9b4fbcff5954cb29515f75419dada0a247f7d437e4769a9bba5bbcd84e6327a"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/methods/museum-design/guide.md",
+      "bytes": 25036,
+      "sha256": "45acccb19e8e3eeae6116a47898f5b85f5fb0b81c21961174af252d49f84429c"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/methods/production-notes-concept-design.md",
+      "bytes": 3488,
+      "sha256": "fc8261efe735a224d0f323f50dc9df8247a2b9b819920d16826f3b503d7165ed"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/methods/production-notes-drawing-production.md",
+      "bytes": 2529,
+      "sha256": "36d950daafa79336d9a97452c52da84b76bea997aa323689bd5656f4ab55a5c9"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/methods/production-notes-presentation.md",
+      "bytes": 2701,
+      "sha256": "a1f5578bdfd076f27c2ec55041ee41e6e183e33f3fa8252d97c0a51a7ef14a95"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/methods/production-notes-visualization.md",
+      "bytes": 3703,
+      "sha256": "8f5e374510082482603493cf4450b299e02d1a1e278a8650edfcfa8d9b865d93"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/methods/render-fidelity/guide.md",
+      "bytes": 11597,
+      "sha256": "0ff89ded97bb856e975f3c06d7ccaa85c1230a9fef88a9875d0b41f2ad9252f6"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/methods/revit-expert/guide.md",
+      "bytes": 51200,
+      "sha256": "083acffc92853d504c07d7c72448e2703ba341122c1b97084548306d39123b62"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/methods/revit-expert/references/advanced-workflows.md",
+      "bytes": 28569,
+      "sha256": "00c65f054575ed2a77aa52f2c2ffe19692abf2e8218ef1fccf23c9d9066bcfad"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/methods/revit-expert/references/bim-competition-fastwork.md",
+      "bytes": 23903,
+      "sha256": "b084f9b61a3ab2d6f8a05252d9eefba01533fb2adaee8b85c7a77cb4f2d227fe"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/methods/revit-expert/references/fbx-export-render.md",
+      "bytes": 23894,
+      "sha256": "5c19c4024e18e5379731e0acc7c418cee6418f559d5b7cef8dec2fa7f4e5cf6e"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/methods/revit-expert/references/revit-mcp-patterns.md",
+      "bytes": 24490,
+      "sha256": "bc33706a5eb9fdaf8f95435bf45be3949a91fd9e16af06874e42cc7f1f2454a6"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/methods/revit-expert/references/revit-mcp-revit2021-validated.md",
+      "bytes": 5051,
+      "sha256": "2aeb8b6b174a161d657a4d522d4e4c9a15b64008a28efa53bdc93c0423b634ee"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/methods/revit-final-check/guide.md",
+      "bytes": 12721,
+      "sha256": "48c7d8d7a92d9527fa151c0b9abf99ae7bf6aa1066bbb500d3fb4faad7f0cc72"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/methods/revit-model-hardening/checklists/revit-hardening-checklist.csv",
+      "bytes": 4442,
+      "sha256": "120f4d10c006c12b5ab97a48db4662f0d6d649d35354ec62591b8188216a2058"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/methods/revit-model-hardening/guide.md",
+      "bytes": 10247,
+      "sha256": "d9c9324ad6fd010080138fb8e279d7129efd6a045caa10ff0a29f82207e050ef"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/methods/revit-model-hardening/references/graphic-hierarchy-revit.md",
+      "bytes": 8101,
+      "sha256": "f4695216090638ee397f2df577e975282b198d52a9630eb67c01cae3c57c7c73"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/methods/revit-model-hardening/references/revit-api-field-notes.md",
+      "bytes": 12307,
+      "sha256": "2513bfbd047ca5f7e5fd6ee2d2bccdfc0848eb025d4c976f91e83ef3e8605d82"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/methods/scheme-development/guide.md",
+      "bytes": 44745,
+      "sha256": "14b06f9fa19c56d7adea224ce7aff6c9b2fadfcaad771518b32cba458b72ee69"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/presentation.md",
+      "bytes": 6785,
+      "sha256": "f202a99715a79d0dff81966b35af44a51c6667402ae0670e64739324cba0e067"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/process/CONCEPT_WORKFLOW.md",
+      "bytes": 1107,
+      "sha256": "70cb9f4572a0ff01a5bbdc8a70e691815d22ea1ee56559605f823d5630542b34"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/process/FEEDBACK_WORKFLOW.md",
+      "bytes": 2813,
+      "sha256": "871b67d608bf3663bbb7feda28e3404fa1017e8645c501a131a0116dc124405b"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/process/GATE_B_PACKAGE.md",
+      "bytes": 7741,
+      "sha256": "fece3e88e55558f6ad355823f371674960bc1e754e4750b0b37b0f02bdaf9cb8"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/process/PIPELINE_WORKFLOW.md",
+      "bytes": 3048,
+      "sha256": "eb12e5e96d2fa9808d47aa87f9d9b9b2beeda75ab1cf298367c8cf84d3dd631f"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/process/SCHEME_DRAWING_REVIEW.md",
+      "bytes": 15039,
+      "sha256": "4e887d83665ff752980c3908c7d7c2f56e9c4eda08413409ae9081281d93eca2"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/production.md",
+      "bytes": 6527,
+      "sha256": "07ec361ffee146bf8a653eb6a92e74a3290f07f26b1e390a1b642affd7428cf2"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/project-state.md",
+      "bytes": 8365,
+      "sha256": "3576c515c3ea105cd1fef7cc5eed853af3f77b236ab230faacbee7a60ee72f9a"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/RAG.md",
+      "bytes": 7631,
+      "sha256": "d4a499ef7c69279917db94e35cf446a8d31dc91b3ad26e1a88aa93e3d51d7264"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/research/blender-upscale/blender-mcp-survey.md",
+      "bytes": 9915,
+      "sha256": "28ec09896a88b4c721ab2b3d3eba5566646c0e14ee6e51c270d48fecb0aa3d47"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/research/blender-upscale/upscaler-survey.md",
+      "bytes": 12104,
+      "sha256": "0aca87cadcb9af87876ab78f07902a4a733d18c5aeae6207cc7ddd69584765e2"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/research/building-codes/01-gb55016-fire.md",
+      "bytes": 16834,
+      "sha256": "4bda277bb9f8f5ced962b6e9e2ee6093a6abd83ebff1a9970504b8dc44b6f52e"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/research/building-codes/02-gb50352-general.md",
+      "bytes": 14142,
+      "sha256": "fd841afa24856e4a901701a786bf916ae89ca1d0c80653e69e6c67cf0c24cecb"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/research/building-codes/03-gb50763-accessibility.md",
+      "bytes": 14870,
+      "sha256": "cde690991c83244e4ddcfbd25212abd08c1f79be4fc1303a5a74a7e0560f3c9c"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/research/building-codes/04-sunlight.md",
+      "bytes": 12023,
+      "sha256": "51c879a4732336197804aef7dfb6287fb530d89805da73671bdca4e0994fd797"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/research/building-codes/05-museum.md",
+      "bytes": 13631,
+      "sha256": "ab29584dfcddd2feb25101caab34aaf5be94ab966c2953bbd4bce8b65153b28f"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/research/building-codes/06-kindergarten.md",
+      "bytes": 14088,
+      "sha256": "ee484d8c3fa63f001ff230ded3ef9f9e8cec371cbde81a578c385c0a28345666"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/research/building-codes/07-school.md",
+      "bytes": 14320,
+      "sha256": "c1721de7c7b59c621b116bc695f76737bc195e5362b4c908080d6c08b917f1d3"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/research/building-codes/08-library.md",
+      "bytes": 12619,
+      "sha256": "a378cd3c48cdfaa218301ef87b99c444d331b3085ad3dccb42e686de68b7608b"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/research/revit-materials/01-native-components.md",
+      "bytes": 11316,
+      "sha256": "f6b6dfcd1a9498b445308970d5d3ad6aaf80b319f73f04759662bc43902c6267"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/research/revit-materials/02-families.md",
+      "bytes": 10466,
+      "sha256": "79dbe0d320d5a9a38ed51bea838982437d1525b4ca9db1e5967bf3b8528ef1ce"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/research/revit-materials/03-groups-arrays.md",
+      "bytes": 10739,
+      "sha256": "721ea2c65aa7abff294b3bc8cba6c80135aa860bef8279e8c1c987a1cab5b907"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/research/revit-materials/04-view-templates.md",
+      "bytes": 8693,
+      "sha256": "0d91116e9d596e472e387edffc0e90b72278a4bb900f089c680ca88eccb8a84a"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/research/revit-materials/05-schedules.md",
+      "bytes": 8446,
+      "sha256": "f87f56948c9da07d94a116abaad79959187f80637629224d7135c98bd41e0381"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/research/revit-materials/06-sheets.md",
+      "bytes": 8545,
+      "sha256": "0b18884f0680ed5e82c619a4f1f657a7e65240a252fea270785e238f84e72b7c"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/research/revit-materials/07-bim-competition.md",
+      "bytes": 8004,
+      "sha256": "19751138cdd18208ed500c35c4ddc2044345c0543a404e84e507a0b661360d10"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/research/revit-materials/08-dynamo.md",
+      "bytes": 6758,
+      "sha256": "3d8d53d223c42564bb594d24754b1cb9f918108c166867c6ae3e5e55f66ff862"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/research/revit-materials/09-coursework.md",
+      "bytes": 7210,
+      "sha256": "858c4a2c512963dc6c75b6ae2a8d991797859724e02698d1763dffe40147d75e"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/research/revit-materials/10-pitfalls.md",
+      "bytes": 8561,
+      "sha256": "ff5566e3fdeee9b676c819067f0b23d4946e1d2defcb564a40d3349a4c524db7"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/resources.md",
+      "bytes": 5060,
+      "sha256": "7137850a3b0d6f7fcad5fb9ff0c12c1dd74628a4072d72fadb0606bba34c84c4"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/TOOLS.md",
+      "bytes": 3047,
+      "sha256": "e11a5f5a2ceafa7f9e803f2040c100e5f3f1c657e93bee5128cfad2d38d6eac3"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/verification.md",
+      "bytes": 7894,
+      "sha256": "2a0f646b8d00784dad990b676e949d327ad4f66a08cba3f6d04234781f368123"
+    },
+    {
+      "path": "skills/architecture-design-workflow/scripts/cases.py",
+      "bytes": 7214,
+      "sha256": "5b0baed01a9fd6bb1b579fa8b5c511915eab8c04ab2189e0724ed394e9aa0a17"
+    },
+    {
+      "path": "skills/architecture-design-workflow/scripts/check_layout.py",
+      "bytes": 7952,
+      "sha256": "38c8e5a9fd7e8bc7d5166083a874712a2b45518570fc0277a34876592ad95b7c"
+    },
+    {
+      "path": "skills/architecture-design-workflow/scripts/feedback.py",
+      "bytes": 23823,
+      "sha256": "43a5fbaa83de2fb86ba2e43208034e9670ab8fae03967cc50b296f1c4cdc40a5"
+    },
+    {
+      "path": "skills/architecture-design-workflow/scripts/project.py",
+      "bytes": 28206,
+      "sha256": "64684c6f1a82fba063bf4a0aff93fb34b98a18ff22a40dc0dddd536803b79c0c"
+    },
+    {
+      "path": "skills/architecture-design-workflow/scripts/resources.py",
+      "bytes": 7732,
+      "sha256": "f1346749c29c52ccdb1e3f7bf344b01bd75ba0ba9f9b218c0d5737760a37e29d"
+    },
+    {
+      "path": "skills/architecture-design-workflow/scripts/revit-mcp/scripts/smoke_revit_mcp.py",
+      "bytes": 3977,
+      "sha256": "ad9ae3253893af0bb53c2b40da89957fcc14a57b728520291b628a5d34722573"
+    },
+    {
+      "path": "skills/architecture-design-workflow/scripts/revit-mcp/scripts/test_smoke_revit_mcp.py",
+      "bytes": 1120,
+      "sha256": "926cef1842c57f317af40bb6d9f1f85986c645904735e4566aba1bd9dbddfe61"
+    },
+    {
+      "path": "skills/architecture-design-workflow/scripts/test_tools.py",
+      "bytes": 8270,
+      "sha256": "af3909629776e2e09e2022758a37a079514ca2ea6b6d551794f09f364e450efb"
+    },
+    {
+      "path": "skills/architecture-design-workflow/SKILL.md",
+      "bytes": 17286,
+      "sha256": "f3049f7770df1fe2682304f059789824dec223c9c5dcc53f0ef04f4277843897"
+    },
+    {
+      "path": "SUPPORT.md",
+      "bytes": 3009,
+      "sha256": "02cbda832436bda628f298a46dad9ab0100b8247e86a9d6de6655beaada6ffe9"
+    },
+    {
+      "path": "tests/test_delivery_gates.py",
+      "bytes": 22112,
+      "sha256": "345054c026b84087ef4d9ec97136e63a7b0053a674585aebe28dd2b336e683ef"
+    },
+    {
+      "path": "tests/test_feedback_loop.py",
+      "bytes": 19034,
+      "sha256": "6fd809ad780e0fb922817e97e0bc2b5938a39c5e2eeb831d2f2863e7cc0a0903"
+    },
+    {
+      "path": "tests/test_integration.py",
+      "bytes": 8427,
+      "sha256": "0bc30bffe1c188728cab6987145ff075ec1e1748dbd86fa39db6411c2c7f64b8"
+    },
+    {
+      "path": "tests/test_package.py",
+      "bytes": 1372,
+      "sha256": "d3112fea3d8092b2a3dcea9ee9d536306c02d26d916df50d95332f323a7e72f0"
+    },
+    {
+      "path": "tests/test_release.py",
+      "bytes": 7673,
+      "sha256": "df289f323842fa448e6554068b7bd62edb51c5359bae92b64c6d7ada1f4c044d"
+    }
+  ],
+  "excluded": [
+    "docs/open-source-audit.md",
+    "scripts/check_external_links.py",
+    "skills/architecture-design-workflow/assets/history/"
+  ],
+  "total_bytes": 26878302
+}

@@ -1,0 +1,6 @@
+interface:
+  display_name: "建筑设计与图纸制作"
+  short_description: "从任务和真实模型到原生图纸、案例驱动排版及可编辑交付的一体化制作流程"
+  default_prompt: "使用 $architecture-design-workflow，从当前项目的最新有效断点接续，完成本次授权的建筑设计、出图或排版任务。"
+policy:
+  allow_implicit_invocation: true

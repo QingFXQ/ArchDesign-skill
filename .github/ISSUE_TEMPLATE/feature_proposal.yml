@@ -1,0 +1,71 @@
+name: Feature Proposal
+description: 想要新能力、新检查或新流程。先说明场景，再说方案。
+title: "[feature] "
+labels: ["type:feature", "status:needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        好的提案先说清「在什么场景下卡住了」，再说「希望它变成什么样」。
+        如果只是想要某个案例的排法，请改用「知识贡献」表单。
+
+  - type: input
+    id: summary
+    attributes:
+      label: 一句话说明需求
+    validations:
+      required: true
+
+  - type: textarea
+    id: scenario
+    attributes:
+      label: 使用场景
+      description: 你在做什么任务、到哪一步、面向什么图纸或交付要求。
+    validations:
+      required: true
+
+  - type: textarea
+    id: limitation
+    attributes:
+      label: 目前遇到的限制
+      description: 现在是怎么绕过去的？绕过去花了多少额外步骤？
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 期望的改进
+      description: 描述期望的结果，不必先设计实现方式。
+    validations:
+      required: true
+
+  - type: dropdown
+    id: scope
+    attributes:
+      label: 影响范围
+      options:
+        - 通用能力，所有项目都受益（universal）
+        - 某个宿主软件相关（tool-specific）
+        - 某个操作系统或环境相关（environment-specific）
+        - 只对某一类课程或项目有用（project-specific）
+    validations:
+      required: true
+
+  - type: input
+    id: reference
+    attributes:
+      label: 参考项目、论文或实现
+      description: 有可对照的做法请给出链接，注明它解决的是不是同一个问题。
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: 提交前确认
+      options:
+        - label: 我搜索过现有 Issue 与文档，没有相同的提案
+          required: true
+        - label: 我理解提案需要维护者评估，不保证实现
+          required: true

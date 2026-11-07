@@ -1,0 +1,6073 @@
+[
+  {
+    "id": "603-tennessee-apartments",
+    "title": "603 Tennessee 公寓",
+    "architect": "Stanley Saitowitz | Natoma Architects",
+    "design_team": "记录建筑师：Stanley Saitowitz；工程：Strandberg Engineering；业主：Sol Properties LLC",
+    "year": 2022,
+    "location": "San Francisco, United States",
+    "area_m2": 24000,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "apartments",
+      "housing"
+    ],
+    "site": [
+      "urban-infill",
+      "hillside-city"
+    ],
+    "strategy": [
+      "urban-grid",
+      "repeating-bays"
+    ],
+    "problem": [
+      "urban-character",
+      "views"
+    ],
+    "quality": "★★",
+    "sources": [
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/986991/603-tennessee-apartments-stanley-saitowitz-natoma-architects",
+        "accessed": "2026-08-11"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://images.adsttc.com/media/images/62f3/fb68/c2ab/8301/70bb/29c8/large_jpg/603-tennessee-stanley-saitowitz-natoma-architects_1.jpg?1660156860"
+      }
+    ],
+    "summary": "以旧金山的网格山丘、海湾与山地远景，以及旧街道连续重复的 bay 节奏为集合住宅的城市语境。",
+    "path": "cases/603-tennessee-apartments.md"
+  },
+  {
+    "id": "alila-yangshuo",
+    "title": "阳朔糖舍酒店",
+    "architect": "直向建筑（Vector Architects）",
+    "design_team": null,
+    "year": 2017,
+    "location": "广西阳朔, 中国",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "mixed-use",
+      "cultural-center"
+    ],
+    "site": [
+      "waterfront",
+      "industrial-heritage",
+      "landscape"
+    ],
+    "strategy": [
+      "adaptive-reuse",
+      "landscape-orientation",
+      "courtyard"
+    ],
+    "problem": [
+      "heritage-conservation",
+      "landscape-response",
+      "cultural-memory"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/alila-yangshuo-china-by-vector-architects.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://oss.gooood.cn/uploads/2018/01/063-Alila-Yangshuo-China-by-Vector-Architects-960x719.jpg"
+      }
+    ],
+    "summary": "以老糖厂的工业骨架和喀斯特山水为双重遗产，通过保留、修复与克制的新建把酒店、公共活动和景观路径组织成旧与新的连续场所。",
+    "path": "cases/alila-yangshuo.md"
+  },
+  {
+    "id": "changsha-meixihu-culture-art-centre",
+    "title": "长沙梅溪湖国际文化艺术中心",
+    "architect": "Zaha Hadid Architects",
+    "design_team": "主创建筑师：Zaha Hadid、Patrik Schumacher；当地设计院：广州珠江外资建筑设计院；剧场声学顾问：Marshall Day Acoustics",
+    "year": 2019,
+    "location": "Changsha Shi, China",
+    "area_m2": 115000,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "cultural-center",
+      "museum",
+      "performing-arts"
+    ],
+    "site": [
+      "lakeside",
+      "urban-development"
+    ],
+    "strategy": [
+      "pedestrian-routes",
+      "courtyard"
+    ],
+    "problem": [
+      "program-integration",
+      "public-realm"
+    ],
+    "quality": "★★",
+    "sources": [
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/929645/changsha-meixihu-international-culture-and-art-centre-zaha-hadid-design",
+        "accessed": "2026-08-11"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://images.adsttc.com/media/images/5de7/d393/3312/fdcf/5500/01e2/large_jpg/02_ZHA_Changsha_©VirgileSimonBertrand.jpg?1575474057"
+      }
+    ],
+    "summary": "将当代艺术博物馆、1,800 座剧场与多功能厅集合为一处文化中心，并以步行路径定义其有机建筑语言。",
+    "path": "cases/changsha-meixihu-culture-art-centre.md"
+  },
+  {
+    "id": "china-design-museum",
+    "title": "中国国际设计博物馆",
+    "architect": "阿尔瓦罗·西扎 + Carlos Castanheira",
+    "design_team": "中国美术学院（业主/馆藏机构）",
+    "year": 2018,
+    "location": "浙江杭州, 中国",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "museum",
+      "education"
+    ],
+    "site": [
+      "campus",
+      "urban-development"
+    ],
+    "strategy": [
+      "courtyard",
+      "public-space",
+      "split-volumes"
+    ],
+    "problem": [
+      "campus-density",
+      "cultural-integration",
+      "public-access"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/china-design-museum-of-bauhaus-collection-by-alvaro-siza-carlos-castanheira.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://oss.gooood.cn/uploads/2021/07/022-china-design-museum-of-bauhaus-collection-by-alvaro-siza-carlos-castanheira-960x605.jpg"
+      }
+    ],
+    "summary": "为中国美术学院的大型设计藏品与包豪斯原作建立公共展示空间，以校园中的院落、体量分合和连续展览路径把收藏、研究、教学与公众到达结合起来。",
+    "path": "cases/china-design-museum.md"
+  },
+  {
+    "id": "civic-chengdu-floating-park-bridge",
+    "title": "成都交子人行桥（浮动公园桥）",
+    "architect": "中国建筑西南设计研究院有限公司",
+    "design_team": "桥梁结构：四川西南交大土木工程设计有限公司；景观深化及施工图：成都昱道景观设计有限公司",
+    "year": 2024,
+    "location": "四川成都交子公园金融商务区锦江, 中国",
+    "area_m2": null,
+    "site_area_m2": 12000,
+    "floors": "桥梁及桥面公园",
+    "building_height": null,
+    "type": [
+      "bridge",
+      "civic-infrastructure",
+      "public-space"
+    ],
+    "site": [
+      "waterfront",
+      "urban-development"
+    ],
+    "strategy": [
+      "pedestrian-connection",
+      "landscape-integration",
+      "public-space"
+    ],
+    "problem": [
+      "urban-connection",
+      "public-realm",
+      "landscape-response"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/en/chengdu-floating-park-bridge-by-china-southwest-architectural-design-and-research-institute-corp-ltd.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [],
+    "summary": "以九个可种树的“荷叶”桥盘和多孔桥面跨越120米锦江，将498米人行桥从交通构件转化为连接两岸绿带的浮动公园。",
+    "path": "cases/civic-chengdu-floating-park-bridge.md"
+  },
+  {
+    "id": "cloudscape-haikou",
+    "title": "海口云洞图书馆",
+    "architect": "MAD Architects",
+    "design_team": "照明顾问：Beijing Ning Field Lighting Design Corp. Ltd.；执行建筑师：华东建筑设计研究院（ArchDaily）",
+    "year": 2021,
+    "location": "Haikou, China",
+    "area_m2": 1380,
+    "site_area_m2": 4397,
+    "floors": "单层为主；含屋顶花园",
+    "building_height": null,
+    "type": [
+      "library",
+      "cultural-center"
+    ],
+    "site": [
+      "waterfront",
+      "park"
+    ],
+    "strategy": [
+      "monolithic-mass",
+      "landscape-integration",
+      "public-space"
+    ],
+    "problem": [
+      "indoor-outdoor",
+      "public-access",
+      "landscape-response"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/960593/the-cloudscape-of-haikou-mad-architects",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "analysis",
+        "url": "https://www.archdaily.com/960593/the-cloudscape-of-haikou-mad-architects"
+      },
+      {
+        "kind": "photo",
+        "url": "https://www.archdaily.com/960593/the-cloudscape-of-haikou-mad-architects"
+      }
+    ],
+    "summary": "在海口湾世纪公园以 1,380 m² 连续混凝土“云洞”容纳图书、公共服务和屋顶花园，通过洞口把滨海公园引入可自由使用的市民设施。",
+    "path": "cases/cloudscape-haikou.md"
+  },
+  {
+    "id": "community-haikou-citizen-tourist-center",
+    "title": "海口市民游客中心",
+    "architect": "中国建筑设计研究院有限公司本土设计研究中心",
+    "design_team": "资料未提供",
+    "year": 2022,
+    "location": "海南海口, 中国",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "community-center"
+    ],
+    "site": [
+      "waterfront",
+      "urban-development"
+    ],
+    "strategy": [
+      "public-space"
+    ],
+    "problem": [
+      "public-access",
+      "urban-identity"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/haikou-citizen-and-tourist-center-land-based-rationalism.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [],
+    "summary": "海口市民游客中心由中国建筑设计研究院本土设计研究中心设计，gooood 于 2022 年发布；本条保留市民与游客复合服务的项目属性，不补写未核实构造。",
+    "path": "cases/community-haikou-citizen-tourist-center.md"
+  },
+  {
+    "id": "community-lianhe-village",
+    "title": "联合村社区中心",
+    "architect": "合造社",
+    "design_team": "资料未提供",
+    "year": null,
+    "location": "四川攀枝花联合村, 中国",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "既有建筑拆建改建，具体层数资料未提供",
+    "building_height": null,
+    "type": [
+      "community-center"
+    ],
+    "site": [
+      "rural"
+    ],
+    "strategy": [
+      "adaptive-reuse"
+    ],
+    "problem": [
+      "rural-revitalization"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/a-new-community-center-of-lianhe-village-by-clab.htm",
+        "accessed": "2026-08-11"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://oss.gooood.cn/uploads/2024/12/001-a-new-community-center-of-lianhe-village-by-clab-960x640.jpg"
+      }
+    ],
+    "summary": "以旧村委会、小学校和晒谷场的“三栋一坝”为基础，重组厨房、地方博物馆、户外会客厅与图书馆，启动乡村公共生活。",
+    "path": "cases/community-lianhe-village.md"
+  },
+  {
+    "id": "community-luohu-library-youth-center",
+    "title": "罗湖一馆一中心",
+    "architect": "深圳华汇 + iDEA",
+    "design_team": "资料未提供",
+    "year": 2026,
+    "location": "广东深圳罗湖, 中国",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "community-center",
+      "library"
+    ],
+    "site": [
+      "urban-infill"
+    ],
+    "strategy": [
+      "vertical",
+      "public-space"
+    ],
+    "problem": [
+      "public-access",
+      "urban-identity"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/luohu-library-and-youth-activity-center-by-hhd-shenzhen-huahui-design-idea.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [],
+    "summary": "深圳罗湖一馆一中心由深圳华汇与 iDEA 设计，gooood 于 2026 年发布；项目页以“堆山叠城”概括图书馆与青少年活动中心的复合公共建筑。",
+    "path": "cases/community-luohu-library-youth-center.md"
+  },
+  {
+    "id": "community-nanjing-youjiawa",
+    "title": "南京压缩机厂保护与更新：尤家凹社区中心",
+    "architect": "东南大学建筑学院城市与建筑设计工作室",
+    "design_team": "资料未提供",
+    "year": 2019,
+    "location": "江苏南京, 中国",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "既有厂房更新，具体层数资料未提供",
+    "building_height": null,
+    "type": [
+      "community-center"
+    ],
+    "site": [
+      "industrial-heritage"
+    ],
+    "strategy": [
+      "adaptive-reuse"
+    ],
+    "problem": [
+      "heritage-conservation"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/conservation-and-renovation-of-nanjing-compressor-factory-youjiawa-residential-community-center-by-seu-arch-uag.htm",
+        "accessed": "2026-08-11"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://oss.gooood.cn/uploads/2025/05/001-conservation-and-renovation-of-nanjing-compressor-factory-youjiawa-residential-community-center-by-seu-arch-uag-960x719.jpg"
+      }
+    ],
+    "summary": "在被住区包围的二类工业遗产中，以安全、真实性与可逆性为原则植入社区服务、文体、医疗与养老功能。",
+    "path": "cases/community-nanjing-youjiawa.md"
+  },
+  {
+    "id": "community-qingpu-pinghe-sports-center",
+    "title": "上海青浦平和运动中心",
+    "architect": "OPEN建筑事务所",
+    "design_team": "资料未提供",
+    "year": 2021,
+    "location": "上海青浦, 中国",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "community"
+    ],
+    "site": [
+      "campus",
+      "suburban"
+    ],
+    "strategy": [
+      "public-space"
+    ],
+    "problem": [
+      "gathering",
+      "public-access"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/shanghai-qingpu-pinghe-sports-center-china-by-open-architecture.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [],
+    "summary": "OPEN 为上海青浦平和学校设置的运动中心；本条仅保留 gooood 项目页可核实的项目身份、地点与发布信息，空间细节待补充来源复核。",
+    "path": "cases/community-qingpu-pinghe-sports-center.md"
+  },
+  {
+    "id": "community-quzhou-sports-campus",
+    "title": "衢州体育场",
+    "architect": "MAD建筑事务所",
+    "design_team": "MAD 与景观、标识团队协作；完整顾问名单资料未提供",
+    "year": 2021,
+    "location": "浙江衢州, 中国",
+    "area_m2": null,
+    "site_area_m2": 700000,
+    "floors": "大部分配套功能位于覆土景观地面下；精确层数资料未提供",
+    "building_height": null,
+    "type": [
+      "community",
+      "cultural-center"
+    ],
+    "site": [
+      "park",
+      "urban-development"
+    ],
+    "strategy": [
+      "landscape-integration",
+      "underground",
+      "public-space"
+    ],
+    "problem": [
+      "public-access",
+      "landscape-response",
+      "gathering"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/quzhou-sports-campus-by-mad.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [],
+    "summary": "将 30,000 座体育场的看台、配套和技术空间压入覆土起伏之下，以可攀登的地景和开放入口把大型赛事设施转为全年可用的城市公共公园。",
+    "path": "cases/community-quzhou-sports-campus.md"
+  },
+  {
+    "id": "courtyard-school-mandal",
+    "title": "庭院学校",
+    "architect": "Manayan Architects",
+    "design_team": "资料未提供",
+    "year": 2024,
+    "location": "Mandal, India",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "两层（来源文字说明）",
+    "building_height": null,
+    "type": [
+      "school",
+      "education"
+    ],
+    "site": [
+      "rural",
+      "flood-prone"
+    ],
+    "strategy": [
+      "courtyard",
+      "stilted-structure",
+      "incremental-growth"
+    ],
+    "problem": [
+      "flood-resilience",
+      "community"
+    ],
+    "quality": "★★",
+    "sources": [
+      {
+        "name": "divisare",
+        "url": "https://divisare.com/projects/527912-manayan-architects-manthan-mevada-the-courtyard-school",
+        "accessed": "2026-08-11"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://images.divisare.com//images/c_limit,f_auto,h_2000,q_auto,w_3000/v1743429304/f44f3c3d-57c6-466e-b938-1f3419e2c960/manayan-architects-manthan-mevada-the-courtyard-school.jpg"
+      }
+    ],
+    "summary": "在季节性洪泛的村庄边缘，以架空的两层庭院学校应对洪水，并借混凝土网格支持按需增建教室。",
+    "path": "cases/courtyard-school-mandal.md"
+  },
+  {
+    "id": "cp-house-san-luis-potosi",
+    "title": "C.P. 住宅",
+    "architect": "JAA Architects",
+    "design_team": "摄影：César Belio",
+    "year": 2020,
+    "location": "San Luis Potosí, Mexico",
+    "area_m2": null,
+    "site_area_m2": 230,
+    "floors": "三层",
+    "building_height": null,
+    "type": [
+      "house"
+    ],
+    "site": [
+      "urban-infill",
+      "arid-climate"
+    ],
+    "strategy": [
+      "courtyard",
+      "split-volumes",
+      "inward-living"
+    ],
+    "problem": [
+      "privacy",
+      "solar-orientation"
+    ],
+    "quality": "★★",
+    "sources": [
+      {
+        "name": "divisare",
+        "url": "https://divisare.com/projects/443744-jaa-architects-cesar-belio-c-p-house",
+        "accessed": "2026-08-11"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://images.divisare.com//images/c_limit,f_auto,h_2000,q_auto,w_3000/v1623668366/nl61a1r9clonrkqdq69a/jaa-architects-cesar-belio-c-p-house.jpg"
+      }
+    ],
+    "summary": "在 230 m² 的城市地块上，以两侧体量和中央树庭院组织向内生活；盲街立面保护隐私并应对西晒，三层错置回应地形与退界。",
+    "path": "cases/cp-house-san-luis-potosi.md"
+  },
+  {
+    "id": "cultural-antuoshan",
+    "title": "安托山公共文化中心",
+    "architect": "HHD深圳华汇设计",
+    "design_team": "资料未提供",
+    "year": null,
+    "location": "广东深圳福田区安托山片区, 中国",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "垂直文化聚落，具体层数资料未提供",
+    "building_height": null,
+    "type": [
+      "cultural-center"
+    ],
+    "site": [
+      "brownfield"
+    ],
+    "strategy": [
+      "vertical"
+    ],
+    "problem": [
+      "urban-repair"
+    ],
+    "quality": "★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/antuoshan-public-cultural-center-by-hhd-shenzhen-huahui-design.htm",
+        "accessed": "2026-08-11"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://oss.gooood.cn/uploads/2026/03/01-Antuoshan-Public-Cultural-Center-by-HHD-Shenzhen-Huahui-Design-960x1440.jpg"
+      }
+    ],
+    "summary": "在采石留下的阶梯状“城市断层”中，以“山”般裙房和“林”般塔楼修补高密社区缺失的文化公共性。",
+    "path": "cases/cultural-antuoshan.md"
+  },
+  {
+    "id": "cultural-carmen-wurth-forum",
+    "title": "Carmen Würth Forum, Phase 2",
+    "architect": "David Chipperfield Architects",
+    "design_team": "资料未提供",
+    "year": 2020,
+    "location": "Künzelsau, Germany",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "cultural-center",
+      "gallery",
+      "performing-arts"
+    ],
+    "site": [
+      "landscape"
+    ],
+    "strategy": [
+      "underground",
+      "terrace"
+    ],
+    "problem": [
+      "landscape-response",
+      "program-integration"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "divisare",
+        "url": "https://divisare.com/projects/426987-david-chipperfield-architects-simon-menges-carmen-wurth-forum-phase-2",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://images.divisare.com//image/upload/c_fit,f_jpg,q_80,w_1200/v1593425559/iv2uxr7pwsc2lkdoorp6.jpg"
+      }
+    ],
+    "summary": "在既有音乐与活动空间旁扩建可持续开放的美术馆，以日光展厅、咖啡厅、前厅和玻璃观景室对接丘陵景观。",
+    "path": "cases/cultural-carmen-wurth-forum.md"
+  },
+  {
+    "id": "cultural-grace-farms",
+    "title": "Grace Farms River Building",
+    "architect": "SANAA",
+    "design_team": "景观：OLIN（来源说明）",
+    "year": 2015,
+    "location": "New Canaan, Connecticut, United States",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "cultural-center",
+      "library",
+      "performing-arts"
+    ],
+    "site": [
+      "landscape",
+      "park"
+    ],
+    "strategy": [
+      "landscape-integration",
+      "pedestrian-routes"
+    ],
+    "problem": [
+      "indoor-outdoor",
+      "landscape-response"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "divisare",
+        "url": "https://divisare.com/projects/302122-sanaa-kazuyo-sejima-ryue-nishizawa-iwan-baan-dean-kaufman-montse-zamorano-grace-farms",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://images.divisare.com//image/upload/c_fit,f_jpg,q_80,w_1200/v1446458273/sph0whhkptmvboiuwlii.jpg"
+      }
+    ],
+    "summary": "在 80 英亩自然保护地中，以连续“River”屋顶串接圣堂、图书馆、公共活动与体育设施，使建筑成为体验四季景观的路径。",
+    "path": "cases/cultural-grace-farms.md"
+  },
+  {
+    "id": "cultural-huangguoshu-scenic-visitor-center",
+    "title": "黄果树大瀑布、天星桥景区入口游客中心",
+    "architect": "中规院 + 清水爱派",
+    "design_team": "资料未提供",
+    "year": 2023,
+    "location": "贵州, 中国",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "cultural-center"
+    ],
+    "site": [
+      "landscape",
+      "rural"
+    ],
+    "strategy": [
+      "landscape-integration"
+    ],
+    "problem": [
+      "access",
+      "landscape-response"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/tourist-center-of-huangguoshu-scenic-area-by-caupdaepatsc.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [],
+    "summary": "贵州黄果树大瀑布、天星桥景区入口游客中心由中规院与清水爱派设计；gooood 于 2023 年发布，具体图纸与空间组织待补充核验。",
+    "path": "cases/cultural-huangguoshu-scenic-visitor-center.md"
+  },
+  {
+    "id": "cultural-jiaxing-hrnt",
+    "title": "嘉兴高铁新城文化中心",
+    "architect": "清华大学建筑设计研究院有限公司素朴工作室",
+    "design_team": "清华大学建筑设计研究院有限公司；北京雨人润科生态技术有限责任公司（景观）",
+    "year": 2025,
+    "location": "浙江嘉兴, 中国",
+    "area_m2": 26082.06,
+    "site_area_m2": 14412,
+    "floors": "地上三层（来源公开1F、2F、3F图）",
+    "building_height": null,
+    "type": [
+      "cultural-center"
+    ],
+    "site": [
+      "waterfront"
+    ],
+    "strategy": [
+      "terrace"
+    ],
+    "problem": [
+      "public-access"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/jiaxing-hrnt-cultural-center-by-sup-atelier-of-thad.htm",
+        "accessed": "2026-08-11"
+      }
+    ],
+    "images": [
+      {
+        "kind": "floor-plan",
+        "url": "https://oss.gooood.cn/uploads/2026/01/007-jiaxing-hrnt-cultural-center-by-sup-atelier-of-thad-960x640.jpg"
+      },
+      {
+        "kind": "photo",
+        "url": "https://oss.gooood.cn/uploads/2026/01/008-jiaxing-hrnt-cultural-center-by-sup-atelier-of-thad-960x640.jpg"
+      }
+    ],
+    "summary": "以可攀登的“山体台地”、全天开放的立体街道和光伏大屋面，把两面临水的文化中心转化为不阻水岸的城市客厅。",
+    "path": "cases/cultural-jiaxing-hrnt.md"
+  },
+  {
+    "id": "cultural-ponto-c",
+    "title": "Ponto C文化与创意中心",
+    "architect": "Galeria Gabinete",
+    "design_team": "Aproplan（景观）；InAcoustics（声学）",
+    "year": 2024,
+    "location": "佩纳菲耶尔, 葡萄牙",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "四层（-2、-1、0、1）",
+    "building_height": null,
+    "type": [
+      "cultural-center",
+      "performing-arts",
+      "exhibition"
+    ],
+    "site": [
+      "city-center",
+      "heritage"
+    ],
+    "strategy": [
+      "public-space",
+      "renovation",
+      "landscape-integration"
+    ],
+    "problem": [
+      "urban-connection",
+      "cultural-integration",
+      "gathering"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/ponto-c-cultura-e-criatividade-by-galeria-gabinete.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [],
+    "summary": "以新的广场入口、花园连接和独立技术货运系统，把原被分割的城市边缘转为文化活动与展演的公共正面。",
+    "path": "cases/cultural-ponto-c.md"
+  },
+  {
+    "id": "cultural-wadden-sea-center",
+    "title": "Wadden Sea Center",
+    "architect": "Dorte Mandrup",
+    "design_team": "资料未提供",
+    "year": 2017,
+    "location": "Vester Vedsted, Denmark",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "cultural-center",
+      "exhibition"
+    ],
+    "site": [
+      "landscape",
+      "waterfront"
+    ],
+    "strategy": [
+      "courtyard",
+      "landscape-integration"
+    ],
+    "problem": [
+      "landscape-response",
+      "cultural-integration"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "divisare",
+        "url": "https://divisare.com/projects/395006-dorte-mandrup-rasmus-hjortshoj-coast-wadden-sea-center",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://images.divisare.com//image/upload/c_fit,f_jpg,q_80,w_1200/v1536322870/u4pbujxx3cpdwdhe0g4n.jpg"
+      }
+    ],
+    "summary": "以四翼茅草建筑重释瓦登海沿岸农舍，在开阔湿地中组织面向自然教育的庇护庭院。",
+    "path": "cases/cultural-wadden-sea-center.md"
+  },
+  {
+    "id": "exhibition-kaizhou-music-valley",
+    "title": "凯州音乐山谷展览馆（人民渠水利文化中江纪念馆）",
+    "architect": "上海交通大学设计学院奥默默工作室",
+    "design_team": "资料未提供",
+    "year": null,
+    "location": "四川德阳凯州新城, 中国",
+    "area_m2": 2800,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "exhibition"
+    ],
+    "site": [
+      "park"
+    ],
+    "strategy": [
+      "landscape-integration"
+    ],
+    "problem": [
+      "cultural-memory"
+    ],
+    "quality": "★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/kaizhou-music-valley-exhibition-hall-by-aomo-studio-shanghai-jiao-tong-university.htm",
+        "accessed": "2026-08-11"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://oss.gooood.cn/uploads/2026/04/018-kaizhou-music-valley-exhibition-hall-by-aomo-studio-shanghai-jiao-tong-university-960x640.jpg"
+      }
+    ],
+    "summary": "以公园地形化建筑承载人民渠的水利工程与建设记忆，并作为音乐山谷文化产业园的启动区展示节点。",
+    "path": "cases/exhibition-kaizhou-music-valley.md"
+  },
+  {
+    "id": "fuzhou-strait-culture-art-centre",
+    "title": "福州海峡文化艺术中心",
+    "architect": "PES-Architects",
+    "design_team": "主创建筑师：Pekka Salminen；项目建筑师：Martin Lukasczyk 等（ArchDaily）",
+    "year": 2018,
+    "location": "Fuzhou, China",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "performing-arts",
+      "cultural-center"
+    ],
+    "site": [
+      "waterfront",
+      "urban-development"
+    ],
+    "strategy": [
+      "split-volumes",
+      "public-space",
+      "landscape-integration"
+    ],
+    "problem": [
+      "cultural-integration",
+      "gathering",
+      "urban-landmark"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/904225/the-fuzhou-strait-culture-and-art-centre-pes-architects",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "site-plan",
+        "url": "https://www.archdaily.com/904225/the-fuzhou-strait-culture-and-art-centre-pes-architects"
+      },
+      {
+        "kind": "floor-plan",
+        "url": "https://www.archdaily.com/904225/the-fuzhou-strait-culture-and-art-centre-pes-architects/5bc835d5f197cc6b22000312-the-fuzhou-strait-culture-and-art-centre-pes-architects-plan-terrace-level"
+      },
+      {
+        "kind": "section",
+        "url": "https://www.archdaily.com/904225/the-fuzhou-strait-culture-and-art-centre-pes-architects"
+      },
+      {
+        "kind": "photo",
+        "url": "https://www.archdaily.com/904225/the-fuzhou-strait-culture-and-art-centre-pes-architects"
+      }
+    ],
+    "summary": "以五个围绕公共广场布置的演艺与文化体量，结合竹、陶瓷等地方材料意象，在福州新区形成可被市民穿行和聚集的文化中心。",
+    "path": "cases/fuzhou-strait-culture-art-centre.md"
+  },
+  {
+    "id": "gallery-abby-kortrijk",
+    "title": "Abby Kortrijk艺术中心",
+    "architect": "Barozzi Veiga；Tab Architects",
+    "design_team": "资料未提供",
+    "year": 2025,
+    "location": "科特赖克, 比利时",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "设地下展厅",
+    "building_height": null,
+    "type": [
+      "gallery",
+      "museum",
+      "cultural-center"
+    ],
+    "site": [
+      "heritage",
+      "park",
+      "city-center"
+    ],
+    "strategy": [
+      "adaptive-reuse",
+      "courtyard",
+      "underground"
+    ],
+    "problem": [
+      "heritage-conservation",
+      "public-access",
+      "cultural-memory"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/abby-kortrijk-by-barozzi-veiga.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [],
+    "summary": "以修复修道院、恢复回廊庭院、增设地下白盒子展厅和深砖新亭，建立可免费进入的公园艺术之家。",
+    "path": "cases/gallery-abby-kortrijk.md"
+  },
+  {
+    "id": "gallery-hefei-art",
+    "title": "合肥美术馆",
+    "architect": "同济大学建筑设计研究院（集团）有限公司",
+    "design_team": "同济大学建筑设计研究院建筑设计四院",
+    "year": 2025,
+    "location": "安徽合肥政务区文博园, 中国",
+    "area_m2": 36000,
+    "site_area_m2": null,
+    "floors": "地下二层至地上四层及屋顶层",
+    "building_height": null,
+    "type": [
+      "gallery"
+    ],
+    "site": [
+      "waterfront"
+    ],
+    "strategy": [
+      "atrium"
+    ],
+    "problem": [
+      "urban-landmark"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/hefei-art-museum-by-tongji-architectural-design.htm",
+        "accessed": "2026-08-11"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://oss.gooood.cn/uploads/2026/01/022-Hefei-Art-museum-by-Tongji-Architectural-Design-960x719.jpg"
+      }
+    ],
+    "summary": "以面向巢湖的文化地标和铜画卷幕墙，将多层美术馆空间与地方水景意象并置。",
+    "path": "cases/gallery-hefei-art.md"
+  },
+  {
+    "id": "gallery-hepworth-wakefield",
+    "title": "The Hepworth Wakefield Gallery",
+    "architect": "David Chipperfield Architects",
+    "design_team": "资料未提供",
+    "year": 2011,
+    "location": "Wakefield, United Kingdom",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "gallery",
+      "museum"
+    ],
+    "site": [
+      "waterfront",
+      "urban-infill"
+    ],
+    "strategy": [
+      "monolithic-mass"
+    ],
+    "problem": [
+      "views",
+      "urban-regeneration"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "divisare",
+        "url": "https://divisare.com/projects/213438-david-chipperfield-architects-hufton-crow-hepworth-wakefield-gallery",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://images.divisare.com//image/upload/c_fit,f_jpg,q_80,w_1200/v1/project_images/3472496/Hepworth-Wakefield-001.jpg"
+      }
+    ],
+    "summary": "位于 Wakefield 的河岸艺术馆，以成组体量为 Barbara Hepworth 相关收藏与当代展览提供公共文化节点。",
+    "path": "cases/gallery-hepworth-wakefield.md"
+  },
+  {
+    "id": "gallery-taichung-green-museumbrary",
+    "title": "台中绿美图（台中市立美术馆与市立图书馆）",
+    "architect": "SANAA；刘培森建筑师事务所",
+    "design_team": "资料未提供",
+    "year": 2025,
+    "location": "台中, 中国台湾",
+    "area_m2": 57996,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "gallery",
+      "library",
+      "cultural-center"
+    ],
+    "site": [
+      "park"
+    ],
+    "strategy": [
+      "split-volumes",
+      "public-space",
+      "landscape-integration"
+    ],
+    "problem": [
+      "program-integration",
+      "public-access",
+      "landscape-response"
+    ],
+    "quality": "★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/taichung-art-museum-by-sanaa.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [],
+    "summary": "以八个连通的透明体量，把都会美术馆和市立图书馆置入中央公园，形成可渗透的文化复合体。",
+    "path": "cases/gallery-taichung-green-museumbrary.md"
+  },
+  {
+    "id": "gonzague-saint-bris-cultural-center",
+    "title": "Gonzague Saint Bris 社会文化中心",
+    "architect": "Lemoal Lemoal Architectes",
+    "design_team": "工程：SICRE；景观：Sneta",
+    "year": 2019,
+    "location": "Cabourg, France",
+    "area_m2": 532,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "cultural-center",
+      "community"
+    ],
+    "site": [
+      "urban-infill"
+    ],
+    "strategy": [
+      "public-plaza",
+      "pedestrian-connection"
+    ],
+    "problem": [
+      "access",
+      "urban-connection"
+    ],
+    "quality": "★★",
+    "sources": [
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/922449/gonzague-saint-bris-social-and-cultural-center-lemoal-lemoal-architectes",
+        "accessed": "2026-08-11"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://images.adsttc.com/media/images/5d48/f675/284d/d1ea/cd00/006a/large_jpg/Javier_Callejas_-_1706-2011e.jpg?1565062649"
+      }
+    ],
+    "summary": "以新公共广场和穿行步道，把原本远离街道流线的社会文化中心重新接入城市中心与北侧住宅区。",
+    "path": "cases/gonzague-saint-bris-cultural-center.md"
+  },
+  {
+    "id": "healthcare-friendship-hospital-satkhira",
+    "title": "萨特基拉友谊医院",
+    "architect": "Kashef Chowdhury/URBANA",
+    "design_team": "结构：Zayedur Rahim；机电：Zafar Ahmed；给排水：Prodip Kumar Haldar",
+    "year": 2018,
+    "location": "希亚姆纳格尔乌帕齐拉, 孟加拉国",
+    "area_m2": 3387,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "healthcare",
+      "hospital"
+    ],
+    "site": [
+      "rural",
+      "flood-prone"
+    ],
+    "strategy": [
+      "courtyard",
+      "water-management",
+      "climate-response"
+    ],
+    "problem": [
+      "flood-resilience",
+      "daylight-ventilation",
+      "healthcare-access"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/926305/friendship-hospital-satkhira-kashef-chowdhury-urbana",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "floor-plan",
+        "url": "https://images.adsttc.com/media/images/5d9f/2f42/284d/d134/0800/010c/medium_jpg/00._Drawing_Ground_Floor.jpg?1570713369"
+      },
+      {
+        "kind": "floor-plan",
+        "url": "https://images.adsttc.com/media/images/5d9f/2ee8/284d/d134/0800/010a/medium_jpg/00._Drawing_First_floor.jpg?1570713282"
+      },
+      {
+        "kind": "section",
+        "url": "https://images.adsttc.com/media/images/5d9f/2f5e/284d/d1ca/5000/0055/medium_jpg/00._Drawing_sectional_3d.jpg?1570713416"
+      }
+    ],
+    "summary": "在飓风影响的低洼乡村，以一条集雨水渠分开住院与门诊并串联庭院，将医疗流线、排水和被动降温合并为同一空间骨架。",
+    "path": "cases/healthcare-friendship-hospital-satkhira.md"
+  },
+  {
+    "id": "healthcare-maggies-leeds",
+    "title": "玛吉癌症关怀中心（利兹）",
+    "architect": "Heatherwick Studio",
+    "design_team": "资料未提供",
+    "year": 2020,
+    "location": "Harehills, 英国",
+    "area_m2": 462,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "healthcare",
+      "healthcare-center"
+    ],
+    "site": [
+      "campus",
+      "landscape"
+    ],
+    "strategy": [
+      "garden-integration",
+      "domestic-scale"
+    ],
+    "problem": [
+      "healing-environment",
+      "patient-support",
+      "indoor-outdoor"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/941540/maggies-leeds-centre-heatherwick-studio",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://www.archdaily.com/941540/maggies-leeds-centre-heatherwick-studio"
+      }
+    ],
+    "summary": "在医院园区内以 462 m² 的小尺度关怀中心与花园，提供脱离临床氛围的癌症患者及照护者支持空间。",
+    "path": "cases/healthcare-maggies-leeds.md"
+  },
+  {
+    "id": "heritage-zeitz-mocaa",
+    "title": "Zeitz 当代非洲艺术博物馆",
+    "architect": "Heatherwick Studio",
+    "design_team": "资料未提供",
+    "year": 2017,
+    "location": "开普敦, 南非",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "museum",
+      "heritage-adaptive-reuse",
+      "gallery"
+    ],
+    "site": [
+      "waterfront",
+      "industrial-heritage"
+    ],
+    "strategy": [
+      "adaptive-reuse",
+      "carved-atrium",
+      "public-interior"
+    ],
+    "problem": [
+      "heritage-conservation",
+      "museum-program",
+      "daylighting"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/879763/zeitz-museum-of-contemporary-art-africa-heatherwick-studio",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "floor-plan",
+        "url": "https://images.adsttc.com/media/images/59bc/1887/b22e/38ff/0100/0384/medium_jpg/776_COMMS_Plan_Ground_Floor.jpg?1505499265"
+      },
+      {
+        "kind": "floor-plan",
+        "url": "https://images.adsttc.com/media/images/59bc/187c/b22e/3813/9f00/0156/medium_jpg/776_COMMS_Plan_Basement.jpg?1505499255"
+      },
+      {
+        "kind": "elevation",
+        "url": "https://images.adsttc.com/media/images/59bc/1901/b22e/3813/9f00/015b/medium_jpg/776_COMMS_West_Elevation.jpg?1505499388"
+      }
+    ],
+    "summary": "将开普敦 V&A 滨水区废弃谷仓筒仓改为非洲及其侨民当代艺术博物馆，以从既有混凝土筒仓中雕刻出的中庭重新组织展览与公共空间。",
+    "path": "cases/heritage-zeitz-mocaa.md"
+  },
+  {
+    "id": "highrise-torre-reforma",
+    "title": "改革大道塔",
+    "architect": "LBR&A",
+    "design_team": "资料未提供",
+    "year": 2016,
+    "location": "墨西哥城, 墨西哥",
+    "area_m2": 87000,
+    "site_area_m2": 2800,
+    "floors": "资料未提供",
+    "building_height": "246 m",
+    "type": [
+      "highrise",
+      "office"
+    ],
+    "site": [
+      "urban-infill",
+      "city-center",
+      "heritage"
+    ],
+    "strategy": [
+      "vertical",
+      "structural-wall",
+      "heritage-integration"
+    ],
+    "problem": [
+      "compact-site",
+      "seismic-resilience",
+      "urban-landmark"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/792721/torre-reforma-lbr-plus-a",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "floor-plan",
+        "url": "https://images.adsttc.com/media/images/57a3/66c9/e58e/ce17/c800/002e/medium_jpg/PlantaBaja.jpg?1470326452"
+      },
+      {
+        "kind": "section",
+        "url": "https://images.adsttc.com/media/images/57a3/6736/e58e/ce17/c800/0030/medium_jpg/CorteGeneral.jpg?1470326559"
+      },
+      {
+        "kind": "elevation",
+        "url": "https://images.adsttc.com/media/images/57a3/671c/e58e/ce20/7600/0010/medium_jpg/FachadaEste.jpg?1470326532"
+      },
+      {
+        "kind": "analysis",
+        "url": "https://images.adsttc.com/media/images/57a3/64c3/e58e/ce20/7600/000d/medium_jpg/Torre_Reforma-_Diagramas_de_funcionamiento-001.jpg?1470325947"
+      }
+    ],
+    "summary": "在 2,800 m² 的狭小改革大道地块上，以两面混凝土结构墙、竖向功能簇和保留历史宅邸组织约 87,000 m² 的高层办公塔。",
+    "path": "cases/highrise-torre-reforma.md"
+  },
+  {
+    "id": "hotel-oasia-downtown",
+    "title": "Oasia 市中心酒店",
+    "architect": "WOHA",
+    "design_team": "资料未提供",
+    "year": 2016,
+    "location": "新加坡, 新加坡",
+    "area_m2": 19416,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "hotel",
+      "highrise"
+    ],
+    "site": [
+      "city-center",
+      "tropical-climate",
+      "urban-infill"
+    ],
+    "strategy": [
+      "vertical-gardens",
+      "sky-terrace",
+      "passive-design"
+    ],
+    "problem": [
+      "urban-density",
+      "tropical-climate",
+      "indoor-outdoor"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/800878/oasia-hotel-downtown-woha",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "floor-plan",
+        "url": "https://images.adsttc.com/media/images/5845/dfb8/e58e/ce10/1300/0052/medium_jpg/189X_Plan_1st_storey_Context-A3_000001.jpg?1480974257"
+      },
+      {
+        "kind": "floor-plan",
+        "url": "https://images.adsttc.com/media/images/5845/dfce/e58e/ce10/1300/0053/medium_jpg/189X_Plan_6th_Storey_Skyterrace_000001.jpg?1480974280"
+      },
+      {
+        "kind": "section",
+        "url": "https://images.adsttc.com/media/images/5845/e024/e58e/ceb5/1900/0161/medium_jpg/189X_Section_000001.jpg?1480974362"
+      }
+    ],
+    "summary": "在新加坡高密度 CBD 以红色网格、垂直绿化和多层空中露台，把 19,416 m² 酒店塔楼作为热带城市加密的原型。",
+    "path": "cases/hotel-oasia-downtown.md"
+  },
+  {
+    "id": "hotel-stone-inside",
+    "title": "怀抱石头的民宿",
+    "architect": "深建筑（Atelier Shen）",
+    "design_team": "沈元奎、刘龙、戴志文、张梦萌、王丽媛、王天娇",
+    "year": 2023,
+    "location": "河南郑州新密市尖山风景区杨家沟村, 中国",
+    "area_m2": 612,
+    "site_area_m2": null,
+    "floors": "原建筑为3层住宅",
+    "building_height": null,
+    "type": [
+      "hotel",
+      "hospitality"
+    ],
+    "site": [
+      "rural",
+      "landscape"
+    ],
+    "strategy": [
+      "renovation",
+      "landscape-integration",
+      "entrance"
+    ],
+    "problem": [
+      "indoor-outdoor",
+      "landscape-response",
+      "access"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/hotel-with-a-stone-inside-by-atelier-shen.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [],
+    "summary": "将杨家沟村一座普通三层住宅改造成612㎡民宿，以入口悬石和雨棚下灰空间，把在地岩石与到达体验转化为空间主角。",
+    "path": "cases/hotel-stone-inside.md"
+  },
+  {
+    "id": "hotel-zhoushan-summer",
+    "title": "舟山海街11号民宿酒店",
+    "architect": "MAT 超级建筑事务所",
+    "design_team": "唐康硕、张淼、王飞宇、张爽、方文静（实习）",
+    "year": 2019,
+    "location": "浙江舟山朱家尖岛, 中国",
+    "area_m2": 790,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "hotel",
+      "hospitality"
+    ],
+    "site": [
+      "waterfront",
+      "rural"
+    ],
+    "strategy": [
+      "renovation",
+      "courtyard",
+      "landscape-orientation"
+    ],
+    "problem": [
+      "views",
+      "indoor-outdoor",
+      "cultural-integration"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/zhoushan-summer-hotel-china-by-mat-office.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [],
+    "summary": "改造渔村既有民宿，以新增阳台、避让树木形成庭院和框景开口，使790㎡旅宿空间从单纯扩面积转向面海的日常体验。",
+    "path": "cases/hotel-zhoushan-summer.md"
+  },
+  {
+    "id": "housing-baiziwan-social-housing",
+    "title": "百子湾公租房",
+    "architect": "MAD建筑事务所",
+    "design_team": "资料未提供",
+    "year": 2021,
+    "location": "北京, 中国",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "housing",
+      "community"
+    ],
+    "site": [
+      "urban-development"
+    ],
+    "strategy": [
+      "public-space"
+    ],
+    "problem": [
+      "community",
+      "human-scale"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/baiziwan-social-housing-by-mad.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [],
+    "summary": "MAD 的百子湾公租房项目；项目页于 2021 年发布，当前只据来源记录其公共住房属性，未用未核实图面补写组织细节。",
+    "path": "cases/housing-baiziwan-social-housing.md"
+  },
+  {
+    "id": "industrial-amager-resource-center",
+    "title": "Amager Resource Center",
+    "architect": "BIG — Bjarke Ingels Group",
+    "design_team": "资料未提供",
+    "year": 2017,
+    "location": "Copenhagen, Denmark",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "industrial",
+      "recreation"
+    ],
+    "site": [
+      "urban-development"
+    ],
+    "strategy": [
+      "landscape-integration",
+      "public-space"
+    ],
+    "problem": [
+      "public-realm",
+      "urban-identity"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "divisare",
+        "url": "https://divisare.com/projects/385667-big-bjarke-ingels-group-aldo-amoretti-amager-resource-center",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://images.divisare.com//image/upload/c_fit,f_jpg,q_80,w_1200/v1526026065/sfz0peirqbv6iylu04mp.jpg"
+      }
+    ],
+    "summary": "将哥本哈根垃圾发电厂的屋顶转化为市民滑雪坡，把高性能工业设施与面向城市的日常休闲基础设施叠合。",
+    "path": "cases/industrial-amager-resource-center.md"
+  },
+  {
+    "id": "industrial-brick-kiln-lane",
+    "title": "砖窑里·西三旗砖窑工业遗址改造",
+    "architect": "MAT 超级建筑事务所",
+    "design_team": "资料未提供",
+    "year": null,
+    "location": "北京, 中国",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "industrial-heritage",
+      "adaptive-reuse",
+      "commercial"
+    ],
+    "site": [
+      "industrial-heritage",
+      "urban-infill"
+    ],
+    "strategy": [
+      "adaptive-reuse",
+      "renovation",
+      "public-space"
+    ],
+    "problem": [
+      "heritage-conservation",
+      "urban-regeneration",
+      "public-access"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/brick-kiln-lane-innovation-by-mat.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [],
+    "summary": "以砖窑工业遗址为更新对象，在保留工业记忆与导入新公共/商业使用之间重建可进入的街巷界面。",
+    "path": "cases/industrial-brick-kiln-lane.md"
+  },
+  {
+    "id": "industrial-hangzhou-loft49",
+    "title": "杭州 LOFT49 产业遗存更新",
+    "architect": "line+ 建筑事务所",
+    "design_team": "朱培栋；建筑：包旺涛、许涛等；室内：浙江安道设计股份有限公司；机电：杭州一子建筑工程技术有限公司",
+    "year": 2025,
+    "location": "浙江杭州, 中国",
+    "area_m2": 95901.45,
+    "site_area_m2": null,
+    "floors": "保留建筑与新增体量；具体层数资料未提供",
+    "building_height": null,
+    "type": [
+      "industrial-heritage",
+      "adaptive-reuse",
+      "commercial"
+    ],
+    "site": [
+      "industrial-heritage",
+      "waterfront",
+      "city-center"
+    ],
+    "strategy": [
+      "adaptive-reuse",
+      "pedestrian-connection",
+      "public-plaza",
+      "renovation"
+    ],
+    "problem": [
+      "urban-regeneration",
+      "heritage-conservation",
+      "public-realm"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/hangzhou-loft49-regeneration-by-line-studio.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [],
+    "summary": "以“城市金缮”重组被切碎的厂区，借三处广场、二层连桥和新旧体量的非均质分布，将产业遗存更新为开放创意园区。",
+    "path": "cases/industrial-hangzhou-loft49.md"
+  },
+  {
+    "id": "industrial-sallares-deu",
+    "title": "Sallarès Deu 工业遗产更新",
+    "architect": "JAAS",
+    "design_team": "Josep M. Julià、Albert Clèries、Jordi Gorgues、Manuel Julià；工程与可持续：Joan A. González Gou；结构：Jordi Oliveras Reder",
+    "year": null,
+    "location": "Sabadell, 西班牙",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "industrial-heritage",
+      "adaptive-reuse",
+      "civic-campus"
+    ],
+    "site": [
+      "industrial-heritage",
+      "city-center"
+    ],
+    "strategy": [
+      "adaptive-reuse",
+      "public-space",
+      "renovation"
+    ],
+    "problem": [
+      "heritage-conservation",
+      "urban-regeneration",
+      "public-access"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/sallares-deu-by-jaas.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [],
+    "summary": "将1920年的纺织工厂更新为开放市民教育园区，以保留工业结构、公共空间和新介入共同激活城市中心遗产。",
+    "path": "cases/industrial-sallares-deu.md"
+  },
+  {
+    "id": "jingdezhen-imperial-kiln-museum",
+    "title": "景德镇御窑博物馆",
+    "architect": "Studio Zhu-Pei",
+    "design_team": "业主：景德镇市文化广电新闻出版旅游局、景德镇陶瓷文化旅游集团；施工：中国建筑一局等（ArchDaily）",
+    "year": 2020,
+    "location": "Jingdezhen, China",
+    "area_m2": 10370,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "museum"
+    ],
+    "site": [
+      "heritage",
+      "urban-infill"
+    ],
+    "strategy": [
+      "courtyard",
+      "monolithic-mass",
+      "landscape-integration"
+    ],
+    "problem": [
+      "heritage-conservation",
+      "cultural-memory",
+      "indoor-outdoor"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/948083/jingdezhen-imperial-kiln-museum-studio-zhu-pei",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "site-plan",
+        "url": "https://www.archdaily.com/948083/jingdezhen-imperial-kiln-museum-studio-zhu-pei"
+      },
+      {
+        "kind": "floor-plan",
+        "url": "https://www.archdaily.com/948083/jingdezhen-imperial-kiln-museum-studio-zhu-pei"
+      },
+      {
+        "kind": "section",
+        "url": "https://www.archdaily.com/948083/jingdezhen-imperial-kiln-museum-studio-zhu-pei"
+      },
+      {
+        "kind": "photo",
+        "url": "https://www.archdaily.com/948083/jingdezhen-imperial-kiln-museum-studio-zhu-pei"
+      }
+    ],
+    "summary": "在御窑遗址周边以连续砖拱、庭院和下沉空间组织 10,370 m² 博物馆，使新的展览建筑与景德镇烧窑记忆并置。",
+    "path": "cases/jingdezhen-imperial-kiln-museum.md"
+  },
+  {
+    "id": "jishou-art-museum",
+    "title": "吉首美术馆",
+    "architect": "非常建筑",
+    "design_team": "张永和（主持建筑师）",
+    "year": 2019,
+    "location": "湖南吉首, 中国",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "双层桥式空间（来源叙述）",
+    "building_height": null,
+    "type": [
+      "museum",
+      "gallery"
+    ],
+    "site": [
+      "waterfront",
+      "city-center"
+    ],
+    "strategy": [
+      "pedestrian-connection",
+      "public-interface",
+      "vertical"
+    ],
+    "problem": [
+      "public-access",
+      "urban-connection",
+      "cultural-integration"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/jishou-art-museum-china-by-atelier-fcjz.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://oss.gooood.cn/uploads/2019/05/011-jishou-art-museum-china-by-atelier-fcjz-960x639.jpg"
+      }
+    ],
+    "summary": "将美术馆放到万溶江上并兼作步行桥，以“钢桥上的混凝土桥”同时容纳通行、临展和画廊，使文化设施嵌入古城居民的日常过河路径。",
+    "path": "cases/jishou-art-museum.md"
+  },
+  {
+    "id": "kindergarten-gaoliying",
+    "title": "北京顺义高丽营幼儿园",
+    "architect": "MAT超级建筑事务所",
+    "design_team": "资料未提供",
+    "year": null,
+    "location": "北京顺义区高丽营镇, 中国",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "kindergarten"
+    ],
+    "site": [
+      "suburban"
+    ],
+    "strategy": [
+      "courtyard"
+    ],
+    "problem": [
+      "play-learning"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/beijing-shunyi-gaoliying-kindergarten-by-mat-office.htm",
+        "accessed": "2026-08-11"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://oss.gooood.cn/uploads/2025/09/036-beijing-shunyi-gaoliying-kindergarten-by-mat-office-960x720.jpg"
+      }
+    ],
+    "summary": "以环形内院、螺旋动线和可奔跑屋顶，把六班幼儿园组织成通向天空的连续游戏阶梯。",
+    "path": "cases/kindergarten-gaoliying.md"
+  },
+  {
+    "id": "kindergarten-golden-bay",
+    "title": "金海湾幼儿园",
+    "architect": "NAN建筑事务所",
+    "design_team": "资料未提供",
+    "year": null,
+    "location": "重庆渝北区礼嘉, 中国",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "多层错叠，具体层数资料未提供",
+    "building_height": null,
+    "type": [
+      "kindergarten"
+    ],
+    "site": [
+      "waterfront"
+    ],
+    "strategy": [
+      "terrace"
+    ],
+    "problem": [
+      "compact-site"
+    ],
+    "quality": "★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/chonqing-golden-bay-kindergarten-by-nan-architects.htm",
+        "accessed": "2026-08-11"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://oss.gooood.cn/uploads/2025/09/a-2-960x687.jpg"
+      }
+    ],
+    "summary": "在紧凑的直角三角形江景地块中，借错叠退台为每层教学单元争取独立露台与“如在地面”的安全感。",
+    "path": "cases/kindergarten-golden-bay.md"
+  },
+  {
+    "id": "kingston-university-town-house",
+    "title": "金斯顿大学 Town House 教学楼",
+    "architect": "Grafton Architects",
+    "design_team": "资料未提供",
+    "year": 2020,
+    "location": "London, United Kingdom",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "多层教学楼；具体层数以图纸为准",
+    "building_height": null,
+    "type": [
+      "education",
+      "school"
+    ],
+    "site": [
+      "urban-infill",
+      "campus"
+    ],
+    "strategy": [
+      "public-space",
+      "atrium",
+      "vertical"
+    ],
+    "problem": [
+      "campus-density",
+      "gathering",
+      "program-integration"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/933169/kignston-university-town-house-grafton-architects",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "floor-plan",
+        "url": "https://www.archdaily.com/933169/kignston-university-town-house-grafton-architects/5e39b08f3312fdf104000187-kignston-university-town-house-grafton-architects-floor-plan"
+      },
+      {
+        "kind": "section",
+        "url": "https://www.archdaily.com/933169/kignston-university-town-house-grafton-architects"
+      },
+      {
+        "kind": "photo",
+        "url": "https://www.archdaily.com/933169/kignston-university-town-house-grafton-architects"
+      }
+    ],
+    "summary": "以贯穿多层的开放学习空间、露台和环绕式柱廊，把教学、舞蹈及自习等不同声学需求组织为可共享的大学“城市客厅”。",
+    "path": "cases/kingston-university-town-house.md"
+  },
+  {
+    "id": "la-borda",
+    "title": "La Borda 合作住宅",
+    "architect": "Lacol",
+    "design_team": "资料未提供",
+    "year": 2018,
+    "location": "Barcelona, Spain",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "housing",
+      "apartments"
+    ],
+    "site": [
+      "urban-infill",
+      "industrial-heritage"
+    ],
+    "strategy": [
+      "courtyard",
+      "inward-living",
+      "public-space"
+    ],
+    "problem": [
+      "community",
+      "privacy",
+      "daylight-ventilation"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/922184/la-borda-lacol",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "floor-plan",
+        "url": "https://www.archdaily.com/922184/la-borda-lacol"
+      },
+      {
+        "kind": "section",
+        "url": "https://www.archdaily.com/922184/la-borda-lacol/5d420e12284dd1dba30000ea-la-borda-lacol-section"
+      },
+      {
+        "kind": "elevation",
+        "url": "https://www.archdaily.com/922184/la-borda-lacol/5d420edc284dd1dba30000f0-la-borda-lacol-elevation"
+      },
+      {
+        "kind": "photo",
+        "url": "https://www.archdaily.com/922184/la-borda-lacol"
+      }
+    ],
+    "summary": "由住户组织的非投机合作住宅，以中央庭院、共享空间和可调适户型，在巴塞罗那 Can Batlló 工业区边缘平衡集体生活、采光通风与居住私密性。",
+    "path": "cases/la-borda.md"
+  },
+  {
+    "id": "lcg-40-apartments-marseille",
+    "title": "马赛 LCG 40 套公寓",
+    "architect": "PAN Architecture",
+    "design_team": "建筑设计：Jean-Luc Fugier、Mathieu Barbier Bouvet、Anne-Sophie Gloanec Chedeville；结构：Secmo；机电暖通：Garcia Ingenierie",
+    "year": 2021,
+    "location": "Marseille, France",
+    "area_m2": 2323,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "apartments",
+      "housing"
+    ],
+    "site": [
+      "suburban",
+      "landscape"
+    ],
+    "strategy": [
+      "landscape-orientation"
+    ],
+    "problem": [
+      "suburban-identity",
+      "views"
+    ],
+    "quality": "★★",
+    "sources": [
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/988314/lcg-40-apartments-in-marseille-pan-architecture",
+        "accessed": "2026-08-11"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://images.adsttc.com/media/images/6310/e358/641e/1301/6d38/29fb/large_jpg/lcg-40-apartments-in-marseille-pan-architecture_3.jpg?1662051180"
+      }
+    ],
+    "summary": "在由环岛、汽车、普通集合住宅与活动棚混杂的马赛外围，以面向西南海景和东北埃图瓦勒山丘的场地条件重建住宅项目的环境识别。",
+    "path": "cases/lcg-40-apartments-marseille.md"
+  },
+  {
+    "id": "learning-rolex-learning-center",
+    "title": "EPFL 劳力士学习中心",
+    "architect": "SANAA / 妹岛和世、西泽立卫",
+    "design_team": "SAPS（结构，来源页提及）",
+    "year": 2010,
+    "location": "洛桑, 瑞士",
+    "area_m2": 22000,
+    "site_area_m2": null,
+    "floors": "单层连续空间",
+    "building_height": null,
+    "type": [
+      "library",
+      "education"
+    ],
+    "site": [
+      "campus",
+      "landscape"
+    ],
+    "strategy": [
+      "landscape-integration",
+      "public-space",
+      "interface"
+    ],
+    "problem": [
+      "campus-density",
+      "indoor-outdoor",
+      "views"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/53536/rolex-learning-center-sanaa-by-iwan-baan",
+        "accessed": "2026-08-12"
+      },
+      {
+        "name": "archello",
+        "url": "https://archello.com/project/rolex-learning-center-2",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://www.archdaily.com/53536/rolex-learning-center-sanaa-by-iwan-baan"
+      },
+      {
+        "kind": "floor-plan",
+        "url": "https://www.archdaily.com/50235/rolex-learning-center-sanaa/rlc02"
+      }
+    ],
+    "summary": "以一张起伏且多孔的单层楼板组织图书馆与校园公共生活，学习重点是用高度变化而非实体隔墙划分开放空间。",
+    "path": "cases/learning-rolex-learning-center.md"
+  },
+  {
+    "id": "library-changan-academy",
+    "title": "长安书院（西安公共图书馆）",
+    "architect": "中国建筑西北设计研究院都市与建筑设计研究中心（建筑）；红山设计（室内）",
+    "design_team": "资料未提供",
+    "year": null,
+    "location": "陕西西安浐灞生态区灞河西岸, 中国",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "library"
+    ],
+    "site": [
+      "waterfront"
+    ],
+    "strategy": [
+      "public-interface"
+    ],
+    "problem": [
+      "human-scale"
+    ],
+    "quality": "★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/changan-academy-%c2%b7-xian-public-library-by-hong-designworks.htm",
+        "accessed": "2026-08-11"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://oss.gooood.cn/uploads/2026/07/003-changan-academy-%C2%B7-xian-public-library-by-hong-designworks-960x640.jpg"
+      }
+    ],
+    "summary": "以低伏、舒展的“反宇向阳”屋面和面向灞河的开放界面，减弱大型文化地标的距离感，使阅读、停留与交流回到人的尺度。",
+    "path": "cases/library-changan-academy.md"
+  },
+  {
+    "id": "library-liyuan",
+    "title": "篱苑书屋（Liyuan Library）",
+    "architect": "Li Xiaodong Atelier",
+    "design_team": "资料未提供",
+    "year": 2011,
+    "location": "Huairou, Beijing, China",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "两层（项目页平面图）",
+    "building_height": null,
+    "type": [
+      "library"
+    ],
+    "site": [
+      "rural",
+      "mountain",
+      "landscape"
+    ],
+    "strategy": [
+      "landscape-integration",
+      "terrace"
+    ],
+    "problem": [
+      "landscape-response",
+      "daylight-ventilation"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "divisare",
+        "url": "https://divisare.com/projects/212216-li-xiaodong-atelier-liyuan-library",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "floor-plan",
+        "url": "https://images.divisare.com//images/c_limit,f_auto,h_2000,q_auto,w_3000/v1/project_images/3447053/1st-floor-plan/li-xiaodong-atelier-liyuan-library.jpg"
+      },
+      {
+        "kind": "floor-plan",
+        "url": "https://images.divisare.com//images/c_limit,f_auto,h_2000,q_auto,w_3000/v1/project_images/3447058/2nd-floor-plan/li-xiaodong-atelier-liyuan-library.jpg"
+      },
+      {
+        "kind": "elevation",
+        "url": "https://images.divisare.com//images/c_limit,f_auto,h_2000,q_auto,w_3000/v1/project_images/3447063/East-and-north-elevation/li-xiaodong-atelier-liyuan-library.jpg"
+      },
+      {
+        "kind": "section",
+        "url": "https://images.divisare.com//images/c_limit,f_auto,h_2000,q_auto,w_3000/v1/project_images/3447068/Section-1-1/li-xiaodong-atelier-liyuan-library.jpg"
+      }
+    ],
+    "summary": "在怀柔山村外，以分层阅读地形、通透玻璃与当地柴枝表皮，把小型图书馆变成通往山景的安静阅读容器。",
+    "path": "cases/library-liyuan.md"
+  },
+  {
+    "id": "library-nsfz-xiaozhuang",
+    "title": "南京师范大学附属中学晓庄校区图书馆及校园",
+    "architect": "非常建筑（Atelier FCJZ）",
+    "design_team": "资料未提供",
+    "year": null,
+    "location": "江苏南京, 中国",
+    "area_m2": 94723,
+    "site_area_m2": 66700,
+    "floors": "高密度校园，具体层数资料未提供",
+    "building_height": null,
+    "type": [
+      "library",
+      "school"
+    ],
+    "site": [
+      "urban-infill"
+    ],
+    "strategy": [
+      "vertical"
+    ],
+    "problem": [
+      "campus-density"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/library-of-the-high-school-affiliated-to-nanjing-normal-university-xiaozhuang-campus-by-atelier-fcjz.htm",
+        "accessed": "2026-08-11"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://oss.gooood.cn/uploads/2025/12/002-LibraryofNSFZXiaozhuangCampus-960x720.jpg"
+      }
+    ],
+    "summary": "以抬高400米操场、Z字教学组团、五个半围合庭院和多层连廊，在高密校园中同时释放运动、教学和遗产景观的公共性。",
+    "path": "cases/library-nsfz-xiaozhuang.md"
+  },
+  {
+    "id": "library-scut-e3",
+    "title": "华南理工大学广州国际校区E3图书馆档案馆",
+    "architect": "华南理工大学建筑设计研究院有限公司",
+    "design_team": "资料未提供",
+    "year": 2025,
+    "location": "广州, 中国",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "library",
+      "education"
+    ],
+    "site": [
+      "campus",
+      "waterfront"
+    ],
+    "strategy": [
+      "monumental-plinth",
+      "atrium",
+      "landscape-integration"
+    ],
+    "problem": [
+      "program-integration",
+      "daylight-ventilation",
+      "solar-orientation"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/the-e3-plot-library-and-archives-by-architectural-design-and-research-institute-of-scut-co-ltd.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "floor-plan",
+        "url": "https://oss.gooood.cn/uploads/2025/12/006-E3Library-960x1602.jpg"
+      },
+      {
+        "kind": "floor-plan",
+        "url": "https://oss.gooood.cn/uploads/2025/12/011-E3Library-960x1314.jpg"
+      }
+    ],
+    "summary": "以覆土档案基座和抬升的开放阅览主体，将高校图书馆、档案馆与岭南气候适应策略整合为“知识之冠”。",
+    "path": "cases/library-scut-e3.md"
+  },
+  {
+    "id": "library-seattle-central",
+    "title": "西雅图中央图书馆",
+    "architect": "OMA + LMN",
+    "design_team": "Bruce Mau Design（平面与标识相关设计，来源页提及）",
+    "year": 2004,
+    "location": "西雅图, 美国",
+    "area_m2": 33700,
+    "site_area_m2": null,
+    "floors": null,
+    "building_height": null,
+    "type": [
+      "library"
+    ],
+    "site": [
+      "city-center",
+      "urban-infill"
+    ],
+    "strategy": [
+      "vertical",
+      "atrium",
+      "program-loop"
+    ],
+    "problem": [
+      "public-realm",
+      "program-integration",
+      "urban-landmark"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "oma",
+        "url": "https://www.oma.com/projects/seattle-central-library",
+        "accessed": "2026-08-12"
+      },
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/11651/seattle-central-library-oma-lmn",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "floor-plan",
+        "url": "https://www.archdaily.com/11651/seattle-central-library-oma-lmn/57219129e58ece9438000004-seattle-central-library-oma-lmn-plan-2"
+      },
+      {
+        "kind": "analysis",
+        "url": "https://www.oma.com/projects/seattle-central-library"
+      },
+      {
+        "kind": "photo",
+        "url": "https://www.archdaily.com/11651/seattle-central-library-oma-lmn"
+      }
+    ],
+    "summary": "将图书馆的稳定“平台”与可变“中间层”分开组织，并以连续书籍螺旋处理实体藏书增长。",
+    "path": "cases/library-seattle-central.md"
+  },
+  {
+    "id": "library-xingzhi-college",
+    "title": "浙江师范大学行知学院图书文化中心",
+    "architect": "中国联合工程有限公司",
+    "design_team": "资料未提供",
+    "year": 2025,
+    "location": "兰溪, 中国",
+    "area_m2": 33059.11,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "library",
+      "performing-arts",
+      "cultural-center"
+    ],
+    "site": [
+      "campus",
+      "waterfront"
+    ],
+    "strategy": [
+      "atrium",
+      "split-volumes",
+      "landscape-integration"
+    ],
+    "problem": [
+      "program-integration",
+      "cultural-integration",
+      "daylight-ventilation"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/the-library-and-cultural-center-of-xingzhi-college-zhejiang-normal-university.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [],
+    "summary": "以兰花叶脉意象组织三瓣体量和巨构中庭，将图书馆、展馆与演艺中心置于校园中央水体旁。",
+    "path": "cases/library-xingzhi-college.md"
+  },
+  {
+    "id": "long-museum-west-bund",
+    "title": "龙美术馆（西岸馆）",
+    "architect": "大舍建筑设计事务所",
+    "design_team": "柳亦春、陈屹峰（主持建筑师）",
+    "year": 2014,
+    "location": "上海徐汇, 中国",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "地上一层及地下一层展览空间（来源叙述）",
+    "building_height": null,
+    "type": [
+      "museum",
+      "gallery"
+    ],
+    "site": [
+      "waterfront",
+      "industrial-heritage"
+    ],
+    "strategy": [
+      "adaptive-reuse",
+      "program-loop",
+      "monolithic-mass"
+    ],
+    "problem": [
+      "cultural-memory",
+      "program-integration",
+      "urban-regeneration"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/long-museum-west-bund-deshaus.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://oss.gooood.cn/uploads/2014/09/_c_Gp7IEr0p1dn9UHKuMJYJxgNG4dfmDv_45sxaC-fACWRhi5LKR4lphuGTma1IZ-AFxSfydINbh07uliIDkiRhbSCF7KHMoH94.jpg"
+      }
+    ],
+    "summary": "将既有煤料斗卸载桥和已建车库转化为美术馆的结构前提，以独立剪力墙与“伞拱”覆盖形成地上流动展厅、地下白盒子和螺旋阶梯相连的时间性展览空间。",
+    "path": "cases/long-museum-west-bund.md"
+  },
+  {
+    "id": "m-plus-museum",
+    "title": "香港 M+ 博物馆",
+    "architect": "TFP Farrells + Herzog & de Meuron + Arup",
+    "design_team": "建筑师：Herzog & de Meuron、TFP Farrells、Arup（ArchDaily）",
+    "year": 2021,
+    "location": "Hong Kong, China",
+    "area_m2": 65000,
+    "site_area_m2": null,
+    "floors": "地下展览基座与地上塔状体量；具体层数资料未提供",
+    "building_height": null,
+    "type": [
+      "museum",
+      "exhibition",
+      "cultural-center"
+    ],
+    "site": [
+      "waterfront",
+      "urban-development"
+    ],
+    "strategy": [
+      "vertical",
+      "public-space",
+      "underground"
+    ],
+    "problem": [
+      "program-integration",
+      "public-access",
+      "urban-landmark"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/958496/m-plus-museum-herzog-and-de-meuron-plus-tfp-farrells-plus-arup",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "site-plan",
+        "url": "https://www.archdaily.com/958496/m-plus-museum-herzog-and-de-meuron-plus-tfp-farrells-plus-arup"
+      },
+      {
+        "kind": "floor-plan",
+        "url": "https://www.archdaily.com/958496/m-plus-museum-herzog-and-de-meuron-plus-tfp-farrells-plus-arup"
+      },
+      {
+        "kind": "section",
+        "url": "https://www.archdaily.com/958496/m-plus-museum-herzog-and-de-meuron-plus-tfp-farrells-plus-arup"
+      },
+      {
+        "kind": "photo",
+        "url": "https://www.archdaily.com/958496/m-plus-museum-herzog-and-de-meuron-plus-tfp-farrells-plus-arup"
+      }
+    ],
+    "summary": "在西九文化区把地下铁路和大体量展览需求转化为 65,000 m² 的基座—塔楼组合，以公共论坛、可变展览空间和面向维港的城市界面组织视觉文化博物馆。",
+    "path": "cases/m-plus-museum.md"
+  },
+  {
+    "id": "meca-cultural-center",
+    "title": "MÉCA 新阿基坦创意经济与文化之家",
+    "architect": "Bjarke Ingels Group (BIG)",
+    "design_team": "项目负责人：Laurent de Carnière、Marie Lancon、Gabrielle Nadeau；制造商：Reynaers Aluminium",
+    "year": 2019,
+    "location": "Bordeaux, France",
+    "area_m2": 18000,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "cultural-center"
+    ],
+    "site": [
+      "waterfront",
+      "urban-infill"
+    ],
+    "strategy": [
+      "public-space",
+      "program-loop"
+    ],
+    "problem": [
+      "urban-connection",
+      "cultural-integration"
+    ],
+    "quality": "★★",
+    "sources": [
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/920341/meca-cultural-center-big",
+        "accessed": "2026-08-11"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://images.adsttc.com/media/images/5d1c/ff97/284d/d145/ba00/00bc/large_jpg/02_MECA_Image-by-Laurian-Ghinitoiu.jpg?1562181429"
+      }
+    ],
+    "summary": "在加龙河与圣让火车站之间，将三个地区艺术机构汇集成环，并把滨水公共空间延伸至城市的新公共客厅。",
+    "path": "cases/meca-cultural-center.md"
+  },
+  {
+    "id": "medical-baix-ebre-clinic",
+    "title": "Baix Ebre 医疗诊所",
+    "architect": "Vora Arquitectura",
+    "design_team": "eva cotman、jordi palà；结构：Manuel Arguijo y Asociados；机电：AIA",
+    "year": 2009,
+    "location": "Paüls, 西班牙",
+    "area_m2": 185,
+    "site_area_m2": null,
+    "floors": "地上1层，设地下服务空间",
+    "building_height": null,
+    "type": [
+      "medical",
+      "clinic"
+    ],
+    "site": [
+      "rural",
+      "landscape"
+    ],
+    "strategy": [
+      "courtyard",
+      "landscape-orientation"
+    ],
+    "problem": [
+      "daylight-ventilation",
+      "views",
+      "access"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/baix-ebre-doctor-surgery-by-vora-arquitectura.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [],
+    "summary": "用门廊—挑高候诊厅—低矮诊疗区的剖面序列，把小型乡村诊所的候诊焦虑转化为面向山景的安静体验。",
+    "path": "cases/medical-baix-ebre-clinic.md"
+  },
+  {
+    "id": "memorial-fushouyuan-changzhou",
+    "title": "福寿园常州纪念堂",
+    "architect": "艺瓦建筑（EVA ARCHITECTS）",
+    "design_team": "王垣、李岑、林伟军、何可人；智能设备顾问：上海建迈信息科技发展有限公司",
+    "year": 2024,
+    "location": "江苏常州市钟楼区桂花路14号, 中国",
+    "area_m2": 3500,
+    "site_area_m2": null,
+    "floors": "3层",
+    "building_height": null,
+    "type": [
+      "memorial",
+      "funeral"
+    ],
+    "site": [
+      "urban-infill"
+    ],
+    "strategy": [
+      "program-loop",
+      "public-space"
+    ],
+    "problem": [
+      "cultural-memory",
+      "gathering",
+      "access"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/fushouyuan-changzhou-memorial-hall-by-eva-architects.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [],
+    "summary": "通过三层平面和首层流线组织纪念、告别与数字展示空间，使殡仪建筑在仪式秩序中保留可停留与缅怀的界面。",
+    "path": "cases/memorial-fushouyuan-changzhou.md"
+  },
+  {
+    "id": "mercado-groningen",
+    "title": "格罗宁根 Mercado",
+    "architect": "De Zwarte Hond + Loer Architecten",
+    "design_team": "项目与 Rode Weeshuisstraat 城市设计由两事务所协作完成；开发商：MWPO、Beauvast；施工：Plegt-Vos",
+    "year": 2023,
+    "location": "Groningen, The Netherlands",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "mixed-use",
+      "apartments",
+      "retail"
+    ],
+    "site": [
+      "urban-infill",
+      "city-center"
+    ],
+    "strategy": [
+      "monumental-plinth",
+      "pedestrian-public-realm"
+    ],
+    "problem": [
+      "urban-regeneration",
+      "pedestrian-priority"
+    ],
+    "quality": "★★",
+    "sources": [
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/1010031/mercado-in-groningen-de-zwarte-hond-plus-loer-architecten",
+        "accessed": "2026-08-11"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://images.adsttc.com/media/images/655c/cefb/781a/6901/7c34/e59f/large_jpg/mercado-in-groningen-de-zwarte-hond-plus-loer-architecten_8.jpg?1700581131"
+      }
+    ],
+    "summary": "以纪念性商业基座承托 41 套可持续公寓，并与新 Stalplein 和 Rode Weeshuisstraat 更新共同推动以步行与相遇为核心的城市中心北部转型。",
+    "path": "cases/mercado-groningen.md"
+  },
+  {
+    "id": "mirador-residence",
+    "title": "Mirador 住宅",
+    "architect": "SHROFFLEóN",
+    "design_team": "设计与实施：Kayzad Shroff、Maria Leon、Namita Chandrashekar、Aadita Vyas、Hitanshi Mehta",
+    "year": 2020,
+    "location": "Karjat, India",
+    "area_m2": 3450,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "house"
+    ],
+    "site": [
+      "rural",
+      "farmland"
+    ],
+    "strategy": [
+      "monolithic-mass",
+      "material-weathering"
+    ],
+    "problem": [
+      "retreat",
+      "landscape-response"
+    ],
+    "quality": "★★",
+    "sources": [
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/969777/mirador-residence-shroffleon",
+        "accessed": "2026-08-11"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://images.adsttc.com/media/images/615f/413f/1248/3401/6477/baed/large_jpg/fi-1-2.jpg?1633632592"
+      }
+    ],
+    "summary": "一座位于卡尔贾特 3.5 英亩农地的单体农舍，以裸露材料和可风化的形象回应荒野环境与家庭的离城休憩需求。",
+    "path": "cases/mirador-residence.md"
+  },
+  {
+    "id": "mixed-use-8-house",
+    "title": "8 House（8 字住宅）",
+    "architect": "BIG / Bjarke Ingels Group",
+    "design_team": null,
+    "year": 2010,
+    "location": "厄勒斯塔德, 哥本哈根, 丹麦",
+    "area_m2": 61000,
+    "site_area_m2": null,
+    "floors": "最高约 10 层；屋顶步道资料称至第 10 层",
+    "building_height": null,
+    "type": [
+      "housing",
+      "mixed-use",
+      "retail",
+      "office"
+    ],
+    "site": [
+      "suburban",
+      "urban-development"
+    ],
+    "strategy": [
+      "program-loop",
+      "pedestrian-routes",
+      "terrace",
+      "public-space"
+    ],
+    "problem": [
+      "mixed-use",
+      "daylight-ventilation",
+      "pedestrian-priority"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "dezeen",
+        "url": "https://www.dezeen.com/2010/10/22/8-house-by-big-2/",
+        "accessed": "2026-08-12"
+      },
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/63464/in-progress-8-house-big",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://www.dezeen.com/2010/10/22/8-house-by-big-2/"
+      },
+      {
+        "kind": "analysis",
+        "url": "https://www.designboom.com/architecture/big-architects-8-house-under-construction/"
+      }
+    ],
+    "summary": "以“8”字围合、连续坡道和水平混合功能，把郊区大体量住宅转成可步行抵达的三维街区。",
+    "path": "cases/mixed-use-8-house.md"
+  },
+  {
+    "id": "mixed-use-glass-farm",
+    "title": "玻璃农场",
+    "architect": "MVRDV",
+    "design_team": "Frank van der Salm（影像拼贴）",
+    "year": 2013,
+    "location": "斯海恩德尔, 荷兰",
+    "area_m2": 1600,
+    "site_area_m2": null,
+    "floors": null,
+    "building_height": null,
+    "type": [
+      "mixed-use",
+      "retail"
+    ],
+    "site": [
+      "urban-infill",
+      "heritage"
+    ],
+    "strategy": [
+      "urban-repair",
+      "public-interface",
+      "monolithic-mass"
+    ],
+    "problem": [
+      "urban-repair",
+      "suburban-identity",
+      "cultural-memory"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/321503/glass-farm-mvrdv-2",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "analysis",
+        "url": "https://www.archdaily.com/321503/glass-farm-mvrdv-2/50fb70e1b3fc4b068c000012-glass-farm-mvrdv-2-diagram"
+      },
+      {
+        "kind": "photo",
+        "url": "https://www.archdaily.com/321503/glass-farm-mvrdv-2"
+      }
+    ],
+    "summary": "以被放大并印在玻璃上的“平均农舍”填补战后失落的村镇广场，将地方记忆转译为公共商业容器。",
+    "path": "cases/mixed-use-glass-farm.md"
+  },
+  {
+    "id": "moca-yinchuan",
+    "title": "银川当代美术馆",
+    "architect": "waa未觉建筑",
+    "design_team": null,
+    "year": 2015,
+    "location": "宁夏银川, 中国",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "museum",
+      "gallery"
+    ],
+    "site": [
+      "landscape",
+      "waterfront"
+    ],
+    "strategy": [
+      "landscape-orientation",
+      "monolithic-mass",
+      "public-space"
+    ],
+    "problem": [
+      "urban-identity",
+      "landscape-response",
+      "public-access"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/moca-yinchuan-by-waa.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://oss.gooood.cn/uploads/2015/08/e209c504308980d2f7a05da19e24c9e8.jpg"
+      }
+    ],
+    "summary": "以黄河冲积地貌的层理意象塑造西北大型当代艺术馆的折叠外壳和内部公共展览空间，在城市发展区与自然地景之间建立可辨识的文化节点。",
+    "path": "cases/moca-yinchuan.md"
+  },
+  {
+    "id": "museum-centre-pompidou-metz",
+    "title": "蓬皮杜中心梅斯分馆",
+    "architect": "Shigeru Ban Architects + Jean de Gastines",
+    "design_team": "Cecil Balmond（结构概念，公开报道提及）",
+    "year": 2010,
+    "location": "梅斯, 法国",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": null,
+    "building_height": null,
+    "type": [
+      "museum",
+      "exhibition"
+    ],
+    "site": [
+      "urban-development"
+    ],
+    "strategy": [
+      "large-roof",
+      "split-volumes",
+      "public-plaza"
+    ],
+    "problem": [
+      "cultural-integration",
+      "urban-identity",
+      "program-integration"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/490141/centre-pompidou-metz-shigeru-ban-architects",
+        "accessed": "2026-08-12"
+      },
+      {
+        "name": "archdaily-excerpt",
+        "url": "https://www.archdaily.com/507596/the-architecture-of-pompidou-metz-an-excerpt-from-the-architecture-of-art-museums-nil-a-decade-of-design-2000-nil-2010",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "floor-plan",
+        "url": "https://www.archdaily.com/490141/centre-pompidou-metz-shigeru-ban-architects/53324f28c07a80848900008c-centre-pompidou-metz-shigeru-ban-architects-floor-plan"
+      },
+      {
+        "kind": "section",
+        "url": "https://images.adsttc.com/media/images/5375/28ae/c07a/8011/8200/0002/medium_jpg/metz_section.jpg?1400187050"
+      },
+      {
+        "kind": "analysis",
+        "url": "https://images.adsttc.com/media/images/5375/28af/c07a/8059/5700/0002/medium_jpg/metz_diagram.jpg?1400187050"
+      }
+    ],
+    "summary": "以一顶木格壳屋盖统一三条外挑展廊和公共大厅，为法国文化去中心化提供可辨识而开放的博物馆平台。",
+    "path": "cases/museum-centre-pompidou-metz.md"
+  },
+  {
+    "id": "museum-dahecun-site",
+    "title": "大河村国家考古遗址公园大河村遗址博物馆",
+    "architect": "中国建筑设计研究院有限公司",
+    "design_team": "陈同滨、景泉、徐元卿（主创）；刘畅、张婕、耿碧徽、颜冬、翟宇航、吴南伟、李碧舟（建筑）；王琳峰、任洁、韩博雅、王雅芬、杨珂珂、朱轶夫、王旭（遗产保护）",
+    "year": 2025,
+    "location": "河南郑州, 中国",
+    "area_m2": 19977,
+    "site_area_m2": null,
+    "floors": "2（全主体下沉式）",
+    "building_height": null,
+    "type": [
+      "museum"
+    ],
+    "site": [
+      "heritage"
+    ],
+    "strategy": [
+      "underground"
+    ],
+    "problem": [
+      "heritage-conservation"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/zhengzhou-dahecun-national-archaeological-site-park-by-china-architecture-design-and-research-group.htm",
+        "accessed": "2026-08-11"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://oss.gooood.cn/uploads/2026/06/004-Zhengzhou-Dahecun-National-Archaeological-Site-Park-by-China-Architecture-Design-and-Research-Group-960x720.jpg"
+      },
+      {
+        "kind": "analysis_massing",
+        "url": "https://oss.gooood.cn/uploads/2026/06/027-Zhengzhou-Dahecun-National-Archaeological-Site-Park-by-China-Architecture-Design-and-Research-Group-960x721.jpg"
+      },
+      {
+        "kind": "analysis_ecology",
+        "url": "https://oss.gooood.cn/uploads/2026/06/028-Zhengzhou-Dahecun-National-Archaeological-Site-Park-by-China-Architecture-Design-and-Research-Group-960x364.jpg"
+      },
+      {
+        "kind": "detail_roof_drainage",
+        "url": "https://oss.gooood.cn/uploads/2026/06/034-Zhengzhou-Dahecun-National-Archaeological-Site-Park-by-China-Architecture-Design-and-Research-Group-960x642.jpg"
+      },
+      {
+        "kind": "detail_retaining_wall",
+        "url": "https://oss.gooood.cn/uploads/2026/06/035-Zhengzhou-Dahecun-National-Archaeological-Site-Park-by-China-Architecture-Design-and-Research-Group-960x873.jpg"
+      },
+      {
+        "kind": "plan_ground",
+        "url": "https://oss.gooood.cn/uploads/2026/06/038-Zhengzhou-Dahecun-National-Archaeological-Site-Park-by-China-Architecture-Design-and-Research-Group-960x1205.jpg"
+      },
+      {
+        "kind": "plan_second",
+        "url": "https://oss.gooood.cn/uploads/2026/06/040-Zhengzhou-Dahecun-National-Archaeological-Site-Park-by-China-Architecture-Design-and-Research-Group-960x1326.jpg"
+      },
+      {
+        "kind": "plan_roof",
+        "url": "https://oss.gooood.cn/uploads/2026/06/041-Zhengzhou-Dahecun-National-Archaeological-Site-Park-by-China-Architecture-Design-and-Research-Group-960x1419.jpg"
+      },
+      {
+        "kind": "section_1_1",
+        "url": "https://oss.gooood.cn/uploads/2026/06/025-Zhengzhou-Dahecun-National-Archaeological-Site-Park-by-China-Architecture-Design-and-Research-Group-960x121.jpg"
+      },
+      {
+        "kind": "section_2_2",
+        "url": "https://oss.gooood.cn/uploads/2026/06/026-Zhengzhou-Dahecun-National-Archaeological-Site-Park-by-China-Architecture-Design-and-Research-Group-960x148.jpg"
+      }
+    ],
+    "summary": "在无文物遗存且已有杂填土的区域整体下沉，以种植屋面、庭院与天窗恢复遗址环境，再以多重挡水、排水和库房防洪把“退让”落实为可运营的遗产韧性系统。",
+    "path": "cases/museum-dahecun-site.md"
+  },
+  {
+    "id": "museum-danish-maritime",
+    "title": "Danish National Maritime Museum",
+    "architect": "BIG — Bjarke Ingels Group",
+    "design_team": "资料未提供",
+    "year": 2013,
+    "location": "Helsingør, Denmark",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "位于既有干船坞下方约 7 m（来源说明）",
+    "building_height": null,
+    "type": [
+      "museum"
+    ],
+    "site": [
+      "heritage",
+      "waterfront"
+    ],
+    "strategy": [
+      "underground",
+      "pedestrian-routes"
+    ],
+    "problem": [
+      "heritage-conservation",
+      "landscape-response"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "divisare",
+        "url": "https://divisare.com/projects/322205-big-bjarke-ingels-group-rasmus-hjortshoj-coast-danish-national-maritime-museum",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://images.divisare.com//image/upload/c_fit,f_jpg,q_80,w_1200/v1468419975/pwhnw5nywifj80cib3rz.jpg"
+      }
+    ],
+    "summary": "将海事博物馆下沉至 Kronborg 城堡旁既有干船坞约 7 米深处，以跨越船坞的步行桥和连续环行叙事保护历史视线并组织展览。",
+    "path": "cases/museum-danish-maritime.md"
+  },
+  {
+    "id": "museum-daxinzhuang-site",
+    "title": "大辛庄遗址博物馆",
+    "architect": "同圆设计集团股份有限公司",
+    "design_team": "资料未提供",
+    "year": 2025,
+    "location": "济南历城区王舍人街道大辛庄村, 中国",
+    "area_m2": 22000,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "museum",
+      "exhibition"
+    ],
+    "site": [
+      "heritage",
+      "landscape"
+    ],
+    "strategy": [
+      "courtyard",
+      "monumental-plinth",
+      "program-loop"
+    ],
+    "problem": [
+      "heritage-conservation",
+      "cultural-memory",
+      "indoor-outdoor"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/the-daxinzhuang-site-museum-by-tongyuan-design-group.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "site-plan",
+        "url": "https://oss.gooood.cn/uploads/2025/12/002-The-Daxinzhuang-Site-Museum-by-Tongyuan-Design-Group-960x522.jpg"
+      },
+      {
+        "kind": "floor-plan",
+        "url": "https://oss.gooood.cn/uploads/2025/12/003-The-Daxinzhuang-Site-Museum-by-Tongyuan-Design-Group-960x492.jpg"
+      },
+      {
+        "kind": "section",
+        "url": "https://oss.gooood.cn/uploads/2025/12/020-The-Daxinzhuang-Site-Museum-by-Tongyuan-Design-Group-拷贝-960x502.jpg"
+      }
+    ],
+    "summary": "从商代 F61 宫殿基址的平面和回廊抽取模数，用展厅、研究中心和游客中心的三组体量构建遗址叙事。",
+    "path": "cases/museum-daxinzhuang-site.md"
+  },
+  {
+    "id": "museum-gc-prostho",
+    "title": "GC Prostho 博物馆研究中心",
+    "architect": "Kengo Kuma & Associates",
+    "design_team": null,
+    "year": 2010,
+    "location": "春日井, 日本",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": null,
+    "building_height": null,
+    "type": [
+      "museum",
+      "exhibition"
+    ],
+    "site": [
+      "suburban"
+    ],
+    "strategy": [
+      "repeating-bays",
+      "material-weathering",
+      "public-interface"
+    ],
+    "problem": [
+      "cultural-integration",
+      "human-scale",
+      "indoor-outdoor"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/199442/gc-prostho-museum-research-center-kengo-kuma-associates",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "floor-plan",
+        "url": "https://www.archdaily.com/199442/gc-prostho-museum-research-center-kengo-kuma-associates/5004e0d728ba0d4e8d000ad9-gc-prostho-museum-research-center-kengo-kuma-associates-floor-plans"
+      },
+      {
+        "kind": "elevation",
+        "url": "https://www.archdaily.com/199442/gc-prostho-museum-research-center-kengo-kuma-associates"
+      },
+      {
+        "kind": "photo",
+        "url": "https://www.archdaily.com/199442/gc-prostho-museum-research-center-kengo-kuma-associates"
+      }
+    ],
+    "summary": "从传统 Chidori 玩具榫接推导三维木格，令结构、围护、展陈形象和可手工理解的构造成为同一系统。",
+    "path": "cases/museum-gc-prostho.md"
+  },
+  {
+    "id": "museum-m9-district",
+    "title": "M9 Museum District",
+    "architect": "Sauerbruch Hutton",
+    "design_team": "本地建筑师与工程：SCE Project（来源说明）",
+    "year": 2018,
+    "location": "Mestre, Venice, Italy",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "museum",
+      "mixed-use"
+    ],
+    "site": [
+      "city-center",
+      "heritage",
+      "urban-infill"
+    ],
+    "strategy": [
+      "adaptive-reuse",
+      "pedestrian-connection",
+      "public-plaza"
+    ],
+    "problem": [
+      "urban-regeneration",
+      "public-access"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "divisare",
+        "url": "https://divisare.com/projects/430150-sauerbruch-hutton-alessandra-chemollo-m9-museum-district",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://images.divisare.com//image/upload/c_fit,f_jpg,q_80,w_1200/v1600349733/w1tsntygdkctbmdfpuzs.jpg"
+      }
+    ],
+    "summary": "以博物馆、新公共广场、修复的 16 世纪修道院与沿街业态，打通 Mestre 市中心两条街道并把文化设施嵌回日常城市生活。",
+    "path": "cases/museum-m9-district.md"
+  },
+  {
+    "id": "museum-menil-collection",
+    "title": "梅尼尔收藏馆",
+    "architect": "Renzo Piano Building Workshop",
+    "design_team": null,
+    "year": 1986,
+    "location": "休斯敦, 美国",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": null,
+    "building_height": null,
+    "type": [
+      "museum"
+    ],
+    "site": [
+      "urban-infill",
+      "landscape"
+    ],
+    "strategy": [
+      "daylight-ventilation",
+      "repeating-bays",
+      "public-interface"
+    ],
+    "problem": [
+      "daylight-ventilation",
+      "human-scale",
+      "cultural-integration"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/171974/ad-classics-menil-collection-renzo-piano",
+        "accessed": "2026-08-12"
+      },
+      {
+        "name": "rpbw",
+        "url": "https://www.rpbw.com/publications/renzo-piano-the-menil-collection-monograph-renzo-piano-foundation-2007",
+        "accessed": "2026-08-12"
+      },
+      {
+        "name": "great-buildings-archive",
+        "url": "https://web.archive.org/web/20091130195451/http:/www.greatbuildings.com/buildings/Menil_Collection.html",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "floor-plan",
+        "url": "https://web.archive.org/web/20091130195451/http:/www.greatbuildings.com/buildings/Menil_Collection.html"
+      },
+      {
+        "kind": "section",
+        "url": "https://web.archive.org/web/20091130195451/http:/www.greatbuildings.com/buildings/Menil_Collection.html"
+      },
+      {
+        "kind": "photo",
+        "url": "https://www.archdaily.com/171974/ad-classics-menil-collection-renzo-piano"
+      }
+    ],
+    "summary": "以低矮、可变的画廊与“叶片”天光屋顶，使博物馆顺从住宅区尺度并把自然光变成精细的展陈系统。",
+    "path": "cases/museum-menil-collection.md"
+  },
+  {
+    "id": "museum-porcelain-source",
+    "title": "瓷之源博物馆",
+    "architect": "大舍建筑设计事务所",
+    "design_team": "和作结构建筑研究所；东南大学建筑设计研究院有限公司；上海一于景观设计有限公司",
+    "year": 2025,
+    "location": "浙江德清县武康镇阜溪街道龙胜村, 中国",
+    "area_m2": 17206,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "museum"
+    ],
+    "site": [
+      "rural",
+      "heritage",
+      "waterfront"
+    ],
+    "strategy": [
+      "adaptive-reuse",
+      "courtyard",
+      "landscape-integration"
+    ],
+    "problem": [
+      "heritage-conservation",
+      "landscape-response",
+      "indoor-outdoor"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/porcelain-source-museum-by-atelier-deshaus.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "floor-plan",
+        "url": "https://oss.gooood.cn/uploads/2025/12/026-porcelain-source-museum-by-atelier-deshaus-960x869.jpg"
+      },
+      {
+        "kind": "section",
+        "url": "https://oss.gooood.cn/uploads/2025/12/028-porcelain-source-museum-by-atelier-deshaus-960x181.jpg"
+      }
+    ],
+    "summary": "以保留村居、沿河低檐主馆和半嵌地展馆，把原始瓷窑遗址、河流与村落尺度纳入一座博物馆群。",
+    "path": "cases/museum-porcelain-source.md"
+  },
+  {
+    "id": "museum-prada-foundation",
+    "title": "Fondazione Prada, Milan",
+    "architect": "OMA",
+    "design_team": "资料未提供",
+    "year": 2015,
+    "location": "Milan, Italy",
+    "area_m2": 19000,
+    "site_area_m2": null,
+    "floors": "Torre 九层（来源说明）",
+    "building_height": null,
+    "type": [
+      "museum",
+      "gallery"
+    ],
+    "site": [
+      "industrial-heritage",
+      "urban-infill"
+    ],
+    "strategy": [
+      "adaptive-reuse",
+      "split-volumes"
+    ],
+    "problem": [
+      "heritage-conservation",
+      "program-integration"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "divisare",
+        "url": "https://divisare.com/projects/288876-oma-simon-garcia-attilio-maranzano-bas-princen-roland-halbe-paolo-riolzi-prada-foundation-in-milan",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://images.divisare.com//image/upload/c_fit,f_jpg,q_80,w_1200/v1/project_images/5100968/Fondazione-Prada_Bas-Princen_1.jpg"
+      }
+    ],
+    "summary": "在米兰旧工业场地保留七栋既有建筑、插入 Podium、Cinema 与九层 Torre，将不同年代的展览空间并置为文化园区。",
+    "path": "cases/museum-prada-foundation.md"
+  },
+  {
+    "id": "museum-qinling",
+    "title": "秦岭博物馆",
+    "architect": "中南建筑设计院股份有限公司",
+    "design_team": "程一多、杨江峰（主创）；胡专专、李晓敏、柯江南、陈颖、万青、何奇璋、但娟、孙飞、李霄、李创、王婧、卢谦（建筑）",
+    "year": 2025,
+    "location": "陕西商洛, 中国",
+    "area_m2": 43788,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "museum"
+    ],
+    "site": [
+      "mountain"
+    ],
+    "strategy": [
+      "landscape-integration"
+    ],
+    "problem": [
+      "topography"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/qinling-museum-by-central-south-architectural-design-institute-co-ltd.htm",
+        "accessed": "2026-08-11"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://oss.gooood.cn/uploads/2026/04/001-Qinling-Museum-by-Central-South-Architectural-Design-Institute-Co-Ltd-960x1285.jpg"
+      },
+      {
+        "kind": "analysis",
+        "url": "https://oss.gooood.cn/uploads/2026/04/044-Qinling-Museum-by-Central-South-Architectural-Design-Institute-Co-Ltd.gif"
+      },
+      {
+        "kind": "site_plan",
+        "url": "https://oss.gooood.cn/uploads/2026/04/045-Qinling-Museum-by-Central-South-Architectural-Design-Institute-Co-Ltd-%E6%8B%B7%E8%B4%9D-960x715.jpg"
+      },
+      {
+        "kind": "plan_b1",
+        "url": "https://oss.gooood.cn/uploads/2026/04/046-Qinling-Museum-by-Central-South-Architectural-Design-Institute-Co-Ltd-%E6%8B%B7%E8%B4%9D-960x650.jpg"
+      },
+      {
+        "kind": "plan_0_000",
+        "url": "https://oss.gooood.cn/uploads/2026/04/047-Qinling-Museum-by-Central-South-Architectural-Design-Institute-Co-Ltd-%E6%8B%B7%E8%B4%9D-960x548.jpg"
+      },
+      {
+        "kind": "plan_13_500",
+        "url": "https://oss.gooood.cn/uploads/2026/04/050-Qinling-Museum-by-Central-South-Architectural-Design-Institute-Co-Ltd-%E6%8B%B7%E8%B4%9D-960x564.jpg"
+      },
+      {
+        "kind": "plan_21_000",
+        "url": "https://oss.gooood.cn/uploads/2026/04/051-Qinling-Museum-by-Central-South-Architectural-Design-Institute-Co-Ltd-%E6%8B%B7%E8%B4%9D-960x546.jpg"
+      },
+      {
+        "kind": "plan_28_000",
+        "url": "https://oss.gooood.cn/uploads/2026/04/052-Qinling-Museum-by-Central-South-Architectural-Design-Institute-Co-Ltd-%E6%8B%B7%E8%B4%9D-960x560.jpg"
+      },
+      {
+        "kind": "plan_35_000",
+        "url": "https://oss.gooood.cn/uploads/2026/04/053-Qinling-Museum-by-Central-South-Architectural-Design-Institute-Co-Ltd-%E6%8B%B7%E8%B4%9D-960x682.jpg"
+      },
+      {
+        "kind": "plan_42_500",
+        "url": "https://oss.gooood.cn/uploads/2026/04/054-Qinling-Museum-by-Central-South-Architectural-Design-Institute-Co-Ltd-%E6%8B%B7%E8%B4%9D-960x662.jpg"
+      },
+      {
+        "kind": "section_elevation",
+        "url": "https://oss.gooood.cn/uploads/2026/04/057-Qinling-Museum-by-Central-South-Architectural-Design-Institute-Co-Ltd-%E6%8B%B7%E8%B4%9D-960x453.jpg"
+      }
+    ],
+    "summary": "以连续曲线体量缝补山体凹陷，以半山入口、递进中轴和垂直电梯化解登高，再把大屋面转化为全天开放的城市公共地面。",
+    "path": "cases/museum-qinling.md"
+  },
+  {
+    "id": "museum-qintai-art-museum",
+    "title": "琴台美术馆",
+    "architect": "大舍建筑（Atelier Deshaus）",
+    "design_team": "资料未提供",
+    "year": 2022,
+    "location": "湖北武汉, 中国",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "museum",
+      "gallery"
+    ],
+    "site": [
+      "urban-development"
+    ],
+    "strategy": [
+      "large-roof"
+    ],
+    "problem": [
+      "cultural-integration",
+      "daylight-ventilation"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/qintai-art-museum-atelier-deshaus.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [],
+    "summary": "武汉琴台美术馆由大舍建筑设计，gooood 于 2022 年发布，并以起伏屋顶塑造展览空间为题；未获图纸尺寸前不延伸为空间还原。",
+    "path": "cases/museum-qintai-art-museum.md"
+  },
+  {
+    "id": "museum-shede-culture",
+    "title": "舍得文化博物馆",
+    "architect": "OPEN建筑事务所",
+    "design_team": "中国建筑西南设计研究院有限公司（建筑、结构、机电及景观施工图）；北京清尚建筑设计研究院有限公司（室内施工图）",
+    "year": 2027,
+    "location": "四川射洪, 中国",
+    "area_m2": 10876,
+    "site_area_m2": null,
+    "floors": "地上盒子与地下二层空间",
+    "building_height": null,
+    "type": [
+      "museum"
+    ],
+    "site": [
+      "landscape"
+    ],
+    "strategy": [
+      "courtyard"
+    ],
+    "problem": [
+      "indoor-outdoor"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/shede-culture-museum-by-open.htm",
+        "accessed": "2026-08-11"
+      }
+    ],
+    "images": [
+      {
+        "kind": "analysis",
+        "url": "https://oss.gooood.cn/uploads/2026/03/004-shede-culture-museum-by-open.jpg"
+      },
+      {
+        "kind": "photo",
+        "url": "https://oss.gooood.cn/uploads/2026/03/001-shede-culture-museum-by-open-960x1081.jpg"
+      }
+    ],
+    "summary": "以“一池三山”水庭和三种材料盒子，把酒文化展示转化为在暗展厅、水景与雾气之间交替的游历。",
+    "path": "cases/museum-shede-culture.md"
+  },
+  {
+    "id": "museum-shunchang-museum",
+    "title": "顺昌博物馆",
+    "architect": "浙江大学建筑设计研究院（UAD）",
+    "design_team": "资料未提供",
+    "year": 2022,
+    "location": "福建顺昌, 中国",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "museum"
+    ],
+    "site": [
+      "landscape",
+      "rural"
+    ],
+    "strategy": [
+      "landscape-orientation"
+    ],
+    "problem": [
+      "cultural-memory",
+      "landscape-response"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/shunchang-museum-by-uad.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [],
+    "summary": "福建顺昌博物馆由浙江大学建筑设计研究院设计，gooood 于 2022 年发布；其“在地为人，寄乡愁于山水”的项目表述可作为地方博物馆补图研究线索。",
+    "path": "cases/museum-shunchang-museum.md"
+  },
+  {
+    "id": "museum-vitra-schaudepot",
+    "title": "Vitra Schaudepot",
+    "architect": "Herzog & de Meuron",
+    "design_team": "资料未提供",
+    "year": 2016,
+    "location": "Weil am Rhein, Germany",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "museum",
+      "exhibition"
+    ],
+    "site": [
+      "campus"
+    ],
+    "strategy": [
+      "monolithic-mass"
+    ],
+    "problem": [
+      "program-integration"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "divisare",
+        "url": "https://divisare.com/projects/319620-herzog-de-meuron-mark-niedermann-julien-lanoo-vitra-schaudepot",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://images.divisare.com//image/upload/c_fit,f_jpg,q_80,w_1200/v1465375026/wju2jzi2nc1aqt7zmzz1.jpg"
+      }
+    ],
+    "summary": "以朴素仓库形体为 Vitra Design Museum 的收藏提供长期可见的储藏与展览空间，集中展示 1800 年至今的 400 余件家具。",
+    "path": "cases/museum-vitra-schaudepot.md"
+  },
+  {
+    "id": "museum-zayed-national",
+    "title": "扎耶德国家博物馆",
+    "architect": "Foster + Partners",
+    "design_team": "资料未提供",
+    "year": 2025,
+    "location": "阿布扎比萨迪亚特文化区, 阿拉伯联合酋长国",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "museum"
+    ],
+    "site": [
+      "arid-climate",
+      "urban-development"
+    ],
+    "strategy": [
+      "monolithic-mass",
+      "landscape-orientation"
+    ],
+    "problem": [
+      "cultural-memory",
+      "daylight-ventilation",
+      "urban-landmark"
+    ],
+    "quality": "★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/zayed-national-museum-by-foster-partners.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [],
+    "summary": "以五座兼作热烟囱的流线型翼塔，把阿联酋国家叙事、猎鹰意象和沙漠被动环境策略合为一座国家博物馆地标。",
+    "path": "cases/museum-zayed-national.md"
+  },
+  {
+    "id": "national-kaohsiung-center-arts",
+    "title": "卫武营国家艺术文化中心",
+    "architect": "Mecanoo",
+    "design_team": "资料未提供",
+    "year": 2018,
+    "location": "Kaohsiung, Taiwan, China",
+    "area_m2": 141000,
+    "site_area_m2": 470000,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "performing-arts",
+      "cultural-center"
+    ],
+    "site": [
+      "park",
+      "landscape"
+    ],
+    "strategy": [
+      "large-roof",
+      "public-space",
+      "landscape-integration"
+    ],
+    "problem": [
+      "gathering",
+      "cultural-integration",
+      "indoor-outdoor"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/904019/national-kaohsiung-center-for-the-arts-mecanoo",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "site-plan",
+        "url": "https://www.archdaily.com/904019/national-kaohsiung-center-for-the-arts-mecanoo"
+      },
+      {
+        "kind": "floor-plan",
+        "url": "https://www.archdaily.com/904019/national-kaohsiung-center-for-the-arts-mecanoo"
+      },
+      {
+        "kind": "section",
+        "url": "https://www.archdaily.com/904019/national-kaohsiung-center-for-the-arts-mecanoo"
+      },
+      {
+        "kind": "photo",
+        "url": "https://www.archdaily.com/904019/national-kaohsiung-center-for-the-arts-mecanoo"
+      }
+    ],
+    "summary": "以覆盖 141,000 m² 的连续大屋顶把多座演出厅纳入高雄亚热带公园，借由可穿行的半室外边缘把正式表演空间延伸为城市公共生活。",
+    "path": "cases/national-kaohsiung-center-arts.md"
+  },
+  {
+    "id": "new-munch-museum",
+    "title": "新蒙克博物馆",
+    "architect": "Estudio Herreros",
+    "design_team": "资料未提供",
+    "year": 2021,
+    "location": "Oslo, Norway",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "垂直展览塔；具体层数资料未提供",
+    "building_height": null,
+    "type": [
+      "museum",
+      "cultural-center"
+    ],
+    "site": [
+      "waterfront",
+      "urban-development"
+    ],
+    "strategy": [
+      "vertical",
+      "terrace",
+      "public-space"
+    ],
+    "problem": [
+      "urban-landmark",
+      "program-integration",
+      "views"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/971237/new-munch-museum-estudio-herreros",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "floor-plan",
+        "url": "https://www.archdaily.com/971237/new-munch-museum-estudio-herreros"
+      },
+      {
+        "kind": "section",
+        "url": "https://www.archdaily.com/971237/new-munch-museum-estudio-herreros"
+      },
+      {
+        "kind": "elevation",
+        "url": "https://www.archdaily.com/971237/new-munch-museum-estudio-herreros"
+      },
+      {
+        "kind": "photo",
+        "url": "https://www.archdaily.com/971237/new-munch-museum-estudio-herreros"
+      }
+    ],
+    "summary": "以面向奥斯陆港湾的垂直展览旅程、地面公共活动层和屋顶观景空间，组织蒙克遗产的收藏、展示与城市公共性。",
+    "path": "cases/new-munch-museum.md"
+  },
+  {
+    "id": "office-luxelakes-floating-headquarters",
+    "title": "麓湖漂浮总部办公",
+    "architect": "直向建筑（Vector Architects）",
+    "design_team": "资料未提供",
+    "year": 2022,
+    "location": "成都, 中国",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "office"
+    ],
+    "site": [
+      "lakeside",
+      "urban-development"
+    ],
+    "strategy": [
+      "public-space"
+    ],
+    "problem": [
+      "workplace",
+      "landscape-response"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/luxelakes-floating-headquarters-china-by-vector-architects.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [],
+    "summary": "成都麓湖漂浮总部办公由直向建筑设计，gooood 于 2022 年发布；本条对高密度办公与湖区场地仅保留可核实的项目线索。",
+    "path": "cases/office-luxelakes-floating-headquarters.md"
+  },
+  {
+    "id": "ofiice-sakurazaka",
+    "title": "Sakurazaka 办公室",
+    "architect": "Design Associates Nakamura",
+    "design_team": "主创建筑师：So Nakamura",
+    "year": 2021,
+    "location": "Fukuoka, Japan",
+    "area_m2": 111,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "office"
+    ],
+    "site": [
+      "urban-infill"
+    ],
+    "strategy": [
+      "large-roof",
+      "semi-outdoor"
+    ],
+    "problem": [
+      "gathering",
+      "indoor-outdoor"
+    ],
+    "quality": "★★",
+    "sources": [
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/971435/ofiice-in-sakurazaka-design-associates-nakamura",
+        "accessed": "2026-08-11"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://images.adsttc.com/media/images/6184/8d7e/0b29/824e/d21a/0de3/large_jpg/022.jpg?1636076948"
+      }
+    ],
+    "summary": "以一片大屋顶连接办公室、研讨室与半室外露台，把 111 m² 的工作场所组织为可聚集的空间。",
+    "path": "cases/ofiice-sakurazaka.md"
+  },
+  {
+    "id": "olivier-debre-contemporary-art-center",
+    "title": "Olivier Debré 当代艺术中心",
+    "architect": "Aires Mateus",
+    "design_team": "资料未提供",
+    "year": 2016,
+    "location": "Tours, France",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "gallery",
+      "cultural-center",
+      "exhibition"
+    ],
+    "site": [
+      "urban-infill",
+      "heritage"
+    ],
+    "strategy": [
+      "courtyard",
+      "monolithic-mass",
+      "public-space"
+    ],
+    "problem": [
+      "cultural-integration",
+      "public-access",
+      "indoor-outdoor"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/907141/olivier-debre-contemporary-art-center-aires-mateus",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "floor-plan",
+        "url": "https://www.archdaily.com/907141/olivier-debre-contemporary-art-center-aires-mateus"
+      },
+      {
+        "kind": "section",
+        "url": "https://www.archdaily.com/907141/olivier-debre-contemporary-art-center-aires-mateus/5c066f9c08a5e5c7110006b0-olivier-debre-contemporary-art-center-aires-mateus-upper-floor-plan-south-facade-section"
+      },
+      {
+        "kind": "photo",
+        "url": "https://www.archdaily.com/907141/olivier-debre-contemporary-art-center-aires-mateus"
+      }
+    ],
+    "summary": "以厚实的白色体量、切出的空隙和庭院，在图尔历史城区组织当代艺术展览与创作空间，并把城市公共路径引入艺术中心。",
+    "path": "cases/olivier-debre-contemporary-art-center.md"
+  },
+  {
+    "id": "origine-office-building",
+    "title": "Origine 办公楼",
+    "architect": "Maud Caubet Architects + Quadri Fiore Architecture",
+    "design_team": "开发商：Icade；施工：BATEG（VINCI CONSTRUCTION）；合作方：Artelia、SCB Economies、Atelier Volga、Interface、OASIIS、EGIS/ELIOT、BERIM",
+    "year": 2021,
+    "location": "Nanterre, France",
+    "area_m2": 70000,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "office"
+    ],
+    "site": [
+      "urban-corner"
+    ],
+    "strategy": [
+      "monolithic-mass",
+      "entrance"
+    ],
+    "problem": [
+      "urban-identity",
+      "workplace"
+    ],
+    "quality": "★★",
+    "sources": [
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/974223/origine-apartments-maud-caubet-architects",
+        "accessed": "2026-08-11"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://images.adsttc.com/media/images/61c9/ab34/b038/0601/6505/324d/large_jpg/210331-nt-dsc09786-panorama.jpg?1640606607"
+      }
+    ],
+    "summary": "在艾梅·塞泽尔大道与拉德芳斯主干道交角，以带木材和玻璃细部的大型白色单体及洞穴般入口建立办公楼的城市识别。",
+    "path": "cases/origine-office-building.md"
+  },
+  {
+    "id": "pavilion-serpentine-2013",
+    "title": "2013 蛇形画廊临时展亭",
+    "architect": "Sou Fujimoto Architects",
+    "design_team": "AECOM（工程）；Stage One（建造）",
+    "year": 2013,
+    "location": "伦敦, 英国",
+    "area_m2": 350,
+    "site_area_m2": null,
+    "floors": "临时单层展亭，含分级坐席",
+    "building_height": null,
+    "type": [
+      "exhibition",
+      "cultural-center"
+    ],
+    "site": [
+      "park"
+    ],
+    "strategy": [
+      "landscape-integration",
+      "repeating-bays",
+      "semi-outdoor"
+    ],
+    "problem": [
+      "indoor-outdoor",
+      "gathering",
+      "landscape-response"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "dezeen",
+        "url": "https://www.dezeen.com/2013/06/05/serpentine-gallery-pavilion-by-sou-fujimoto/",
+        "accessed": "2026-08-12"
+      },
+      {
+        "name": "architects-journal",
+        "url": "https://www.architectsjournal.co.uk/archive/sou-fujimoto-unwraps-2013-serpentine-pavilion",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://www.dezeen.com/2013/06/05/serpentine-gallery-pavilion-by-sou-fujimoto/"
+      },
+      {
+        "kind": "analysis",
+        "url": "https://www.architectsjournal.co.uk/archive/sou-fujimoto-unwraps-2013-serpentine-pavilion"
+      }
+    ],
+    "summary": "用 400/800 mm 钢管方格生成半透明“云”，让坐、走、停和公园景观在可攀登的边界中相互渗透。",
+    "path": "cases/pavilion-serpentine-2013.md"
+  },
+  {
+    "id": "pavilion-serpentine-2017",
+    "title": "2017 蛇形画廊临时展亭",
+    "architect": "Kéré Architecture",
+    "design_team": "资料未提供",
+    "year": 2017,
+    "location": "伦敦, 英国",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "临时单层展亭",
+    "building_height": null,
+    "type": [
+      "pavilion",
+      "temporary",
+      "exhibition"
+    ],
+    "site": [
+      "park",
+      "landscape"
+    ],
+    "strategy": [
+      "rainwater-collection",
+      "central-oculus",
+      "community-space"
+    ],
+    "problem": [
+      "temporary-assembly",
+      "weather-response",
+      "gathering"
+    ],
+    "quality": "★★",
+    "sources": [
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/874091/diebedo-francis-kere-serpentine-pavilion-opens-london-will-come-alive-when-it-rains",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://www.archdaily.com/874091/diebedo-francis-kere-serpentine-pavilion-opens-london-will-come-alive-when-it-rains"
+      }
+    ],
+    "summary": "将肯辛顿花园中的临时展亭设想为“社区结构”，以树状屋顶、中央天窗和雨水瀑布把天气变化转化为公共聚集体验。",
+    "path": "cases/pavilion-serpentine-2017.md"
+  },
+  {
+    "id": "performing-arts-albignasego",
+    "title": "Albignasego剧院礼堂",
+    "architect": "MD41",
+    "design_team": "Origine Ingegneria srl（结构）；POOL landscape（景观）；Studio Architetto Eleonora Strada（声学）",
+    "year": 2025,
+    "location": "阿尔比尼亚塞戈, 意大利",
+    "area_m2": 1500,
+    "site_area_m2": 19000,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "performing-arts",
+      "community-center"
+    ],
+    "site": [
+      "landscape",
+      "urban-infill"
+    ],
+    "strategy": [
+      "public-space",
+      "landscape-orientation"
+    ],
+    "problem": [
+      "cultural-integration",
+      "indoor-outdoor",
+      "gathering"
+    ],
+    "quality": "★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/albignasego-auditorium-theatre-by-md41.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [],
+    "summary": "以当代砖纹立面、压缩—展开的入场序列和可日常使用的前厅，把剧院连接至公共公园和社区。",
+    "path": "cases/performing-arts-albignasego.md"
+  },
+  {
+    "id": "performing-arts-chongqing-electric",
+    "title": "重庆电力高等专科学校潼南校区文体活动中心",
+    "architect": "天津大学设计总院·顾志宏工作室",
+    "design_team": "天津大学设计总院·设计三院（施工图）",
+    "year": 2025,
+    "location": "重庆潼南区潼南大道, 中国",
+    "area_m2": 18000,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "performing-arts",
+      "education"
+    ],
+    "site": [
+      "mountain",
+      "campus"
+    ],
+    "strategy": [
+      "public-interface",
+      "landscape-orientation",
+      "split-volumes"
+    ],
+    "problem": [
+      "landscape-response",
+      "cultural-integration",
+      "urban-connection"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/the-art-and-sports-comprehensive-hall-of-chongqing-electric-power-college-tongnan-campus-by-gu-zhihong-studio-aatu.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [],
+    "summary": "以银色褶皱铝板的“山转角蝴蝶结”，将艺体综合馆作为校城界面和山体绿意之间的开放连接。",
+    "path": "cases/performing-arts-chongqing-electric.md"
+  },
+  {
+    "id": "performing-arts-elbphilharmonie",
+    "title": "汉堡易北爱乐厅",
+    "architect": "Herzog & de Meuron",
+    "design_team": "Hochtief Consult、Schnetzer Puskas Ingenieure（结构；来源页列示）",
+    "year": 2016,
+    "location": "汉堡, 德国",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": null,
+    "building_height": "110 m",
+    "type": [
+      "performing-arts",
+      "cultural-center"
+    ],
+    "site": [
+      "waterfront",
+      "industrial-heritage"
+    ],
+    "strategy": [
+      "adaptive-reuse",
+      "public-plaza",
+      "vertical"
+    ],
+    "problem": [
+      "heritage-conservation",
+      "public-access",
+      "urban-landmark"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/802093/elbphilharmonie-hamburg-herzog-and-de-meuron",
+        "accessed": "2026-08-12"
+      },
+      {
+        "name": "arquitectura-viva",
+        "url": "https://arquitecturaviva.com/works/elbphilharmonie-hamburg-2",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://www.archdaily.com/802093/elbphilharmonie-hamburg-herzog-and-de-meuron"
+      },
+      {
+        "kind": "section",
+        "url": "https://arquitecturaviva.com/works/elbphilharmonie-hamburg-2"
+      }
+    ],
+    "summary": "在旧港口仓库之上叠加起伏玻璃音乐厅，并以公共广场和长扶梯把不可达的码头地标转为市民目的地。",
+    "path": "cases/performing-arts-elbphilharmonie.md"
+  },
+  {
+    "id": "performing-arts-north-shore-auditorium",
+    "title": "北岸礼堂",
+    "architect": "直向建筑（Vector Architects）",
+    "design_team": "结构、机电、照明、声学、标识及合作设计院信息见 gooood 项目页",
+    "year": 2023,
+    "location": "河北秦皇岛北戴河新区, 中国",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "架空层、首层、二层、三层及屋顶（公开平面图）",
+    "building_height": null,
+    "type": [
+      "performing-arts",
+      "cultural-center",
+      "community"
+    ],
+    "site": [
+      "urban-development",
+      "waterfront"
+    ],
+    "strategy": [
+      "stilted-structure",
+      "public-plaza",
+      "vertical"
+    ],
+    "problem": [
+      "gathering",
+      "public-realm",
+      "indoor-outdoor"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/north-shore-auditorium-china-by-vector-architects.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [],
+    "summary": "以架空的三曲面体量保留社区广场的穿透性，再以长坡道、上下叠置的音乐厅与冥想圆厅，组织声音、光与风共同参与的社区礼堂。",
+    "path": "cases/performing-arts-north-shore-auditorium.md"
+  },
+  {
+    "id": "pingshan-performing-arts-center",
+    "title": "坪山演艺中心",
+    "architect": "OPEN建筑事务所",
+    "design_team": "李虎、黄文菁（主持建筑师）",
+    "year": 2019,
+    "location": "广东深圳坪山, 中国",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "performing-arts",
+      "cultural-center"
+    ],
+    "site": [
+      "urban-development"
+    ],
+    "strategy": [
+      "public-space",
+      "terrace",
+      "landscape-integration"
+    ],
+    "problem": [
+      "public-access",
+      "program-integration",
+      "indoor-outdoor"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/pingshan-performing-arts-center-open-architecture.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://oss.gooood.cn/uploads/2020/09/03-Pingshan-Performing-Arts-Center_OPEN-Architecture-960x640.jpg"
+      }
+    ],
+    "summary": "把剧场由单一演出容器改为可日常使用的多孔公共文化建筑，以步道串联花园、平台、教育与经营空间，并用适应深圳气候的双层表皮和绿化屋顶组织室内外环境。",
+    "path": "cases/pingshan-performing-arts-center.md"
+  },
+  {
+    "id": "power-station-of-art",
+    "title": "上海当代艺术博物馆",
+    "architect": "同济原作设计工作室",
+    "design_team": null,
+    "year": 2012,
+    "location": "上海黄浦, 中国",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "原主厂房改扩建；附属车库2层",
+    "building_height": "原烟囱165m",
+    "type": [
+      "museum",
+      "gallery"
+    ],
+    "site": [
+      "waterfront",
+      "industrial-heritage"
+    ],
+    "strategy": [
+      "adaptive-reuse",
+      "pedestrian-routes",
+      "public-interface"
+    ],
+    "problem": [
+      "urban-regeneration",
+      "cultural-memory",
+      "public-access"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/power-station-of-art-shanghai-by-original-design-studio.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://oss.gooood.cn/uploads/2012/11/_c_aNvXM7xgmA1m4uffqixcY5lD2dgoUglgy2vjpx9OrIj_bwzI9ZSU4MG_tAccLHGOiTlfF9UFiHZEQyxZ20pa6J85rOznoKFo.jpg"
+      }
+    ],
+    "summary": "将世博未来馆及其前身南市发电厂主厂房改造为开放的当代艺术平台，以有限干预保留工业秩序，并用漫游式公共空间模糊展览与日常城市生活的边界。",
+    "path": "cases/power-station-of-art.md"
+  },
+  {
+    "id": "religious-chapel-st-ignatius",
+    "title": "圣依纳爵小堂",
+    "architect": "Steven Holl Architects",
+    "design_team": "Olson Sundberg（当地建筑师）；Monte Clark Engineering（结构）",
+    "year": 1997,
+    "location": "西雅图, 美国",
+    "area_m2": 567,
+    "site_area_m2": null,
+    "floors": null,
+    "building_height": null,
+    "type": [
+      "cultural-center"
+    ],
+    "site": [
+      "campus"
+    ],
+    "strategy": [
+      "atrium",
+      "monolithic-mass",
+      "landscape-orientation"
+    ],
+    "problem": [
+      "gathering",
+      "daylight-ventilation",
+      "cultural-integration"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "steven-holl-architects",
+        "url": "https://www.stevenholl.com/project/st-ignatius-chapel",
+        "accessed": "2026-08-12"
+      },
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/115855/ad-classics-chapel-of-st-ignatius-steven-holl-architects",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "site-plan",
+        "url": "https://www.archdaily.com/115855/ad-classics-chapel-of-st-ignatius-steven-holl-architects/5013877228ba0d15070006d0-ad-classics-chapel-of-st-ignatius-steven-holl-architects-site-plan"
+      },
+      {
+        "kind": "floor-plan",
+        "url": "https://www.archdaily.com/115855/ad-classics-chapel-of-st-ignatius-steven-holl-architects/5013876b28ba0d15070006ce-ad-classics-chapel-of-st-ignatius-steven-holl-architects-plan"
+      },
+      {
+        "kind": "section",
+        "url": "https://www.stevenholl.com/project/st-ignatius-chapel"
+      }
+    ],
+    "summary": "在混凝土“石盒”上安置七个取向不同的采光体，将耶稣会礼仪的多样性转译为随时间变化的彩色光。",
+    "path": "cases/religious-chapel-st-ignatius.md"
+  },
+  {
+    "id": "religious-sancaklar-mosque",
+    "title": "Sancaklar Mosque",
+    "architect": "EAA — Emre Arolat Architecture",
+    "design_team": "资料未提供",
+    "year": 2013,
+    "location": "Büyükçekmece, Istanbul, Turkey",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "religious"
+    ],
+    "site": [
+      "suburban",
+      "landscape"
+    ],
+    "strategy": [
+      "underground",
+      "terrace"
+    ],
+    "problem": [
+      "landscape-response",
+      "cultural-integration"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "divisare",
+        "url": "https://divisare.com/projects/365076-eaa-emre-arolat-architecture-sancaklar-mosque",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [],
+    "summary": "在俯瞰 Büyükçekmece 湖的郊区坡地中，以嵌入地形的礼拜空间回应伊斯兰礼拜的基本精神，而非复述古典奥斯曼清真寺形象。",
+    "path": "cases/religious-sancaklar-mosque.md"
+  },
+  {
+    "id": "restaurant-house-and-restaurant",
+    "title": "House & Restaurant（住宅与餐厅）",
+    "architect": "junya.ishigami+associates",
+    "design_team": "Jun Sato Structural Engineers（结构）",
+    "year": 2022,
+    "location": "宇部, 日本",
+    "area_m2": 270,
+    "site_area_m2": null,
+    "floors": null,
+    "building_height": null,
+    "type": [
+      "house",
+      "retail"
+    ],
+    "site": [
+      "suburban"
+    ],
+    "strategy": [
+      "courtyard",
+      "monolithic-mass",
+      "landscape-integration"
+    ],
+    "problem": [
+      "program-integration",
+      "retreat",
+      "indoor-outdoor"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/987227/house-and-restaurant-junya-ishigami-plus-associates",
+        "accessed": "2026-08-12"
+      },
+      {
+        "name": "designboom",
+        "url": "https://www.designboom.com/architecture/junya-ishigami-associates-house-restaurant-yamaguchi-japan-09-19-2022/",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "floor-plan",
+        "url": "https://www.archdaily.com/987227/house-and-restaurant-junya-ishigami-plus-associates"
+      },
+      {
+        "kind": "section",
+        "url": "https://www.archdaily.com/987227/house-and-restaurant-junya-ishigami-plus-associates"
+      },
+      {
+        "kind": "photo",
+        "url": "https://www.archdaily.com/987227/house-and-restaurant-junya-ishigami-plus-associates"
+      }
+    ],
+    "summary": "以人为挖掘的粗粝“洞穴”将餐厅与住宅分置在三个庭院两侧，使经营、家庭与长期风化感共存。",
+    "path": "cases/restaurant-house-and-restaurant.md"
+  },
+  {
+    "id": "retail-gxg-wuhan",
+    "title": "GXG 武汉旗舰店",
+    "architect": "芒果建筑设计（MAS）",
+    "design_team": "资料未提供",
+    "year": null,
+    "location": "武汉, 中国",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "retail",
+      "commercial"
+    ],
+    "site": [
+      "urban-infill"
+    ],
+    "strategy": [
+      "public-interface"
+    ],
+    "problem": [
+      "urban-character",
+      "public-access"
+    ],
+    "quality": "★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/gxg-wuhan-flagship-store-by-mas.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [],
+    "summary": "GXG武汉旗舰店以品牌零售空间为任务，在商业建筑类型中补充沿街界面与品牌体验的案例线索；公开资料以项目图文为主。",
+    "path": "cases/retail-gxg-wuhan.md"
+  },
+  {
+    "id": "retail-huawei-wangfujing",
+    "title": "华为旗舰店·北京王府井",
+    "architect": "叠术建筑（Superimpose Architecture）",
+    "design_team": "Carolyn Leung、Ben de Lange、Ruben Bergambagt、JunWei Loh、Xiaoyu Xu、Haibo Qu、Wang Sijie；本地设计院：CCDI；幕墙顾问：CIMA Façade",
+    "year": 2024,
+    "location": "北京王府井, 中国",
+    "area_m2": 1233,
+    "site_area_m2": null,
+    "floors": "2层",
+    "building_height": null,
+    "type": [
+      "retail",
+      "commercial"
+    ],
+    "site": [
+      "city-center",
+      "urban-infill"
+    ],
+    "strategy": [
+      "urban-grid",
+      "program-loop",
+      "public-interface"
+    ],
+    "problem": [
+      "urban-character",
+      "public-realm",
+      "program-integration"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/huawei-flagship-store-beijing-by-superimpose-architecture.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [],
+    "summary": "以中轴与“城市客厅”组织1233㎡两层旗舰店，用石灰岩墙将主销售区与绿洲咖啡区重新校正为面向王府井的连续体验。",
+    "path": "cases/retail-huawei-wangfujing.md"
+  },
+  {
+    "id": "school-anna-pao-sohmen",
+    "title": "上海包玉刚实验学校包陪庆楼",
+    "architect": "山水秀建筑事务所",
+    "design_team": "资料未提供",
+    "year": null,
+    "location": "上海长宁区虹桥风貌保护区, 中国",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "school"
+    ],
+    "site": [
+      "urban-infill"
+    ],
+    "strategy": [
+      "interface"
+    ],
+    "problem": [
+      "campus-density"
+    ],
+    "quality": "★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/anna-pao-sohmen-centre-at-shanghai-yk-pao-school-by-scenic-architecture-office.htm",
+        "accessed": "2026-08-11"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://oss.gooood.cn/uploads/2026/05/002-Anna-Pao-Sohmen-Centre-at-Shanghai-YK-Pao-School-by-Scenic-Architecture-Office-960x542.jpg"
+      }
+    ],
+    "summary": "在保护区内的紧凑校园里，以“界面”为核心把综合楼转化为承载全人教育和多元教学场景的交流场所。",
+    "path": "cases/school-anna-pao-sohmen.md"
+  },
+  {
+    "id": "school-basis-shenzhen-flagship-campus",
+    "title": "深圳贝赛思国际学校中国总部旗舰校区",
+    "architect": "筑博设计-联合公设",
+    "design_team": "资料未提供",
+    "year": 2025,
+    "location": "广东深圳, 中国",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "school",
+      "education"
+    ],
+    "site": [
+      "urban-development"
+    ],
+    "strategy": [
+      "courtyard"
+    ],
+    "problem": [
+      "campus-density",
+      "play-learning"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/basis-international-school-shenzhen-the-flagship-campus-in-china-by-design-aao.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [],
+    "summary": "深圳贝赛思国际学校中国总部旗舰校区由筑博设计-联合公设设计，gooood 于 2025 年发布；项目页以“三叶草”形态概括空间体系，待补充图纸后分析其教学组织。",
+    "path": "cases/school-basis-shenzhen-flagship-campus.md"
+  },
+  {
+    "id": "school-beijing-eleven-creative",
+    "title": "北京十一学校学生创意中心",
+    "architect": "原地建筑",
+    "design_team": "李冀（主持建筑师）；李冀、陈思聪、叶强、肖迪、王文迪（设计）；王锐、王丽菲（实习）",
+    "year": 2025,
+    "location": "北京市海淀区玉泉路, 中国",
+    "area_m2": 830,
+    "site_area_m2": 570,
+    "floors": "地下一层与地上一层改造",
+    "building_height": null,
+    "type": [
+      "school"
+    ],
+    "site": [
+      "campus"
+    ],
+    "strategy": [
+      "renovation"
+    ],
+    "problem": [
+      "daylight-ventilation"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/beijing-national-day-school-student-creative-activity-center-by-origin-architect.htm",
+        "accessed": "2026-08-11"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://oss.gooood.cn/uploads/2026/05/036-beijing-national-day-school-student-creative-activity-center-by-origin-architect-960x608.jpg"
+      },
+      {
+        "kind": "site_location",
+        "url": "https://oss.gooood.cn/uploads/2026/05/001-beijing-national-day-school-student-creative-activity-center-by-origin-architect-960x577.jpg"
+      },
+      {
+        "kind": "plan_basement",
+        "url": "https://oss.gooood.cn/uploads/2026/05/003-beijing-national-day-school-student-creative-activity-center-by-origin-architect-960x452.jpg"
+      },
+      {
+        "kind": "plan_ground",
+        "url": "https://oss.gooood.cn/uploads/2026/05/002-beijing-national-day-school-student-creative-activity-center-by-origin-architect-960x523.jpg"
+      },
+      {
+        "kind": "elevation",
+        "url": "https://oss.gooood.cn/uploads/2026/05/005-beijing-national-day-school-student-creative-activity-center-by-origin-architect-960x215.jpg"
+      },
+      {
+        "kind": "elevation",
+        "url": "https://oss.gooood.cn/uploads/2026/05/007-beijing-national-day-school-student-creative-activity-center-by-origin-architect-960x231.jpg"
+      },
+      {
+        "kind": "section",
+        "url": "https://oss.gooood.cn/uploads/2026/05/008-beijing-national-day-school-student-creative-activity-center-by-origin-architect-960x369.jpg"
+      },
+      {
+        "kind": "detail",
+        "url": "https://oss.gooood.cn/uploads/2026/05/010-beijing-national-day-school-student-creative-activity-center-by-origin-architect-960x596.jpg"
+      }
+    ],
+    "summary": "保留地下鱼池的粗粝混凝土作为“基石”，以钢梁对撑、楼板开口、连续阶梯和折屋顶重建采光通风，再用透明首层与林下平台把两层学生创意活动扩展进松林。",
+    "path": "cases/school-beijing-eleven-creative.md"
+  },
+  {
+    "id": "school-caa-liangzhu-campus",
+    "title": "中国美术学院良渚校区一期一标段",
+    "architect": "非常建筑（Atelier FCJZ）",
+    "design_team": "资料页列出建筑、室内、景观、现场协调、施工图及照明顾问团队；完整名单见来源项目页",
+    "year": 2021,
+    "location": "杭州良渚, 中国",
+    "area_m2": 180000,
+    "site_area_m2": null,
+    "floors": "工坊、公共空间与宿舍形成垂直叠置；精确层数资料未提供",
+    "building_height": null,
+    "type": [
+      "school",
+      "education"
+    ],
+    "site": [
+      "campus",
+      "suburban"
+    ],
+    "strategy": [
+      "courtyard",
+      "semi-outdoor",
+      "vertical"
+    ],
+    "problem": [
+      "campus-density",
+      "play-learning",
+      "daylight-ventilation"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/en/china-academy-of-art-liangzhu-campus-by-atelier-fcjz.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "section",
+        "url": "https://oss.gooood.cn/uploads/2021/11/056-china-academy-of-art-liangzhu-campus-by-atelier-fcjz-960x288.jpg"
+      },
+      {
+        "kind": "site-plan",
+        "url": "https://oss.gooood.cn/uploads/2021/11/057-china-academy-of-art-liangzhu-campus-by-atelier-fcjz-960x678.jpg"
+      },
+      {
+        "kind": "floor-plan",
+        "url": "https://oss.gooood.cn/uploads/2021/11/099-china-academy-of-art-liangzhu-campus-by-atelier-fcjz.jpg"
+      },
+      {
+        "kind": "floor-plan",
+        "url": "https://oss.gooood.cn/uploads/2021/11/098-china-academy-of-art-liangzhu-campus-by-atelier-fcjz.jpg"
+      },
+      {
+        "kind": "photo",
+        "url": "https://oss.gooood.cn/uploads/2021/11/001-china-academy-of-art-liangzhu-campus-by-atelier-fcjz-960x1142.jpg"
+      }
+    ],
+    "summary": "以连续开放工坊替代单一教室，并把宿舍、公共空间和工坊垂直叠置、以连廊编织为一座校园，令学习、制作与居住彼此可见。",
+    "path": "cases/school-caa-liangzhu-campus.md"
+  },
+  {
+    "id": "school-dongguan-dongcheng",
+    "title": "华中师范大学东莞东城学校",
+    "architect": "里表都会（北京）规划设计咨询有限公司",
+    "design_team": "资料未提供",
+    "year": 2025,
+    "location": "东莞东城, 中国",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "school"
+    ],
+    "site": [
+      "urban-infill"
+    ],
+    "strategy": [
+      "landscape-integration",
+      "public-interface",
+      "pedestrian-routes"
+    ],
+    "problem": [
+      "campus-density",
+      "indoor-outdoor",
+      "public-access"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/dongguan-dongcheng-school-affiliated-to-central-china-normal-university-by-unlimited-metropolis.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [],
+    "summary": "以连续“树下”空间、线性景观和接送界面，将高密城市小学的建筑逻辑转化为可流动的绿色学习环境。",
+    "path": "cases/school-dongguan-dongcheng.md"
+  },
+  {
+    "id": "school-ningbo-tongdizhou",
+    "title": "宁波童第周实验学校",
+    "architect": "c+d设计中心",
+    "design_team": "资料未提供",
+    "year": 2025,
+    "location": "宁波鄞州区前殷区块, 中国",
+    "area_m2": null,
+    "site_area_m2": 93427,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "school"
+    ],
+    "site": [
+      "urban-development"
+    ],
+    "strategy": [
+      "courtyard",
+      "pedestrian-connection",
+      "vertical"
+    ],
+    "problem": [
+      "campus-density",
+      "access",
+      "daylight-ventilation"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/ningbo-tong-dizhou-experimental-school.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "site-plan",
+        "url": "https://oss.gooood.cn/uploads/2025/12/018-Ningbo-Tong-Dizhou-Experimental-School-by-cd-studio-960x679.jpg"
+      },
+      {
+        "kind": "floor-plan",
+        "url": "https://oss.gooood.cn/uploads/2025/12/021-Ningbo-Tong-Dizhou-Experimental-School-by-cd-studio-960x679.jpg"
+      },
+      {
+        "kind": "section",
+        "url": "https://oss.gooood.cn/uploads/2025/12/078-Ningbo-Tong-Dizhou-Experimental-School-by-cd-studio-960x529.jpg"
+      }
+    ],
+    "summary": "用“运动谷”、主题庭院和跨路连廊，把被地铁咽喉区与城市道路切碎的中小学用地组织成一体化校园。",
+    "path": "cases/school-ningbo-tongdizhou.md"
+  },
+  {
+    "id": "school-sammontalo",
+    "title": "Sammontalo学校与多功能中心",
+    "architect": "NERVIN Architecture",
+    "design_team": "资料未提供",
+    "year": 2025,
+    "location": "拉彭兰塔 Sammonlahti, 芬兰",
+    "area_m2": 12123,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "school",
+      "library",
+      "community-center"
+    ],
+    "site": [
+      "suburban"
+    ],
+    "strategy": [
+      "courtyard",
+      "repeating-bays",
+      "public-space"
+    ],
+    "problem": [
+      "program-integration",
+      "daylight-ventilation",
+      "human-scale"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/nervin-architecturesammontalo-by-nervin-architecture.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "floor-plan",
+        "url": "https://oss.gooood.cn/uploads/2025/12/016-Sammontalo-960x592.jpg"
+      },
+      {
+        "kind": "section",
+        "url": "https://oss.gooood.cn/uploads/2025/12/020-Sammontalo-960x222.jpg"
+      }
+    ],
+    "summary": "在连续瓦屋顶下整合日托、学校、图书馆与运动青年设施，并以庭院轴线连接城市入口和公园。",
+    "path": "cases/school-sammontalo.md"
+  },
+  {
+    "id": "school-union-vida",
+    "title": "VIDA联合学校",
+    "architect": "OVA",
+    "design_team": "资料未提供",
+    "year": 2025,
+    "location": "Chýně, 捷克",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "三层",
+    "building_height": null,
+    "type": [
+      "school",
+      "library",
+      "performing-arts"
+    ],
+    "site": [
+      "farmland",
+      "suburban"
+    ],
+    "strategy": [
+      "courtyard",
+      "terrace",
+      "public-space"
+    ],
+    "problem": [
+      "campus-density",
+      "public-access",
+      "topography"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/union-school-vida-by-ova.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "floor-plan",
+        "url": "https://oss.gooood.cn/uploads/2025/12/003-Union-school-VIDA-by-OVA-拷贝-960x443.jpg"
+      },
+      {
+        "kind": "section",
+        "url": "https://oss.gooood.cn/uploads/2025/12/006-Union-school-VIDA-by-OVA-拷贝-960x166.jpg"
+      }
+    ],
+    "summary": "以一公一私两个庭院和分时开放策略，在坡地上把基础教育、体育、图书馆及面向社区的活动合为一所学校。",
+    "path": "cases/school-union-vida.md"
+  },
+  {
+    "id": "school-zhonggongmiao-baofeng",
+    "title": "钟公庙中心小学保丰校区",
+    "architect": "宁波市民用建筑设计研究院有限公司·少多建筑",
+    "design_team": "资料未提供",
+    "year": 2025,
+    "location": "宁波鄞州区钟公庙街道, 中国",
+    "area_m2": 42450,
+    "site_area_m2": null,
+    "floors": "地上五层；设地下室",
+    "building_height": null,
+    "type": [
+      "school"
+    ],
+    "site": [
+      "urban-infill"
+    ],
+    "strategy": [
+      "courtyard",
+      "pedestrian-routes",
+      "stilted-structure"
+    ],
+    "problem": [
+      "campus-density",
+      "access",
+      "daylight-ventilation"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/zhonggongmiao-central-primary-school-baofeng-campus-by-ningbo-civil-architectural-design-research-co-ltd.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "site-plan",
+        "url": "https://oss.gooood.cn/uploads/2025/12/003-Zhonggongmiao-Central-Primary-School-Baofeng-Campus-by-Ningbo-Civil-Architectural-Design-Research-960x1153.jpg"
+      },
+      {
+        "kind": "floor-plan",
+        "url": "https://oss.gooood.cn/uploads/2025/12/004-Zhonggongmiao-Central-Primary-School-Baofeng-Campus-by-Ningbo-Civil-Architectural-Design-Research-960x1311.jpg"
+      },
+      {
+        "kind": "section",
+        "url": "https://oss.gooood.cn/uploads/2025/12/009-Zhonggongmiao-Central-Primary-School-Baofeng-Campus-by-Ningbo-Civil-Architectural-Design-Research-960x199.jpg"
+      }
+    ],
+    "summary": "以 S 形教学楼、地下接送系统和无风雨连廊，在受限用地上组织 42 班小学的学习社区与庭院生态。",
+    "path": "cases/school-zhonggongmiao-baofeng.md"
+  },
+  {
+    "id": "sesc-24-de-maio",
+    "title": "Sesc 24 de Maio 社会文化中心",
+    "architect": "Paulo Mendes da Rocha + MMBB Arquitetos",
+    "design_team": "结构：Kurkdjian e Fruchtengarten Engenheiros Associados；声学：Nepomuceno Acústica e Sônica 等（ArchDaily）",
+    "year": 2017,
+    "location": "São Paulo, Brazil",
+    "area_m2": 27865,
+    "site_area_m2": null,
+    "floors": "既有多层商业楼改造；具体层数资料未提供",
+    "building_height": null,
+    "type": [
+      "mixed-use",
+      "community-center",
+      "cultural-center"
+    ],
+    "site": [
+      "city-center",
+      "heritage"
+    ],
+    "strategy": [
+      "adaptive-reuse",
+      "vertical",
+      "public-space"
+    ],
+    "problem": [
+      "urban-regeneration",
+      "public-access",
+      "program-integration"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/893553/sesc-24-de-maio-paulo-mendes-da-rocha-plus-mmbb-arquitetos",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "floor-plan",
+        "url": "https://www.archdaily.com/893553/sesc-24-de-maio-paulo-mendes-da-rocha-plus-mmbb-arquitetos"
+      },
+      {
+        "kind": "section",
+        "url": "https://www.archdaily.com/893553/sesc-24-de-maio-paulo-mendes-da-rocha-plus-mmbb-arquitetos"
+      },
+      {
+        "kind": "photo",
+        "url": "https://www.archdaily.com/893553/sesc-24-de-maio-paulo-mendes-da-rocha-plus-mmbb-arquitetos"
+      }
+    ],
+    "summary": "把圣保罗市中心旧 Mesbla 总部改造成 27,865 m² 的社会文化综合体，以新增垂直交通和屋顶公共空间连接运动、文化、休闲与城市更新。",
+    "path": "cases/sesc-24-de-maio.md"
+  },
+  {
+    "id": "shanghai-astronomy-museum",
+    "title": "上海天文馆",
+    "architect": "Ennead Architects",
+    "design_team": "本地设计院：Arcplus Institute of Shanghai Architectural Design & Research（ArchDaily）",
+    "year": 2021,
+    "location": "Shanghai, China",
+    "area_m2": 39000,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "museum",
+      "education"
+    ],
+    "site": [
+      "urban-development"
+    ],
+    "strategy": [
+      "program-loop",
+      "landscape-orientation"
+    ],
+    "problem": [
+      "program-integration",
+      "gathering",
+      "landscape-response"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/965203/shanghai-astronomy-museum-ennead-architects",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "site-plan",
+        "url": "https://www.archdaily.com/965203/shanghai-astronomy-museum-ennead-architects"
+      },
+      {
+        "kind": "floor-plan",
+        "url": "https://www.archdaily.com/965203/shanghai-astronomy-museum-ennead-architects"
+      },
+      {
+        "kind": "section",
+        "url": "https://www.archdaily.com/965203/shanghai-astronomy-museum-ennead-architects"
+      },
+      {
+        "kind": "analysis",
+        "url": "https://www.archdaily.com/965203/shanghai-astronomy-museum-ennead-architects"
+      }
+    ],
+    "summary": "以与天体运动相关的连续几何组织 39,000 m² 天文馆，让展览路径、采光装置与公共广场共同构成认识宇宙的空间体验。",
+    "path": "cases/shanghai-astronomy-museum.md"
+  },
+  {
+    "id": "social-housing-8-house",
+    "title": "8 字住宅",
+    "architect": "BIG – Bjarke Ingels Group",
+    "design_team": "资料未提供",
+    "year": 2010,
+    "location": "哥本哈根, 丹麦",
+    "area_m2": 61000,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "social-housing",
+      "housing",
+      "mixed-use"
+    ],
+    "site": [
+      "urban-development",
+      "landscape"
+    ],
+    "strategy": [
+      "program-loop",
+      "terraced-housing",
+      "mixed-use"
+    ],
+    "problem": [
+      "community",
+      "mixed-use",
+      "landscape-response"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/83307/8-house-big",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "analysis",
+        "url": "https://images.adsttc.com/media/images/55e5/88be/9f38/56be/7300/097f/medium_jpg/8h_diagram-by-big_11.jpg?1441106106"
+      },
+      {
+        "kind": "floor-plan",
+        "url": "https://images.adsttc.com/media/images/55e5/8a6e/9f38/56be/7300/0991/medium_jpg/plan_level0.jpg?1441106521"
+      },
+      {
+        "kind": "floor-plan",
+        "url": "https://images.adsttc.com/media/images/55e5/8a56/9f38/56be/7300/0990/medium_jpg/plan_apartments_level4.jpg?1441106496"
+      },
+      {
+        "kind": "section",
+        "url": "https://images.adsttc.com/media/images/55e5/8ab6/9f38/56be/7300/0994/medium_jpg/section3-3.jpg?1441106594"
+      }
+    ],
+    "summary": "在约 61,000 m² 的综合住宅中把商业、住宅和景观步行路径折成 8 字环，使住户可沿连续坡道从街面到屋顶移动。",
+    "path": "cases/social-housing-8-house.md"
+  },
+  {
+    "id": "sports-culture-centre-copenhagen",
+    "title": "哥本哈根体育与文化中心",
+    "architect": "Dorte Mandrup + Brandlhuber+Emde, Burlon",
+    "design_team": "资料未提供",
+    "year": 2008,
+    "location": "哥本哈根, 丹麦",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "sports",
+      "cultural-center"
+    ],
+    "site": [
+      "urban-infill",
+      "housing-estate"
+    ],
+    "strategy": [
+      "membrane-roof",
+      "interface",
+      "public-space"
+    ],
+    "problem": [
+      "community-integration",
+      "shared-facilities",
+      "urban-connection"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/6630/sports-culture-centre-dorte-mandrup-bk-brandlhuber-co",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://www.archdaily.com/6630/sports-culture-centre-dorte-mandrup-bk-brandlhuber-co"
+      }
+    ],
+    "summary": "用一张跨越场馆与既有公共住宅端墙的半透明膜，连接运动、文化活动和住宅区公共界面。",
+    "path": "cases/sports-culture-centre-copenhagen.md"
+  },
+  {
+    "id": "sports-dongan-lake",
+    "title": "东安湖体育中心",
+    "architect": "gmp Architects",
+    "design_team": "资料未提供",
+    "year": 2022,
+    "location": "成都, 中国",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "sports",
+      "stadium",
+      "recreation"
+    ],
+    "site": [
+      "waterfront",
+      "urban-development"
+    ],
+    "strategy": [
+      "public-plaza",
+      "sports-campus",
+      "large-roof"
+    ],
+    "problem": [
+      "event-flexibility",
+      "urban-landmark",
+      "public-realm"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/984564/dongan-lake-sports-center-gmp-architects",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://www.archdaily.com/984564/dongan-lake-sports-center-gmp-architects"
+      }
+    ],
+    "summary": "以中央广场组织 18,000 座体育馆、多功能馆与双 50 米泳池，将赛事场馆组合为东安新城的公共核心。",
+    "path": "cases/sports-dongan-lake.md"
+  },
+  {
+    "id": "sports-dongxihu-center",
+    "title": "东西湖体育中心",
+    "architect": "中信建筑设计研究总院有限公司（CITIC DESIGN）",
+    "design_team": "肖明路建筑创作工作室",
+    "year": 2019,
+    "location": "湖北武汉东西湖区金山大道45号, 中国",
+    "area_m2": 144000,
+    "site_area_m2": null,
+    "floors": "体育场、体育馆与游泳馆；具体层数资料未提供",
+    "building_height": null,
+    "type": [
+      "sports",
+      "stadium",
+      "gymnasium"
+    ],
+    "site": [
+      "urban-development",
+      "landscape"
+    ],
+    "strategy": [
+      "landscape-integration",
+      "large-roof",
+      "public-space"
+    ],
+    "problem": [
+      "public-realm",
+      "urban-connection",
+      "daylight-ventilation"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/dongxihu-sports-center-by-citic-design.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [],
+    "summary": "将体育场、体育馆和游泳馆的叶形屋顶、天窗与地面绿化连续组织，使大型运动设施成为可步行穿越的体育公园。",
+    "path": "cases/sports-dongxihu-center.md"
+  },
+  {
+    "id": "taipei-performing-arts-center",
+    "title": "台北表演艺术中心",
+    "architect": "OMA",
+    "design_team": "资料未提供",
+    "year": 2022,
+    "location": "Taipei, Taiwan, China",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "performing-arts",
+      "cultural-center"
+    ],
+    "site": [
+      "urban-infill",
+      "city-center"
+    ],
+    "strategy": [
+      "program-loop",
+      "split-volumes",
+      "public-space"
+    ],
+    "problem": [
+      "program-integration",
+      "gathering",
+      "urban-connection"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/981894/taipei-performing-arts-center-oma",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "floor-plan",
+        "url": "https://www.archdaily.com/981894/taipei-performing-arts-center-oma"
+      },
+      {
+        "kind": "section",
+        "url": "https://www.archdaily.com/981894/taipei-performing-arts-center-oma"
+      },
+      {
+        "kind": "analysis",
+        "url": "https://www.archdaily.com/981894/taipei-performing-arts-center-oma"
+      },
+      {
+        "kind": "photo",
+        "url": "https://www.archdaily.com/981894/taipei-performing-arts-center-oma"
+      }
+    ],
+    "summary": "把两座不同尺度剧场与黑盒围绕中央舞台核心组合，在士林夜市边缘以可见的后台和非标准组合方式扩展表演、城市与公众之间的联系。",
+    "path": "cases/taipei-performing-arts-center.md"
+  },
+  {
+    "id": "tank-shanghai",
+    "title": "上海油罐艺术中心",
+    "architect": "OPEN建筑事务所",
+    "design_team": "OPEN建筑事务所 + 北京易地斯埃东方环境景观设计有限公司（景观）",
+    "year": 2019,
+    "location": "上海徐汇, 中国",
+    "area_m2": 10845,
+    "site_area_m2": 47448,
+    "floors": "罐体功能各异；4号罐为3层（来源叙述）",
+    "building_height": null,
+    "type": [
+      "museum",
+      "gallery",
+      "cultural-center"
+    ],
+    "site": [
+      "waterfront",
+      "industrial-heritage"
+    ],
+    "strategy": [
+      "adaptive-reuse",
+      "public-space",
+      "landscape-integration"
+    ],
+    "problem": [
+      "urban-regeneration",
+      "cultural-memory",
+      "public-realm"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/tank-shanghai-china-by-open-architecture.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://oss.gooood.cn/uploads/2020/03/001-tank-shanghai-china-by-open-architecture-960x640.jpg"
+      }
+    ],
+    "summary": "保留五座航空油罐及其工业表皮，将每罐按不同运营需求改造，并以公园、下沉广场和通往黄浦江的开口把艺术机构转化为无边界的公共文化地景。",
+    "path": "cases/tank-shanghai.md"
+  },
+  {
+    "id": "the-canyon-mission-rock",
+    "title": "The Canyon",
+    "architect": "MVRDV",
+    "design_team": "景观：GLS Landscape/Architecture；结构：Magnusson Klemencic Associates；机电：PAE Engineers；执行建筑师：Perry Architects",
+    "year": 2023,
+    "location": "San Francisco, United States",
+    "area_m2": 34900,
+    "site_area_m2": 110000,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "mixed-use",
+      "apartments",
+      "retail"
+    ],
+    "site": [
+      "urban-development",
+      "waterfront"
+    ],
+    "strategy": [
+      "district-collaboration",
+      "phased-development"
+    ],
+    "problem": [
+      "district-integration",
+      "mixed-use"
+    ],
+    "quality": "★★",
+    "sources": [
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/1007989/the-canyon-mvrdv",
+        "accessed": "2026-08-11"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://images.adsttc.com/media/images/6524/5cda/6fa7/bc20/0bd6/2177/large_jpg/the-canyon-mvrdv_16.jpg?1696881925"
+      }
+    ],
+    "summary": "位于 Oracle Park 对面的 34,900 m² 混合功能建筑，是 11 公顷 Mission Rock 首期四栋协同设计建筑之一，目标是在独特形象中形成连贯街区。",
+    "path": "cases/the-canyon-mission-rock.md"
+  },
+  {
+    "id": "the-twist-museum",
+    "title": "The Twist 美术馆桥",
+    "architect": "Bjarke Ingels Group",
+    "design_team": "结构工程：AKT II（ArchDaily）",
+    "year": 2019,
+    "location": "Jevnaker, Norway",
+    "area_m2": 1000,
+    "site_area_m2": null,
+    "floors": "单层为主；扭转处形成高差",
+    "building_height": null,
+    "type": [
+      "museum",
+      "gallery"
+    ],
+    "site": [
+      "waterfront",
+      "landscape"
+    ],
+    "strategy": [
+      "pedestrian-connection",
+      "program-loop",
+      "split-volumes"
+    ],
+    "problem": [
+      "urban-connection",
+      "landscape-response",
+      "views"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/925106/the-twist-museum-big",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "floor-plan",
+        "url": "https://www.archdaily.com/925106/the-twist-museum-big"
+      },
+      {
+        "kind": "section",
+        "url": "https://www.archdaily.com/925106/the-twist-museum-big"
+      },
+      {
+        "kind": "photo",
+        "url": "https://www.archdaily.com/925106/the-twist-museum-big"
+      }
+    ],
+    "summary": "以中部 90° 扭转的 1,000 m² 可居住桥梁跨越 Randselva 河，将展厅与 Kistefos 雕塑公园两岸的游览路线接成一体。",
+    "path": "cases/the-twist-museum.md"
+  },
+  {
+    "id": "tianjin-binhai-library",
+    "title": "天津滨海图书馆",
+    "architect": "MVRDV",
+    "design_team": "天津市城市规划设计研究院（合作）",
+    "year": 2017,
+    "location": "天津滨海新区, 中国",
+    "area_m2": 33700,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "library",
+      "cultural-center"
+    ],
+    "site": [
+      "urban-development"
+    ],
+    "strategy": [
+      "atrium",
+      "public-space",
+      "vertical"
+    ],
+    "problem": [
+      "public-access",
+      "gathering",
+      "urban-identity"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/tianjin-binhai-public-library-by-mvrdv.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://oss.gooood.cn/uploads/2017/11/003-Tianjin-Binhai-Public-Library-By-MVRDV-960x720.jpg"
+      }
+    ],
+    "summary": "以贯通多层的球形中庭和连续书架地形将图书馆变成可阅读、可停留、可集会的公共客厅，并把周边文化设施的视觉轴线引入内部。",
+    "path": "cases/tianjin-binhai-library.md"
+  },
+  {
+    "id": "transport-arnhem-central-transfer-terminal",
+    "title": "阿纳姆中央换乘枢纽",
+    "architect": "UNStudio",
+    "design_team": "结构：Arup、Van der Werf & Lankhorst、BAM Advies & Engineering；照明：Arup Lighting；隧道工程：Arcadis",
+    "year": 2015,
+    "location": "阿纳姆, 荷兰",
+    "area_m2": 21750,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "transport",
+      "train-station",
+      "transit-hub"
+    ],
+    "site": [
+      "urban-infill",
+      "transit-interchange"
+    ],
+    "strategy": [
+      "intermodal-integration",
+      "public-interior",
+      "pedestrian-connection"
+    ],
+    "problem": [
+      "wayfinding",
+      "modal-transfer",
+      "public-access"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/777495/arnhem-central-transfer-terminal-unstudio",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://www.archdaily.com/777495/arnhem-central-transfer-terminal-unstudio"
+      }
+    ],
+    "summary": "以 21,750 m² 的连续换乘大厅整合铁路、巴士与步行系统，将站房从交通设施转化为可穿行的公共室内空间。",
+    "path": "cases/transport-arnhem-central-transfer-terminal.md"
+  },
+  {
+    "id": "transport-south-sanlin-station",
+    "title": "入林·上海机场联络线三林南站地面站点",
+    "architect": "同济原作设计工作室",
+    "design_team": "同济大学建筑设计研究院（集团）有限公司；施工：上海申铁投资有限公司",
+    "year": 2024,
+    "location": "上海浦东新区, 中国",
+    "area_m2": 13818,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "transport",
+      "station"
+    ],
+    "site": [
+      "urban-development",
+      "landscape"
+    ],
+    "strategy": [
+      "landscape-integration",
+      "pedestrian-connection",
+      "public-space"
+    ],
+    "problem": [
+      "urban-connection",
+      "public-realm",
+      "access"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/meandering-in-forest-south-sanlin-station-of-shanghai-airport-link-by-original-design-studio-tjad.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [],
+    "summary": "以“入林”的地面站点与景观化到达空间，尝试把机场联络线的交通设施转化为可进入、可停留的城市公共界面。",
+    "path": "cases/transport-south-sanlin-station.md"
+  },
+  {
+    "id": "ucca-dune-art-museum",
+    "title": "UCCA沙丘美术馆",
+    "architect": "OPEN建筑事务所",
+    "design_team": "李虎、黄文菁（主持建筑师）",
+    "year": 2018,
+    "location": "河北秦皇岛, 中国",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "地下展览空间（来源叙述）",
+    "building_height": null,
+    "type": [
+      "museum",
+      "gallery"
+    ],
+    "site": [
+      "waterfront",
+      "landscape"
+    ],
+    "strategy": [
+      "underground",
+      "landscape-integration",
+      "atrium"
+    ],
+    "problem": [
+      "landscape-response",
+      "public-access",
+      "views"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/ucca-dune-art-museum-qinhuangdao-china-by-open.htm?lang=cn",
+        "accessed": "2026-08-12"
+      },
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/907596/ucca-dune-art-museum-open-architecture",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "floor-plan",
+        "url": "https://www.archdaily.com/907596/ucca-dune-art-museum-open-architecture"
+      },
+      {
+        "kind": "section",
+        "url": "https://www.archdaily.com/907596/ucca-dune-art-museum-open-architecture/5c111b6508a5e58aba0002af-ucca-dune-art-museum-open-architecture-section"
+      },
+      {
+        "kind": "photo",
+        "url": "https://oss.gooood.cn/uploads/2018/12/001-ucca-dune-art-museum-qinhuangdao-china-by-open.jpg"
+      }
+    ],
+    "summary": "把美术馆嵌入渤海湾沙丘之下，以连续洞穴式展厅、庭院和天窗引入海风、光线与行走路径，使地表沙丘完整保留而建筑在地下组织公共艺术体验。",
+    "path": "cases/ucca-dune-art-museum.md"
+  },
+  {
+    "id": "university-kroon-hall",
+    "title": "耶鲁大学克伦楼",
+    "architect": "Hopkins Architects + Centerbrook Architects and Planners",
+    "design_team": "资料未提供",
+    "year": 2009,
+    "location": "纽黑文, 美国",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "university",
+      "education",
+      "campus"
+    ],
+    "site": [
+      "campus",
+      "landscape"
+    ],
+    "strategy": [
+      "passive-design",
+      "large-roof",
+      "daylighting"
+    ],
+    "problem": [
+      "environmental-performance",
+      "campus-identity",
+      "learning-environment"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/97216/kroon-hall-yale-university-centerbrook-architects-and-planners-and-hopkins-architects",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "section",
+        "url": "https://www.archdaily.com/97216/kroon-hall-yale-university-centerbrook-architects-and-planners-and-hopkins-architects/50134d1928ba0d0ef0000c11-kroon-hall-yale-university-centerbrook-architects-and-planners-and-hopkins-architects-section"
+      }
+    ],
+    "summary": "为耶鲁森林与环境研究学院建造的校园教学楼，以“耶鲁最绿色建筑”的性能目标把屋顶、采光与学习环境结合起来。",
+    "path": "cases/university-kroon-hall.md"
+  },
+  {
+    "id": "university-nus-sde4",
+    "title": "新加坡国立大学设计与环境学院 SDE4",
+    "architect": "Serie Architects + Multiply Architects + Surbana Jurong",
+    "design_team": "资料未提供",
+    "year": 2019,
+    "location": "新加坡, 新加坡",
+    "area_m2": 8500,
+    "site_area_m2": null,
+    "floors": "6 层",
+    "building_height": null,
+    "type": [
+      "university",
+      "education",
+      "campus"
+    ],
+    "site": [
+      "campus",
+      "tropical-climate"
+    ],
+    "strategy": [
+      "passive-design",
+      "atrium",
+      "vertical-learning"
+    ],
+    "problem": [
+      "net-zero-energy",
+      "daylight-ventilation",
+      "campus-learning"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/912021/nus-school-of-design-and-environment-serie-architects-plus-multiply-architects-plus-surbana-jurong",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "section",
+        "url": "https://images.adsttc.com/media/images/5c6f/771c/284d/d1b4/8200/00ef/medium_jpg/NUS_SDE_SECTION-01-01.jpg?1550808840"
+      },
+      {
+        "kind": "photo",
+        "url": "https://www.archdaily.com/912021/nus-school-of-design-and-environment-serie-architects-plus-multiply-architects-plus-surbana-jurong"
+      }
+    ],
+    "summary": "以 8,500 m²、六层的跨学科学习空间承载新加坡首座新建净零能耗建筑，并将教育、可持续性和热带气候适应放在同一任务中。",
+    "path": "cases/university-nus-sde4.md"
+  },
+  {
+    "id": "v-and-a-dundee",
+    "title": "邓迪 V&A 博物馆",
+    "architect": "Kengo Kuma & Associates",
+    "design_team": "结构、土木及机电顾问：Arup；交付建筑师：PiM.studio Architects；执行建筑师：James F Stephen Architects（ArchDaily）",
+    "year": 2018,
+    "location": "Dundee, United Kingdom",
+    "area_m2": 8500,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "museum",
+      "cultural-center"
+    ],
+    "site": [
+      "waterfront",
+      "urban-development"
+    ],
+    "strategy": [
+      "public-plaza",
+      "landscape-integration",
+      "monolithic-mass"
+    ],
+    "problem": [
+      "waterfront",
+      "urban-landmark",
+      "public-access"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/901892/v-and-a-dundee-kengo-kuma-and-associates",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "site-plan",
+        "url": "https://www.archdaily.com/901892/v-and-a-dundee-kengo-kuma-and-associates"
+      },
+      {
+        "kind": "floor-plan",
+        "url": "https://www.archdaily.com/901892/v-and-a-dundee-kengo-kuma-and-associates"
+      },
+      {
+        "kind": "section",
+        "url": "https://www.archdaily.com/901892/v-and-a-dundee-kengo-kuma-and-associates"
+      },
+      {
+        "kind": "photo",
+        "url": "https://www.archdaily.com/901892/v-and-a-dundee-kengo-kuma-and-associates"
+      }
+    ],
+    "summary": "在邓迪滨水区以被水环抱的层叠混凝土形体、公共大厅和面向 Tay 河的空间，组织 8,500 m² 设计博物馆与城市公共界面。",
+    "path": "cases/v-and-a-dundee.md"
+  },
+  {
+    "id": "visitor-icefjord-centre",
+    "title": "Ilulissat Icefjord Centre",
+    "architect": "Dorte Mandrup",
+    "design_team": "资料未提供",
+    "year": 2021,
+    "location": "Ilulissat, Greenland",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "资料未提供",
+    "building_height": null,
+    "type": [
+      "exhibition",
+      "cultural-center"
+    ],
+    "site": [
+      "landscape",
+      "waterfront"
+    ],
+    "strategy": [
+      "landscape-integration",
+      "pedestrian-routes"
+    ],
+    "problem": [
+      "landscape-response",
+      "views"
+    ],
+    "quality": "★★★",
+    "sources": [
+      {
+        "name": "divisare",
+        "url": "https://divisare.com/projects/448600-dorte-mandrup-adam-mork-icefjord-centre-in-greenland",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://images.divisare.com//image/upload/c_fit,f_jpg,q_80,w_1200/v1633447191/p4ve3mtmlsphxdf7fllq.jpg"
+      }
+    ],
+    "summary": "以轻盈、近似雪鸮飞行姿态的访客中心贴近岩地，为体验冰峡湾及理解气候变化提供路径与观察点。",
+    "path": "cases/visitor-icefjord-centre.md"
+  },
+  {
+    "id": "wellness-therme-vals",
+    "title": "瓦尔斯温泉浴场",
+    "architect": "Peter Zumthor",
+    "design_team": "Marc Loeliger、Thomas Durisch、Rainer Weitschies（主创团队，来源页列示）",
+    "year": 1996,
+    "location": "瓦尔斯, 瑞士",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "半嵌入山坡",
+    "building_height": "5 m（石桌单元高度）",
+    "type": [
+      "cultural-center"
+    ],
+    "site": [
+      "mountain",
+      "landscape"
+    ],
+    "strategy": [
+      "underground",
+      "monolithic-mass",
+      "landscape-integration"
+    ],
+    "problem": [
+      "retreat",
+      "landscape-response",
+      "indoor-outdoor"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "archdaily",
+        "url": "https://www.archdaily.com/13358/the-therme-vals",
+        "accessed": "2026-08-12"
+      },
+      {
+        "name": "divisare",
+        "url": "https://divisare.com/projects/273885-peter-zumthor-helene-binet-therme-vals",
+        "accessed": "2026-08-12"
+      },
+      {
+        "name": "archello",
+        "url": "https://archello.com/project/therme-vals",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "floor-plan",
+        "url": "https://archello.com/project/therme-vals"
+      },
+      {
+        "kind": "photo",
+        "url": "https://divisare.com/projects/273885-peter-zumthor-helene-binet-therme-vals"
+      }
+    ],
+    "summary": "以半埋山坡的石材“桌”与其间的曲折负空间，把温泉沐浴组织成光、声、温度与触感共同构成的仪式。",
+    "path": "cases/wellness-therme-vals.md"
+  },
+  {
+    "id": "west-village-basis-yard",
+    "title": "西村·贝森大院",
+    "architect": "家琨建筑设计事务所",
+    "design_team": null,
+    "year": 2016,
+    "location": "四川成都, 中国",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "地下2层；地上5至6层",
+    "building_height": "24m（规划限高）",
+    "type": [
+      "mixed-use",
+      "community-center"
+    ],
+    "site": [
+      "urban-infill"
+    ],
+    "strategy": [
+      "courtyard",
+      "pedestrian-routes",
+      "semi-outdoor"
+    ],
+    "problem": [
+      "community",
+      "public-realm",
+      "mixed-use"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/west-village-basis-yard-by-jiakun-architects.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://oss.gooood.cn/uploads/2016/03/002-%E8%A5%BF%E6%9D%91%E5%A4%A7%E9%99%A2-960x719.jpg"
+      },
+      {
+        "kind": "photo",
+        "url": "https://oss.gooood.cn/uploads/2016/03/01-West-Village-Basis-Yard_Jiakun-Architects-960x640.jpg"
+      }
+    ],
+    "summary": "以低层连续围合取代孤立商业盒子，用可穿越的院落、外廊与跑道把高密住宅间的体育、商业和日常公共生活组织为一个开放的城市盆地。",
+    "path": "cases/west-village-basis-yard.md"
+  },
+  {
+    "id": "xiadi-paddy-field-bookstore",
+    "title": "先锋厦地水田书店",
+    "architect": "迹·建筑事务所（TAO）",
+    "design_team": "华黎（主持建筑师）",
+    "year": 2020,
+    "location": "福建屏南厦地村, 中国",
+    "area_m2": null,
+    "site_area_m2": null,
+    "floors": "2层",
+    "building_height": null,
+    "type": [
+      "retail",
+      "cultural-center"
+    ],
+    "site": [
+      "rural",
+      "farmland"
+    ],
+    "strategy": [
+      "adaptive-reuse",
+      "courtyard",
+      "landscape-orientation"
+    ],
+    "problem": [
+      "rural-revitalization",
+      "cultural-memory",
+      "views"
+    ],
+    "quality": "★★★★",
+    "sources": [
+      {
+        "name": "gooood",
+        "url": "https://www.gooood.cn/xiadi-paddy-field-bookstore-of-librairie-avant-garde-china-by-tao.htm",
+        "accessed": "2026-08-12"
+      }
+    ],
+    "images": [
+      {
+        "kind": "photo",
+        "url": "https://oss.gooood.cn/uploads/2020/01/005-xiadi-paddy-field-bookstore-of-librairie-avant-garde-china-by-tao-960x589.jpg"
+      }
+    ],
+    "summary": "在水田包围的夯土民居残墙内植入折线混凝土墙、悬挑楼板和伞形屋顶，以新旧脱缝采光及面向田野的咖啡厅把乡村书店变成记忆与公共活动的容器。",
+    "path": "cases/xiadi-paddy-field-bookstore.md"
+  }
+]

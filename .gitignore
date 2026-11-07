@@ -1,0 +1,32 @@
+# Local execution traces and one-off task artifacts
+tasks/
+
+# Upstream Revit MCP source is a separately cloned repository. Its pinned
+# revision and integration instructions are recorded in tools/revit-mcp/.
+tools/revit-mcp/repo/
+
+# Editor and operating-system files
+.DS_Store
+.idea/
+.vscode/
+
+# Local credentials and environment overrides
+.env
+.env.*
+!.env.example
+
+# Python caches
+__pycache__/
+*.pyc
+
+.codegraph/
+.venv/
+skills/architecture-design-workflow/scripts/revit-mcp/repo/
+
+# Cloudflare Worker local secrets and build output
+web/feedback/worker/.dev.vars
+web/feedback/worker/node_modules/
+web/feedback/worker/.wrangler/
+
+# Generated publication report: it quotes the local paths it finds, so it is not committed.
+audit/publication-audit.json

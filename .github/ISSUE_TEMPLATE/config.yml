@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 使用问题与经验交流
+    url: https://github.com/QingFXQ/ArchDesigh-skill/discussions
+    about: 不确定是不是缺陷、想讨论做法、想展示工作流，请到这里。Discussions 未启用时请用 Bug Report 并注明「使用问题」。
+  - name: 安全与隐私问题
+    url: https://github.com/QingFXQ/ArchDesigh-skill/security/advisories/new
+    about: 密钥泄漏、隐私泄漏、门禁绕过请走私密通道，不要开公开 Issue。
+  - name: 文档索引
+    url: https://github.com/QingFXQ/ArchDesigh-skill/blob/main/SUPPORT.md
+    about: 不知道该去哪问时先看这里。

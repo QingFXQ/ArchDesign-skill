@@ -1,0 +1,87 @@
+name: Tool / Software Adapter
+description: 适配新的宿主软件、版本、插件或 MCP。请附测试证据与已知限制。
+title: "[adapter] "
+labels: ["type:tool-adapter", "status:needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        适配条目会影响其他人的交付判断，因此必须写清「在什么版本上测过、测到什么程度、什么情况下不可信」。
+        未实测的能力请标为未验证，不要按「应该可以」填写。
+
+  - type: input
+    id: software
+    attributes:
+      label: 软件名称与版本
+      placeholder: Archicad 27 / Rhino 8 + Grasshopper / Revit 2021
+    validations:
+      required: true
+
+  - type: dropdown
+    id: channel
+    attributes:
+      label: 接入方式
+      options:
+        - 官方 API / SDK
+        - 插件或扩展
+        - MCP 服务
+        - 命令行工具
+        - 文件格式交换
+        - 其他
+    validations:
+      required: true
+
+  - type: textarea
+    id: capability
+    attributes:
+      label: 适配能力
+      description: 能读到什么、能写什么、能验证什么。例如「读取图层与块定义，不能写回」。
+    validations:
+      required: true
+
+  - type: textarea
+    id: usage
+    attributes:
+      label: 使用方法
+      description: 安装与调用步骤，含最少的可运行示例。不要包含本机绝对路径与凭证。
+      render: shell
+    validations:
+      required: true
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 测试证据
+      description: 在哪个版本、做了什么操作、结果如何。保存重开、回读对象、导出对照都算证据。
+    validations:
+      required: true
+
+  - type: textarea
+    id: limits
+    attributes:
+      label: 已知限制
+      description: 失败模式、版本差异、许可证限制、需要人工确认的环节。
+    validations:
+      required: true
+
+  - type: dropdown
+    id: verification_level
+    attributes:
+      label: 验证等级
+      options:
+        - 已在真实项目中完整走通
+        - 已在样例项目上走通
+        - 只验证了读取，未验证写入
+        - 只做了接口连通性检查
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: 提交前确认
+      options:
+        - label: 我没有在此表单中包含许可证密钥、Token 或本机绝对路径
+          required: true
+        - label: 我标明了未验证的部分，没有把「应该可以」写成已验证
+          required: true

@@ -1,0 +1,91 @@
+name: Knowledge Contribution
+description: 贡献案例、专业经验、工程方法、规范适用性笔记。必须写来源、范围与授权。
+title: "[knowledge] "
+labels: ["type:knowledge", "status:needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        本项目的知识条目会被后续设计直接引用，因此**来源、适用范围、授权**三项缺一不可。
+        单个项目的尺寸、纸幅、层高不是通用规范；请写成「在什么条件下成立」。
+        不确定能否公开的图片和图纸，只给链接，不要上传。
+
+  - type: dropdown
+    id: kind
+    attributes:
+      label: 贡献类型
+      options:
+        - 建筑设计案例
+        - 专业设计经验
+        - 工程方法 / 制图方法
+        - 规范适用性经验
+        - 教学或评图经验
+    validations:
+      required: true
+
+  - type: input
+    id: title
+    attributes:
+      label: 标题
+      description: 用能检索到的实义词，不要用「一些经验」「分享」这类空标题。
+    validations:
+      required: true
+
+  - type: textarea
+    id: content
+    attributes:
+      label: 内容
+      description: 可以直接写 Markdown。案例请包含建筑类型、规模、关键空间策略。
+    validations:
+      required: true
+
+  - type: textarea
+    id: applicability
+    attributes:
+      label: 适用范围与不适用条件
+      description: 地区、气候、规范版本、建筑类型、面积区间、软件版本。哪一类项目不适用？
+    validations:
+      required: true
+
+  - type: textarea
+    id: sources
+    attributes:
+      label: 资料来源
+      description: 书籍、规范编号与版本、网站链接与访问日期、项目名称。一条一行。
+      placeholder: |
+        GB 50016-2014（2018 年版）第 5.5.17 条
+        https://www.archdaily.com/... 访问于 2026-11-01
+    validations:
+      required: true
+
+  - type: textarea
+    id: rights
+    attributes:
+      label: 版权与授权声明
+      description: 文字是否为原创？图片、图纸、模型由谁授权公开？第三方素材请给链接而不是转载。
+    validations:
+      required: true
+
+  - type: dropdown
+    id: evidence_level
+    attributes:
+      label: 证据等级
+      options:
+        - 已在真实项目中验证
+        - 来自规范或正式出版物
+        - 来自教学或评图反馈
+        - 个人经验，尚未系统验证
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: 提交前确认
+      options:
+        - label: 我没有把单个项目的尺寸或偏好写成通用规范
+          required: true
+        - label: 我拥有所提交内容的公开授权，或只提供了链接
+          required: true
+        - label: 我理解知识条目需要人工审核后才会并入 Skill
+          required: true

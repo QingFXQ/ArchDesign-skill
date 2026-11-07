@@ -1,0 +1,137 @@
+name: Bug Report
+description: 工具报错、门禁误判、脚本失败、流程走不通。请先脱敏。
+title: "[bug] "
+labels: ["type:bug", "status:needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        报缺陷前请确认：这不是设计偏好问题，也不是还没看文档。
+        不要在公开表单里贴客户图纸、未公开方案、完整工程文件或聊天记录。
+        安全和隐私问题请走 [SECURITY.md](https://github.com/QingFXQ/ArchDesigh-skill/blob/main/SECURITY.md)。
+
+  - type: input
+    id: summary
+    attributes:
+      label: 一句话说明问题
+      description: 例如「checkpoint 到 R2 后旧产物没有被替代，deliver 一直报 stale」。
+      placeholder: 用一句话描述你看到的错误
+    validations:
+      required: true
+
+  - type: dropdown
+    id: stage
+    attributes:
+      label: 发生阶段
+      options:
+        - 任务书与场地
+        - 概念
+        - 方案
+        - 施工图 / 原生模型
+        - 表现
+        - 分析与排版
+        - 交付
+        - 不确定
+    validations:
+      required: true
+
+  - type: input
+    id: skill_version
+    attributes:
+      label: Skill 版本
+      description: 运行 `git log -1 --format=%h` 得到的提交号，或发布版本号。
+      placeholder: 3ea0e2e
+    validations:
+      required: true
+
+  - type: input
+    id: software
+    attributes:
+      label: 使用的软件及版本
+      description: 只填与问题相关的软件。没有使用宿主软件可写「无」。
+      placeholder: Revit 2021 / AutoCAD 2024 / Blender 4.3 / 无
+    validations:
+      required: true
+
+  - type: dropdown
+    id: event_type
+    attributes:
+      label: 问题类型
+      options:
+        - 工具异常退出或脚本报错（tool_error）
+        - 工具调用超时（timeout）
+        - 同一操作反复重试（retry）
+        - 自动检查失败或误判（validation_failure）
+        - 工作流中断、步骤走不下去（workflow_failure）
+        - 输出明显不对、需要人工改（user_correction）
+        - 最终成功但花了很多手工步骤（manual_intervention）
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: 预期结果
+      description: 你原本期待发生什么。
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: 实际结果
+      description: 实际发生了什么。把报错原文贴在这里。
+      render: text
+    validations:
+      required: true
+
+  - type: dropdown
+    id: reproducible
+    attributes:
+      label: 能否复现
+      options:
+        - 每次都能复现
+        - 偶发，重试后能再出现
+        - 只出现过一次，暂时无法复现
+        - 还没尝试复现
+    validations:
+      required: true
+
+  - type: textarea
+    id: repro_steps
+    attributes:
+      label: 复现步骤
+      description: 从哪一步开始、点了什么、跑了哪条命令。能写成编号列表最好。
+      placeholder: |
+        1. project.py init ...
+        2. project.py checkpoint --revision R2 ...
+        3. project.py deliver → 报错
+    validations:
+      required: false
+
+  - type: textarea
+    id: agent_summary
+    attributes:
+      label: 自动整理的错误摘要
+      description: 如果你的执行端已生成反馈报告，把其中的 error_summary 或脱敏 JSON 贴在这里，不要贴完整对话。
+      render: json
+    validations:
+      required: false
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 证据
+      description: 报错输出、状态 JSON、脱敏截图。请自行确认不含客户信息、真实路径和密钥。
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: 公开确认
+      options:
+        - label: 我已移除客户资料、未公开方案、完整工程文件、聊天记录、密钥与本机路径
+          required: true
+        - label: 我理解此 Issue 将公开可见
+          required: true
