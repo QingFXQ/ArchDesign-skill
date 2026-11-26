@@ -4,6 +4,8 @@
 
 ## 2. 核心原则
 
+当已选方案出现空间或形式品质问题，按需使用[建筑空间设计](../concept-design/spatial-composition-theory.md)、[园林空间设计](../concept-design/garden-space.md)、[草图与建筑表现](../concept-design/sketch-and-representation.md)及[类型设计资料](../concept-design/building-type-study.md)。在确认的不变量范围内，先用局部真实比例草模推敲空间，再协调受影响的整体构成、房间与结构；通过同条件视觉对照判断修改是否有效。对重大方向变更仍遵守用户授权。
+
 方案深化不是二维房间拼图。
 每次设计判断必须同时检查平面、剖面与体量。
 流线必须在平面和剖面中连续成立。
