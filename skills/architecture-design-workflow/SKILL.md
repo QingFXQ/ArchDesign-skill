@@ -34,6 +34,10 @@ description: 连续完成建筑课程设计或接续既有方案，从任务书�
 
 ## 1. 先把建筑设计成立
 
+以建筑学理论指导实际创作：按需读[建筑空间设计](references/methods/concept-design/spatial-composition-theory.md)（单空间、多空间、体形与构成）、[园林空间设计](references/methods/concept-design/garden-space.md)（藏露、视线、序列）、[草图与建筑表现](references/methods/concept-design/sketch-and-representation.md)（快速视觉推演）及[类型设计资料](references/methods/concept-design/building-type-study.md)（功能与空间原型）。审美与精神目标可独立发起设计实验，随后与实用和技术条件协调；先用最低必要精度推敲真实几何与空间，不把概念研究变成报告或测试数量竞赛。
+
+概念发散、方案创作或空间品质返修时，按需读[建筑创作工作台](references/methods/concept-design/design-studio.md)，再按具体问题选择[空间与构成原型](references/methods/concept-design/spatial-patterns.md)及[经典案例转译](references/methods/concept-design/precedent-transfer.md)。先用平剖、空间原型和真实模型对照推敲建筑本身，再推进详细房间排布及制图；技术校验不能代替审美与空间判断。已选定方案则集中解决其实际设计问题，不机械扩展案例或生图。
+
 ### 尺寸、场地与体块
 核单位、轴向、可靠尺寸、至少三个分散锚点、旋转中心及±0.000，记录软件间变换。导入、恢复和排版不能重复调头或缩放。纸面旋转与真实模型坐标分别处理；图形与真实北针一致，标注文字保持可读。
 
