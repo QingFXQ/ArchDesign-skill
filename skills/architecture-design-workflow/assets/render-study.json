@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "mode": "history",
+  "units": "m",
+  "datum": "Synthetic local origin shared by both files; positive Y is north",
+  "render": {"pixels": [800, 500], "samples": 16},
+  "light": {"sun_direction": [-1, -2, 2], "sun_energy": 3, "sky_strength": 0.25, "sun_angle_rad": 0.08},
+  "neutral_material": {"linear_rgb": [0.64, 0.62, 0.58], "roughness": 0.72, "keep_materials": ["Glass"]},
+  "views": [
+    {"id": "aerial", "scope": "exterior", "eye": [20, -18, 15], "aim": [6, 4, 1.5], "ortho_width_m": 22, "exposure_ev": 0},
+    {"id": "arrival", "scope": "exterior", "eye": [5, -4, 1.65], "aim": [6, 5, 3.5], "lens_mm": 28, "exposure_ev": 0}
+  ],
+  "cases": [
+    {"id": "first", "source": "first.blend"},
+    {"id": "alternative", "source": "alternative.glb"}
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "schema": 1,
+  "units": "m",
+  "earthwork": {
+    "vertices": [
+      [0, 0, 0, -1],
+      [2, 0, 0, 1],
+      [0, 2, 0, 1]
+    ],
+    "triangles": [
+      [0, 1, 2]
+    ],
+    "cover_m3_compacted": 0.1,
+    "material_cases": [
+      {
+        "id": "assumed",
+        "suitable_fraction": 0.8,
+        "compacted_per_bank": 0.9,
+        "basis": "Synthetic test assumption"
+      }
+    ]
+  },
+  "paths": {
+    "join_tolerance_m": 0.005,
+    "nodes": [
+      {
+        "id": "arrival",
+        "xyz": [0, 0, 0]
+      },
+      {
+        "id": "garden",
+        "xyz": [10, 0, 0.4]
+      },
+      {
+        "id": "upper",
+        "xyz": [10, 0, 3.6]
+      }
+    ],
+    "routes": [
+      {
+        "id": "arrival_path",
+        "nodes": ["arrival", "garden"],
+        "kind": "ramp",
+        "max_grade_pct": 4.1
+      },
+      {
+        "id": "elevator",
+        "nodes": ["garden", "upper"],
+        "kind": "lift"
+      }
+    ],
+    "return_paths": [
+      ["upper", "arrival"]
+    ]
+  }
+}
