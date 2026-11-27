@@ -2,7 +2,7 @@
 
 - 状态：active
 - 更新：2026-10-20
-- 适用：方案深化→ Gate B → 正式 工程制图
+- 适用：用户或项目明确采用 Gate B 的正式工程交接。日常方案和课程出图从 Skill 入口按当前任务接续。
 - 关联：[`PIPELINE_WORKFLOW.md`](PIPELINE_WORKFLOW.md)、[`SCHEME_DRAWING_REVIEW.md`](SCHEME_DRAWING_REVIEW.md)、[`../templates/PROJECT_TEMPLATE.md`](../../assets/templates/PROJECT_TEMPLATE.md)
 
 ## 1. Gate B 是什么
@@ -25,7 +25,7 @@ Gate B 不是“所有问题都解决了”，而是：
 
 | 条件 | 判定 |
 |---|---|
-| 用户明确批准 | `DECISIONS.md` 有 Gate B 记录，写明版本、原话、冻结范围、可调整项 |
+| 用户明确批准 | `DECISIONS.md` 有 Gate B 记录，写明版本、确认结论、冻结范围、可调整项 |
 | 方案包完整 | 12 项清单中没有 `blocking`；`known-unknown` 已列明并被用户接受 |
 | 版本唯一 | 模型、图册、面积表、决策记录指向同一版本；旧版保留但不冒充当前 |
 | 技术准备度 | 结构、消防/疏散、机电空间、B1 容量达到“可进入 工程制图 深化”的程度，而不是“已施工图” |

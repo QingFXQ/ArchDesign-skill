@@ -1,6 +1,6 @@
 # Architecture Design Workflow
 
-调用 `$architecture-design-workflow`，提供实际项目目录、任务书／场地、最近确认的方案、当前目标与授权范围。先看 [SKILL.md](SKILL.md)，从当前阶段接续。项目文件保存在项目目录，复制或接续 [项目记录模板](assets/PROJECT.template.md) 并明确采用依据。
+调用 `$architecture-design-workflow`，提供实际项目目录、任务书／场地、最近确认的方案、当前目标与授权范围。先看 [SKILL.md](SKILL.md)，从当前设计、制图或排版问题接续。优先寻找完整案例原图，将具体做法试到自己的草模或图面；现行条件可用[简短项目记录](assets/PROJECT.template.md)更新。
 
 ## 第一次试用
 

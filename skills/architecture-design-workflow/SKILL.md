@@ -1,51 +1,32 @@
 ---
 name: architecture-design-workflow
-description: 建筑方案研究、迭代与制图交付。从任务书和场地建立约束、比较可编辑方案和关键空间、复核平立剖与真实模型；也可接续 Revit、CAD、Blender、SketchUp、展板或可编辑交付。适用于建筑设计任务和本技能维护。
+description: 从优秀建筑案例的完整图纸和作品集出发，提取可用于当前项目的设计、制图和排版做法。在可编辑模型、平立剖、效果表现和展板中试用、对比和深化，交付 PDF 与源文件。
 ---
 
-# 建筑设计与图纸制作
+# 建筑设计、制图与排版
 
-从用户当前目标、阶段和已确认的设计依据接续。用真实可编辑模型检验空间、结构、功能、主要动线与场地。只读当前问题所需参考。
+从用户当前要解决的设计或图面问题开始。有现成方案就接着做。优先查用户参考和本地案例库，缺合适图面再找建筑师、馆方、档案或其他可靠的公开来源。
 
-## 起点与授权
+## 从原图到当前项目
 
-- 读取任务书、场地、已有 PROJECT.md 与 BRIEF.md、原件和最新反馈。分列用户要求、任务书硬约束、适用规范、已确认决策、可探索范围、假设、待确认项和建议。逐项记录足以限制创作的条件来源与条款或确认、适用范围、有效状态、是否可变及何时复议。层数、层高、总高、基底、体量与空间数量、构成形式、柱网和交通比例默认可研究。历史方案参数只有经用户明确冻结、教师现行要求或适用法规支持才承继为约束。交图深度、纸幅、比例和源文件按当前任务确定。
-- 阶段由成果成熟度决定，版本记录每次修订。核心概念、方案选择、重大取舍及阶段变更按用户确认或已记录授权。普通调整自行推进。用户要求先收集反馈或暂停时，整理当前证据，等授权后再修改依赖该决定的工作。见[阶段、约束和历史](references/stages.md)。
-- 总体构成、尺度、功能组织等根本性反馈先复核输入与过度限制，再选择重开总体或局部调整。条件变化追踪到项目说明、校验配置、几何默认值、面积口径、图纸和交付索引。原文、旧模型及实际数值保留，错误解释追加勘误。
-- 核实软件、活动文件、坐标、单位、至少三个分散参考点、北向和场地零点。每个活动原生文档一个写入者，保存可恢复的副本。涉及规范结论时查项目所在地区、适用版本和官方来源。
+1. 找能回答问题的完整总图、平剖、图纸原页或作品集。打开原图，读比例、高差、空间和图页层级。图片和文字能支持什么判断，就用到什么程度。
+2. 在现有案例库或项目参考目录留下原图或原始链接、作品与出处、值得学习的做法及其适用条件。图纸与文字放在能一起找到的地方。参考资料的获取和保存见[资源接入](references/resources.md)。
+3. 在当前项目真正试一次。把空间做法画进平剖和可编辑草模，把图纸表达试在一组代表图上，把版式试在实际纸幅和比例中。看图决定采用、调整或舍弃。可复用的图例和做法留回案例笔记。
 
-## 方案与校验
-
-1. 结合基地和项目试排最重要的公共空间、剖面、主要动线、结构与分区。形式、功能及剖面都可作为起点。审美与精神目标可独立发起推演。用真实的结构、比例、材料、光线与场所检验，分别判断建筑品质和技术成立性。将案例中的空间操作在项目上做几何实验，记录证据边界与取舍。
-2. 分开维护主体、各层控制线、虚空间、屋盖和内部功能。根据空间效果和容量双向调整，裁切后查真实面积、净宽、门洞、竖向接续和独立运营。先形成能比较的实质不同方向，数量和轮次由复杂度及授权决定。
-3. 从同版真实模型取关键平剖和人眼序列，判断主次、尺度、围合、明暗、视线、停留和第五立面。分列自动检查、视觉观察、技术待验证和用户决定。候选足够或收益降低时提交证据和取舍，进入人工评审。
-4. 在已确认深度内制作，源头变更同步受影响图纸、表现和指标。原生制作先验证代表区，版面先用同版真实图件核纸面容量。交付前看完整图、重要局部和跨图一致性。
-
-## 按实际任务打开模块
-
-| 任务 | 入口 |
+| 当前工作 | 看什么、试什么 |
 | --- | --- |
-| 项目状态、阶段、权限与回退 | [阶段与项目约束](references/stages.md) · `scripts/project_state.py` |
-| 概念创作、空间操作、案例转译和类型研究 | [建筑创作工作台](references/methods/concept-design/design-studio.md) · [方法索引](references/methods/concept-design/guide.md) |
-| 核心空间、形式原型、同条件横评 | [建筑创作与评审](references/spatial-review.md) |
-| 独立主体、楼板、屋盖、房间预算与连接 | [几何与面积](references/geometry-area.md) · `scripts/design_check.py shell/layout` |
-| 地形、概念土方、纵坡和返回路线 | [场地专项](references/site-terrain.md) · `scripts/design_check.py site` |
-| 真实光照、历史模型重渲染或图像辅助 | [视觉实验](references/visual-studies.md) · `scripts/render_study.py` |
-| 适用法规、规范版本和建筑类型专项 | [规范自查](references/methods/building-code-check/guide.md) · [类型资料](references/library.md) |
-| 建筑案例、工程方法和原生资产 | [资源接入](references/resources.md) · `scripts/resources.py` |
-| BIM／CAD 原生制作和故障恢复 | [原生制作](references/production.md) |
-| 正式展板、字体、图形表达和可编辑交付 | [排版](references/presentation.md) · [可编辑交付](references/editable-delivery.md) |
-| 已有公开版项目状态、产物门禁与反馈记录 | [项目状态](references/project-state.md) · [反馈流程](references/process/FEEDBACK_WORKFLOW.md) · `scripts/project.py` / `scripts/feedback.py` |
-| 交付 QA 和反馈复验 | [检查与反馈](references/verification.md) · `scripts/check_layout.py` |
+| 找灵感、推方案 | 用案例的总图与平剖读清空间、结构、光线和路线。转成自己的体量或剖面，比较同条件白模和人眼视图。见[建筑创作](references/methods/concept-design/design-studio.md)、[案例转译](references/methods/concept-design/precedent-transfer.md)和[方案评审](references/spatial-review.md)。 |
+| 画总平、平立剖或出效果 | 找同阶段、同类图纸，看剖切和投影层次、轴网标高、墙柱洞口、路线及表达深度。先做代表图，核模型和图纸，再扩展整套。见[原生制作](references/production.md)和[真实模型表现](references/visual-studies.md)。 |
+| 排图册、展板和作品集 | 看整页和整套，读主图占位、图组关系、视线顺序、字线层级与留白。用本项目的真实图件按实际纸幅试排，导出后逐页看。见[排版](references/presentation.md)和[可编辑交付](references/editable-delivery.md)。 |
 
-示例与测试见[使用说明](README.md)。平面近似与概念土方不能作为正式面积、工程或规范验收。以受控实际模型判断空间和相对光效。生图按需使用，真实图纸和模型提供可交付的建筑证据。
+## 几句现行条件
 
-## 双轨交付
+任务书、场地、用户或教师要求读一遍。沿用项目已有记录，只写影响当前设计或出图的内容。新要求按日期覆盖同一事项；适用规范按项目所在地和现行条文独立核对。层数、层高、总高、基底、空间数量、柱网和比例等按方案推敲，约束来自现行任务要求、已确认的冻结项和适用规范。面积按项目区间含端点核查，分清总建面、功能区建面、净面积、楼板、挑空、基底与室外面积。
 
-同一模型可以产生两套独立成果。工作档案保留适用条件、变更、面积计算、技术证据、待验证项及可编辑源。人类评图成果按建筑作品集的阅读逻辑编排，以总图、平剖、视图及关键节点为主，保留必要的设计动作、指标和实质风险。先定图面容量和视觉样式，导出后逐页实际查看并修正。见[排版](references/presentation.md)。
+收到根本性反馈，先回看旧条件是否限制了建筑，接着试新方案。记录更新后同步实际用到该条件的模型、参数、校验与出图。测量、面积口径和关键假设写到足以接续。用户让先收集意见时先整理；工作获授权后连续推进。见[阶段与项目条件](references/stages.md)。
 
-## 公开版工具与资料
+## 需要时打开
 
-按[完整流程](references/process/PIPELINE_WORKFLOW.md)、[资料索引](references/library.md)和[工具接口](references/TOOLS.md)选读随附案例、方法与宿主操作。用 `project_state.py` 记录设计阶段和版本决定。公开版的 `project.py` 继续负责产物登记、证据及交付门禁。产物按 `active`、`superseded`、`archived` 标记，只对当前有效产物取证。版本或内容变更后重新验证。按实际产物类型声明 PDF、DWG、RVT、BLEND、PSD 等检查，分列自动检查、实际看图、宿主验证和用户验收。
-
-用 `feedback.py` 记录和复验项目故障。专业经验按[知识库说明](references/knowledge/README.md)直接积累为 Markdown，说明来源、适用条件和例外。对公开共享有明确授权时再提交；私人项目资料与未授权图件留在项目外部记录。
+- [几何与面积](references/geometry-area.md)、[场地专项](references/site-terrain.md)、[规范自查](references/methods/building-code-check/guide.md)和[专业资料](references/library.md)。
+- [工作流程](references/process/PIPELINE_WORKFLOW.md)、[工具入口](references/TOOLS.md)和[检查方法](references/verification.md)。项目采用版本、产物或故障记录工具时，从[项目状态](references/project-state.md)和[反馈](references/process/FEEDBACK_WORKFLOW.md)接续。
+- 评图成果按读者需要组织图面和短说明。技术依据、计算和待核事项按需要留在工作资料中。交付看整页、打印局部和平剖与模型的对应关系。案例用法与已验证经验可写回[知识库](references/knowledge/README.md)。
