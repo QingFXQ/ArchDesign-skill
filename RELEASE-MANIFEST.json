@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-27T09:56:48+00:00",
-  "source_head": "64fcac41ef688cdc0670113f283b0de6e9773622",
+  "built_at": "2026-11-27T10:05:13+00:00",
+  "source_head": "98206429bf23659f357dd498e0ab52cba05592fd",
   "files": [
     {
       "path": ".github/ISSUE_TEMPLATE/bug_report.yml",
@@ -115,8 +115,8 @@
     },
     {
       "path": "skills/architecture-design-workflow/CHANGELOG.md",
-      "bytes": 1054,
-      "sha256": "33fb771d38bca4773f32787434fece89afeb63bb32c50ca2fba9c65ec8cc4c06"
+      "bytes": 1273,
+      "sha256": "4d33e0bec9e21e94a99d9af21173cf33a33889e34c131f5aca1a5ff2e2c8fc6a"
     },
     {
       "path": "skills/architecture-design-workflow/README.md",
@@ -125,8 +125,8 @@
     },
     {
       "path": "skills/architecture-design-workflow/SKILL.md",
-      "bytes": 6501,
-      "sha256": "d1354318ac48535ca4b4cc5ec81a4676a617a72a2cc23f4e04b3b6c9436b5184"
+      "bytes": 6682,
+      "sha256": "cbd453f7805fefb7ca67820ec9e6308bba431b84615e48e75feec40d43fcaf91"
     },
     {
       "path": "skills/architecture-design-workflow/agents/openai.yaml",
@@ -135,8 +135,8 @@
     },
     {
       "path": "skills/architecture-design-workflow/assets/PROJECT.template.md",
-      "bytes": 773,
-      "sha256": "d899285542ec18e527604989f1209cba359806a981f4ff25defa7943bc6413c0"
+      "bytes": 982,
+      "sha256": "24997942140a87911fdcff52f9af16457afd41e8646934233ead80e155f99dc8"
     },
     {
       "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/README.md",
@@ -991,12 +991,12 @@
     {
       "path": "skills/architecture-design-workflow/references/library.md",
       "bytes": 4903,
-      "sha256": "ea22cd4c8ba84d5ec7ac4006210485328bbd8cd5d8c5bcddbb6561476d40c1bc"
+      "sha256": "9e687c7fa1f17ad790577528b861a705c74b7660af37f708fefc2ab785773f80"
     },
     {
       "path": "skills/architecture-design-workflow/references/methods/building-code-check/guide.md",
-      "bytes": 15169,
-      "sha256": "2a4e5598839e7eab7181d7abbee730178796eff201ebb832b91fd765f69e4184"
+      "bytes": 15354,
+      "sha256": "2c7f56314da9ddad492fd807671ce2b603e8014b9eb9f18399b8bc5807dd8770"
     },
     {
       "path": "skills/architecture-design-workflow/references/methods/concept-design/building-type-study.md",
@@ -1060,8 +1060,8 @@
     },
     {
       "path": "skills/architecture-design-workflow/references/methods/museum-design/guide.md",
-      "bytes": 25036,
-      "sha256": "45acccb19e8e3eeae6116a47898f5b85f5fb0b81c21961174af252d49f84429c"
+      "bytes": 25136,
+      "sha256": "9578fec86e5fb478ee4c55bce3f0ca8f30c47f0e43344b02b8fe6ff4b584269c"
     },
     {
       "path": "skills/architecture-design-workflow/references/methods/production-notes-concept-design.md",
@@ -1145,8 +1145,8 @@
     },
     {
       "path": "skills/architecture-design-workflow/references/methods/scheme-development/guide.md",
-      "bytes": 45448,
-      "sha256": "44749d3979cdedb394b10dedcf735ac949dfcd3616a02b6c1cc87cbd363aa8c3"
+      "bytes": 45733,
+      "sha256": "907b7612e52020d0218683cd76e2e4da26b7c67c3c42a33da86acab4ab61303d"
     },
     {
       "path": "skills/architecture-design-workflow/references/practice-audit.md",
@@ -1204,44 +1204,44 @@
       "sha256": "0aca87cadcb9af87876ab78f07902a4a733d18c5aeae6207cc7ddd69584765e2"
     },
     {
-      "path": "skills/architecture-design-workflow/references/research/building-codes/01-gb55016-fire.md",
-      "bytes": 16834,
-      "sha256": "4bda277bb9f8f5ced962b6e9e2ee6093a6abd83ebff1a9970504b8dc44b6f52e"
+      "path": "skills/architecture-design-workflow/references/research/building-codes/01-gb55037-fire.md",
+      "bytes": 16105,
+      "sha256": "f987c075d9bd86be74e01a05ebf13c5db0f6924b9624146c75f547964e2d781d"
     },
     {
       "path": "skills/architecture-design-workflow/references/research/building-codes/02-gb50352-general.md",
-      "bytes": 14142,
-      "sha256": "fd841afa24856e4a901701a786bf916ae89ca1d0c80653e69e6c67cf0c24cecb"
+      "bytes": 14102,
+      "sha256": "b17daef39ae316ac69f0026467a63a126d79d4c50d9faca44a4facb514e119c3"
     },
     {
       "path": "skills/architecture-design-workflow/references/research/building-codes/03-gb50763-accessibility.md",
-      "bytes": 14870,
-      "sha256": "cde690991c83244e4ddcfbd25212abd08c1f79be4fc1303a5a74a7e0560f3c9c"
+      "bytes": 14823,
+      "sha256": "cce98c2b2e225a965deff44db53af071240d8aac9f91555f1ee6c33a83052411"
     },
     {
       "path": "skills/architecture-design-workflow/references/research/building-codes/04-sunlight.md",
-      "bytes": 12023,
-      "sha256": "51c879a4732336197804aef7dfb6287fb530d89805da73671bdca4e0994fd797"
+      "bytes": 1960,
+      "sha256": "3c77dbe6eb9545e7a0595dd7b6be2469f7bd60b4f891fed902dc70d76e8a33c9"
     },
     {
       "path": "skills/architecture-design-workflow/references/research/building-codes/05-museum.md",
-      "bytes": 13631,
-      "sha256": "ab29584dfcddd2feb25101caab34aaf5be94ab966c2953bbd4bce8b65153b28f"
+      "bytes": 6412,
+      "sha256": "623c53278871d6afe13aa58735f19c012e0be295ad3353ec74b90a27a4434825"
     },
     {
       "path": "skills/architecture-design-workflow/references/research/building-codes/06-kindergarten.md",
-      "bytes": 14088,
-      "sha256": "ee484d8c3fa63f001ff230ded3ef9f9e8cec371cbde81a578c385c0a28345666"
+      "bytes": 13864,
+      "sha256": "b9e6a434f2f138d26ccbfc4e9a07f9af52098804481a6e647459024061553603"
     },
     {
       "path": "skills/architecture-design-workflow/references/research/building-codes/07-school.md",
-      "bytes": 14320,
-      "sha256": "c1721de7c7b59c621b116bc695f76737bc195e5362b4c908080d6c08b917f1d3"
+      "bytes": 14179,
+      "sha256": "0f160ac96be339b49d812f8f443ea6edf28404411c07d46e72fbc39600de8b36"
     },
     {
       "path": "skills/architecture-design-workflow/references/research/building-codes/08-library.md",
       "bytes": 12619,
-      "sha256": "a378cd3c48cdfaa218301ef87b99c444d331b3085ad3dccb42e686de68b7608b"
+      "sha256": "db9228b30c962d413b2f1dc59275df5ca49382930aa379d25cc35b8b727e5ae1"
     },
     {
       "path": "skills/architecture-design-workflow/references/research/revit-materials/01-native-components.md",
@@ -1439,5 +1439,5 @@
     "scripts/check_external_links.py",
     "skills/architecture-design-workflow/assets/history/"
   ],
-  "total_bytes": 27106493
+  "total_bytes": 27089209
 }
