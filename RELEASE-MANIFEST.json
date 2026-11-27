@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-27T10:27:05+00:00",
-  "source_head": "51e4561faad92e24daa017cfa87913f2f565c911",
+  "built_at": "2026-11-27T10:35:51+00:00",
+  "source_head": "da48b280aa284887c1b922433549f5436041ae58",
   "files": [
     {
       "path": ".github/ISSUE_TEMPLATE/bug_report.yml",
@@ -1085,8 +1085,8 @@
     },
     {
       "path": "skills/architecture-design-workflow/references/methods/render-fidelity/guide.md",
-      "bytes": 11597,
-      "sha256": "0ff89ded97bb856e975f3c06d7ccaa85c1230a9fef88a9875d0b41f2ad9252f6"
+      "bytes": 2159,
+      "sha256": "57d36af7316d4dabf333e22868d2fddf84bfbd8dd368fdd65b9434407b5faea3"
     },
     {
       "path": "skills/architecture-design-workflow/references/methods/revit-expert/guide.md",
@@ -1439,5 +1439,5 @@
     "scripts/check_external_links.py",
     "skills/architecture-design-workflow/assets/history/"
   ],
-  "total_bytes": 27077753
+  "total_bytes": 27068315
 }
