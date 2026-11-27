@@ -35,7 +35,7 @@
 - [RAG.md](RAG.md)
 - [research/blender-upscale/blender-mcp-survey.md](research/blender-upscale/blender-mcp-survey.md)
 - [research/blender-upscale/upscaler-survey.md](research/blender-upscale/upscaler-survey.md)
-- [research/building-codes/01-gb55016-fire.md](research/building-codes/01-gb55016-fire.md)
+- [research/building-codes/01-gb55037-fire.md](research/building-codes/01-gb55037-fire.md)
 - [research/building-codes/02-gb50352-general.md](research/building-codes/02-gb50352-general.md)
 - [research/building-codes/03-gb50763-accessibility.md](research/building-codes/03-gb50763-accessibility.md)
 - [research/building-codes/04-sunlight.md](research/building-codes/04-sunlight.md)
