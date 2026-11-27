@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-07T06:10:04+00:00",
-  "source_head": "cf57c7350e6202a28b61dc90501abf916bb157b6",
+  "built_at": "2026-11-27T09:56:48+00:00",
+  "source_head": "64fcac41ef688cdc0670113f283b0de6e9773622",
   "files": [
     {
       "path": ".github/ISSUE_TEMPLATE/bug_report.yml",
       "bytes": 4238,
-      "sha256": "60db3821800fbfbe9a1df0069502bcf22d38c172c49f425ff2ff5d5267cb6f80"
+      "sha256": "63cf24eb658186d2fed9152392c32191fd85ea6ad1603750d95f7b4998e167e7"
     },
     {
       "path": ".github/ISSUE_TEMPLATE/config.yml",
       "bytes": 678,
-      "sha256": "5f89c074fc157369d5385f481b4adfa04242c6ed3c193bff92c4fc91a5e94bc3"
+      "sha256": "8032956aa94a7289b7a1281aed22b6c54953172d7cf3a2e5395a7d294e5dc7c7"
     },
     {
       "path": ".github/ISSUE_TEMPLATE/feature_proposal.yml",
@@ -51,22 +51,7 @@
     {
       "path": "CONTRIBUTING.md",
       "bytes": 5939,
-      "sha256": "7c294197875d996b3283526a12ff0f8542b0288916fbd5d52354eba98ba2e610"
-    },
-    {
-      "path": "docs/community-setup.md",
-      "bytes": 3871,
-      "sha256": "739c0ef361a46eee42803ecad21782c2df0b1d6a4aed82a480049000e6d1fe36"
-    },
-    {
-      "path": "docs/licensing.md",
-      "bytes": 2293,
-      "sha256": "ab1e05b9efa3fcac3b00e0cb9512e7b95425caa3cf9efad8b14a36f59b30ce00"
-    },
-    {
-      "path": "docs/release.md",
-      "bytes": 3411,
-      "sha256": "33e748ab047264505c948d2e86f407c2ff65a1d5cc59cec0e539bae7e183df5b"
+      "sha256": "6fcff0632c03c4b7e46d22a809d07cb6bb52a270766b94d04c087f9c67e69569"
     },
     {
       "path": "LICENSE",
@@ -76,7 +61,32 @@
     {
       "path": "README.md",
       "bytes": 5637,
-      "sha256": "ebd3d57fb834a579fbad21c9a78cc1baa56af5ca85cf6c83a09f0890f2fdd799"
+      "sha256": "ecca73383af746ebae6874e9411942886053647c83035d3237edc6ce024ba7f6"
+    },
+    {
+      "path": "SECURITY.md",
+      "bytes": 2105,
+      "sha256": "815ab03f47eff054e5123a9ca58a6d4ab4afe36d20cd73142685fc0211ff214b"
+    },
+    {
+      "path": "SUPPORT.md",
+      "bytes": 3009,
+      "sha256": "3ba127a9b0f6f9fc9adb36ce5ed9af45085bd26684f8ceedae1b9e979e30d369"
+    },
+    {
+      "path": "docs/community-setup.md",
+      "bytes": 3871,
+      "sha256": "42aaa647709adc96129888f5f5cd6530013ad988466f5ddeb28100e9ccc6bae2"
+    },
+    {
+      "path": "docs/licensing.md",
+      "bytes": 2293,
+      "sha256": "ab1e05b9efa3fcac3b00e0cb9512e7b95425caa3cf9efad8b14a36f59b30ce00"
+    },
+    {
+      "path": "docs/release.md",
+      "bytes": 3418,
+      "sha256": "22f2d1280e081aefac9510bee2fa68f277c7d4e9192b9f8cd9a8bb0689d1c193"
     },
     {
       "path": "requirements-dev.txt",
@@ -96,7 +106,7 @@
     {
       "path": "scripts/publication_audit.py",
       "bytes": 12831,
-      "sha256": "7dec3d2dec212f60649d51c109714b596fe635cefdb3bf04313e79cba22aa6b7"
+      "sha256": "39238ad928ac9bedc92ebd75aebdcb99cd674e39e10091e5ce6af13802995d1d"
     },
     {
       "path": "scripts/run_tests.py",
@@ -104,14 +114,34 @@
       "sha256": "423c83a3f5ee7096656426946fde5b30d23373db057142b5c6351c9eae22174e"
     },
     {
-      "path": "SECURITY.md",
-      "bytes": 2105,
-      "sha256": "815ab03f47eff054e5123a9ca58a6d4ab4afe36d20cd73142685fc0211ff214b"
+      "path": "skills/architecture-design-workflow/CHANGELOG.md",
+      "bytes": 1054,
+      "sha256": "33fb771d38bca4773f32787434fece89afeb63bb32c50ca2fba9c65ec8cc4c06"
+    },
+    {
+      "path": "skills/architecture-design-workflow/README.md",
+      "bytes": 2583,
+      "sha256": "bc867e3e461c27bf951334c2f4a36a25e8ca99df6ea0d9468fe1d68fc203545f"
+    },
+    {
+      "path": "skills/architecture-design-workflow/SKILL.md",
+      "bytes": 6501,
+      "sha256": "d1354318ac48535ca4b4cc5ec81a4676a617a72a2cc23f4e04b3b6c9436b5184"
     },
     {
       "path": "skills/architecture-design-workflow/agents/openai.yaml",
       "bytes": 396,
       "sha256": "f8c0b361ae5281c162d75fdf2fb165f8ce320ada900245bd97949dbb6e2de4b8"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/PROJECT.template.md",
+      "bytes": 773,
+      "sha256": "d899285542ec18e527604989f1209cba359806a981f4ff25defa7943bc6413c0"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/README.md",
+      "bytes": 4798,
+      "sha256": "fe24778c4a5ecd390faa944f64155084612352e1f742d52281662d96ff545dc0"
     },
     {
       "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/benchmarks/queries.json",
@@ -799,6 +829,11 @@
       "sha256": "46995b98639b5f55cf7312eeae477dc47d4f8bc74f4429b7504760c73af1e250"
     },
     {
+      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/ingestion/README.md",
+      "bytes": 995,
+      "sha256": "acd99dd889989e021f9e3c13da6625da4abfe1c4e3559253cc0c99686255f71f"
+    },
+    {
       "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/ingestion/ingest_case.py",
       "bytes": 1559,
       "sha256": "272904d370d48312e56d2c7c9deb57327aaa4ac4bfe27ba03c8c2d0269df47b3"
@@ -814,11 +849,6 @@
       "sha256": "9fcd77f5419322122b4065b42f7633c385eaa2c426b360b5244fbd621ee7eb59"
     },
     {
-      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/ingestion/README.md",
-      "bytes": 995,
-      "sha256": "acd99dd889989e021f9e3c13da6625da4abfe1c4e3559253cc0c99686255f71f"
-    },
-    {
       "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/ontology/aliases.json",
       "bytes": 1124,
       "sha256": "71255b13df10ce97cc3f2111b2e454fed1be26d58c698836eb456285b213037a"
@@ -827,11 +857,6 @@
       "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/ontology/tags.json",
       "bytes": 3133,
       "sha256": "0ae2518b1d09269e0004a2a6813111fe4330332dbfd7ce49047b7ed93e7871d7"
-    },
-    {
-      "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/README.md",
-      "bytes": 4798,
-      "sha256": "fe24778c4a5ecd390faa944f64155084612352e1f742d52281662d96ff545dc0"
     },
     {
       "path": "skills/architecture-design-workflow/assets/knowledge/architecture-case-rag/scripts/audit_case_quality.py",
@@ -909,6 +934,21 @@
       "sha256": "75d66d9ad6a27fc812389dce89c3af4e17e66c365e3ed6811792c373b33e48cd"
     },
     {
+      "path": "skills/architecture-design-workflow/assets/office-study.json",
+      "bytes": 7038,
+      "sha256": "1a62cae7271e8bc0946d8453c7d1b99c8f9ceaf47324e22032760080088e6f83"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/render-study.json",
+      "bytes": 792,
+      "sha256": "adbb96f24a4d89c21c003b936d5606aa5d2455396065687bc200582ef96a4364"
+    },
+    {
+      "path": "skills/architecture-design-workflow/assets/site-study.json",
+      "bytes": 1050,
+      "sha256": "875cc0a21e1414d35f6fca84badbae92e8c3969facd4f437427bdc9b2e589785"
+    },
+    {
       "path": "skills/architecture-design-workflow/assets/templates/PROJECT_LOG_TEMPLATE.md",
       "bytes": 3300,
       "sha256": "a26994339bb21ac648d7b2855504fe2b0f8ad277e0ebdeffdee6d707b8b136a5"
@@ -919,19 +959,34 @@
       "sha256": "ad4cb0f3332e5bb19a1a744d034ca66ced2003c7e34a5e6ad8f6e654b82eb91b"
     },
     {
+      "path": "skills/architecture-design-workflow/references/RAG.md",
+      "bytes": 7631,
+      "sha256": "d4a499ef7c69279917db94e35cf446a8d31dc91b3ad26e1a88aa93e3d51d7264"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/TOOLS.md",
+      "bytes": 3047,
+      "sha256": "e11a5f5a2ceafa7f9e803f2040c100e5f3f1c657e93bee5128cfad2d38d6eac3"
+    },
+    {
       "path": "skills/architecture-design-workflow/references/editable-delivery.md",
       "bytes": 3175,
       "sha256": "74daaa85ce3d50363534c1a81b7e571bd93bbc6f3eb623872ccffad5c13e2c4b"
     },
     {
-      "path": "skills/architecture-design-workflow/references/knowledge/design-knowledge.md",
-      "bytes": 598,
-      "sha256": "3b64641fb11839f3b3deb783124561f96e06070a1e773fb9fea7ca58c297d256"
+      "path": "skills/architecture-design-workflow/references/geometry-area.md",
+      "bytes": 4644,
+      "sha256": "3f58824f81704d716e38bbe978f56944e195825b00ac58a98558f90149029d59"
     },
     {
       "path": "skills/architecture-design-workflow/references/knowledge/README.md",
       "bytes": 2603,
       "sha256": "942e0c04922e5bf0e9a785e27a1709dc593feb5c52fe85a6f29845d6be9cb488"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/knowledge/design-knowledge.md",
+      "bytes": 4074,
+      "sha256": "0211ff516fbb8f023e6a3c62d6b1094658585f7d1f3fa8d12820afb7f04aa803"
     },
     {
       "path": "skills/architecture-design-workflow/references/library.md",
@@ -944,9 +999,54 @@
       "sha256": "2a4e5598839e7eab7181d7abbee730178796eff201ebb832b91fd765f69e4184"
     },
     {
+      "path": "skills/architecture-design-workflow/references/methods/concept-design/building-type-study.md",
+      "bytes": 14461,
+      "sha256": "7abd7df9f8fbf5608092ed4123253e75fcac4e5d001a5785608526eb1af90764"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/methods/concept-design/design-studio.md",
+      "bytes": 11124,
+      "sha256": "97d7913d73e699e8835b7607d842d2856a7b9a95329b529d8d5ff804f4b14a3f"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/methods/concept-design/facade-and-ensemble.md",
+      "bytes": 12982,
+      "sha256": "e7e3918986ec8360ee1a04014f0e4b1ce6b211a8e177942c1ce110da31d77519"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/methods/concept-design/garden-space.md",
+      "bytes": 13851,
+      "sha256": "3202ad0ab662b4ebefd49a5b53430122c1d933989f4373b48f06ce58bd401ed0"
+    },
+    {
       "path": "skills/architecture-design-workflow/references/methods/concept-design/guide.md",
-      "bytes": 26387,
-      "sha256": "7bc603c4e72c9f63aba4b3cacca16dccf3e4d8282c779a11407f75b331cd3ba5"
+      "bytes": 27218,
+      "sha256": "7afd09ca32e2b56e0eb706a85db0444a4d394fbf3a89fef5d95f53343d90402b"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/methods/concept-design/precedent-transfer.md",
+      "bytes": 12508,
+      "sha256": "4f3eb4bf531894f86fdbba62e29f45c9e44b71807884e11ac2950f4bd56ecf57"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/methods/concept-design/sketch-and-representation.md",
+      "bytes": 13086,
+      "sha256": "e837f0b796d56778614ccdb73ee888d4544fde5f031a7c9f973383848b160ce0"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/methods/concept-design/spatial-composition-theory.md",
+      "bytes": 17474,
+      "sha256": "6d9243faef8cff957b3d3241115feb7304fa5460f3b45612f5f3e71b85d1c83f"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/methods/concept-design/spatial-operations.md",
+      "bytes": 16835,
+      "sha256": "bce3f444f23cc06325171e74313789dbbe794b78610b25b2b78c09f1d7376c85"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/methods/concept-design/spatial-patterns.md",
+      "bytes": 12659,
+      "sha256": "4fe3a70833f78a826e4dd6fa4ab1fc364b97adaf75ac4b89fd97284972fe0383"
     },
     {
       "path": "skills/architecture-design-workflow/references/methods/drawing-standard/guide.md",
@@ -1045,18 +1145,23 @@
     },
     {
       "path": "skills/architecture-design-workflow/references/methods/scheme-development/guide.md",
-      "bytes": 44745,
-      "sha256": "14b06f9fa19c56d7adea224ce7aff6c9b2fadfcaad771518b32cba458b72ee69"
+      "bytes": 45448,
+      "sha256": "44749d3979cdedb394b10dedcf735ac949dfcd3616a02b6c1cc87cbd363aa8c3"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/practice-audit.md",
+      "bytes": 6629,
+      "sha256": "d2f2251f963ae63c9e5ef2252fff394ea338bb1c9d351ec340bf53e10f630492"
     },
     {
       "path": "skills/architecture-design-workflow/references/presentation.md",
-      "bytes": 6785,
-      "sha256": "f202a99715a79d0dff81966b35af44a51c6667402ae0670e64739324cba0e067"
+      "bytes": 7257,
+      "sha256": "2b58f5413d6f20dc59376010e20b3cd9b9d15cc416a078e2c6fdde01a02c1230"
     },
     {
       "path": "skills/architecture-design-workflow/references/process/CONCEPT_WORKFLOW.md",
-      "bytes": 1107,
-      "sha256": "70cb9f4572a0ff01a5bbdc8a70e691815d22ea1ee56559605f823d5630542b34"
+      "bytes": 1624,
+      "sha256": "b330c15dc075cc17e857e8a04d94e5f682eba8c83d96c7e43d8fc70ad023f31c"
     },
     {
       "path": "skills/architecture-design-workflow/references/process/FEEDBACK_WORKFLOW.md",
@@ -1080,18 +1185,13 @@
     },
     {
       "path": "skills/architecture-design-workflow/references/production.md",
-      "bytes": 6527,
-      "sha256": "07ec361ffee146bf8a653eb6a92e74a3290f07f26b1e390a1b642affd7428cf2"
+      "bytes": 6778,
+      "sha256": "82ba693c23e5a190dd419778ad5c0ce4add82ecdc1e2a1825e48139ec197b1aa"
     },
     {
       "path": "skills/architecture-design-workflow/references/project-state.md",
       "bytes": 8365,
       "sha256": "3576c515c3ea105cd1fef7cc5eed853af3f77b236ab230faacbee7a60ee72f9a"
-    },
-    {
-      "path": "skills/architecture-design-workflow/references/RAG.md",
-      "bytes": 7631,
-      "sha256": "d4a499ef7c69279917db94e35cf446a8d31dc91b3ad26e1a88aa93e3d51d7264"
     },
     {
       "path": "skills/architecture-design-workflow/references/research/blender-upscale/blender-mcp-survey.md",
@@ -1199,14 +1299,34 @@
       "sha256": "7137850a3b0d6f7fcad5fb9ff0c12c1dd74628a4072d72fadb0606bba34c84c4"
     },
     {
-      "path": "skills/architecture-design-workflow/references/TOOLS.md",
-      "bytes": 3047,
-      "sha256": "e11a5f5a2ceafa7f9e803f2040c100e5f3f1c657e93bee5128cfad2d38d6eac3"
+      "path": "skills/architecture-design-workflow/references/site-terrain.md",
+      "bytes": 2278,
+      "sha256": "2edc53b8eb59a1204fa0d534282e45c34a30a883ab5433636b4fe356a10e2288"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/spatial-review.md",
+      "bytes": 1973,
+      "sha256": "c320fc85c506569ffdce7cedd5af015e43384d0d5193a65f88696af13c94d823"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/stages.md",
+      "bytes": 3091,
+      "sha256": "0614af581c11b6c0ec3d44457fa0ab82cafac927e1c205bff15aef6a708333db"
     },
     {
       "path": "skills/architecture-design-workflow/references/verification.md",
-      "bytes": 7894,
-      "sha256": "2a0f646b8d00784dad990b676e949d327ad4f66a08cba3f6d04234781f368123"
+      "bytes": 8116,
+      "sha256": "dc8b52796e68dfb8ff5697b13e4de633775f895b2d8032366905085aaf09d2d0"
+    },
+    {
+      "path": "skills/architecture-design-workflow/references/visual-studies.md",
+      "bytes": 3235,
+      "sha256": "89851a9e03f99213d3fe009252944569f6927f585f999b889928d14d2ed7c137"
+    },
+    {
+      "path": "skills/architecture-design-workflow/scripts/blender_shell.py",
+      "bytes": 1846,
+      "sha256": "1d13db0e6d8b76c8323f43442c0e882e923160cef2baaed97e6ef312445e2d13"
     },
     {
       "path": "skills/architecture-design-workflow/scripts/cases.py",
@@ -1219,6 +1339,26 @@
       "sha256": "38c8e5a9fd7e8bc7d5166083a874712a2b45518570fc0277a34876592ad95b7c"
     },
     {
+      "path": "skills/architecture-design-workflow/scripts/design_check.py",
+      "bytes": 2234,
+      "sha256": "2b146a2f2791171dd00e65449ec939be02a24001f936502cf873006daf2934b4"
+    },
+    {
+      "path": "skills/architecture-design-workflow/scripts/design_geometry.py",
+      "bytes": 23727,
+      "sha256": "4570ee1f767fcccc7621dd2bff5bb29620f56e01212d64b4853058a0705f1683"
+    },
+    {
+      "path": "skills/architecture-design-workflow/scripts/design_input.py",
+      "bytes": 1061,
+      "sha256": "e1e240d2022265363a6b6ea58e26b5805d6aea28e48e08c623cfb9e5eb5cb4ce"
+    },
+    {
+      "path": "skills/architecture-design-workflow/scripts/design_site.py",
+      "bytes": 6879,
+      "sha256": "a2c94b77ced7da166fbe60ec891a5188a0a283be1957c03cec9483429108b38a"
+    },
+    {
       "path": "skills/architecture-design-workflow/scripts/feedback.py",
       "bytes": 23823,
       "sha256": "43a5fbaa83de2fb86ba2e43208034e9670ab8fae03967cc50b296f1c4cdc40a5"
@@ -1227,6 +1367,16 @@
       "path": "skills/architecture-design-workflow/scripts/project.py",
       "bytes": 28206,
       "sha256": "64684c6f1a82fba063bf4a0aff93fb34b98a18ff22a40dc0dddd536803b79c0c"
+    },
+    {
+      "path": "skills/architecture-design-workflow/scripts/project_state.py",
+      "bytes": 8466,
+      "sha256": "c64fa5421cbccc4a61fe96bce03cf194f6b6510e84a2bab86f7c59c85c79748f"
+    },
+    {
+      "path": "skills/architecture-design-workflow/scripts/render_study.py",
+      "bytes": 11736,
+      "sha256": "aed71ca25221e46de6d41a5c9af24be3da3c5f03c51ded5bee92aae9fb61d3b8"
     },
     {
       "path": "skills/architecture-design-workflow/scripts/resources.py",
@@ -1244,24 +1394,24 @@
       "sha256": "926cef1842c57f317af40bb6d9f1f85986c645904735e4566aba1bd9dbddfe61"
     },
     {
+      "path": "skills/architecture-design-workflow/scripts/smoke_blender.py",
+      "bytes": 2706,
+      "sha256": "ec0c0d7a3702f2a2f0559e5970c7c89056a558e1e2bfdaacc2971a43524e9ed9"
+    },
+    {
+      "path": "skills/architecture-design-workflow/scripts/test_design.py",
+      "bytes": 13328,
+      "sha256": "de906d0c217ec6413672657bbbcb7ab13833dc676a922d26609c5e6d8998fb61"
+    },
+    {
       "path": "skills/architecture-design-workflow/scripts/test_tools.py",
       "bytes": 8270,
       "sha256": "af3909629776e2e09e2022758a37a079514ca2ea6b6d551794f09f364e450efb"
     },
     {
-      "path": "skills/architecture-design-workflow/SKILL.md",
-      "bytes": 17286,
-      "sha256": "f3049f7770df1fe2682304f059789824dec223c9c5dcc53f0ef04f4277843897"
-    },
-    {
-      "path": "SUPPORT.md",
-      "bytes": 3009,
-      "sha256": "02cbda832436bda628f298a46dad9ab0100b8247e86a9d6de6655beaada6ffe9"
-    },
-    {
       "path": "tests/test_delivery_gates.py",
-      "bytes": 22112,
-      "sha256": "345054c026b84087ef4d9ec97136e63a7b0053a674585aebe28dd2b336e683ef"
+      "bytes": 22506,
+      "sha256": "8705ca0cc946b10c74870206543d9cad6a38f8797a3a06ce824b9f7eb0c77e27"
     },
     {
       "path": "tests/test_feedback_loop.py",
@@ -1289,5 +1439,5 @@
     "scripts/check_external_links.py",
     "skills/architecture-design-workflow/assets/history/"
   ],
-  "total_bytes": 26878302
+  "total_bytes": 27106493
 }
