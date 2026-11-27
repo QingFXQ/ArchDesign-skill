@@ -8,7 +8,7 @@ body:
       value: |
         报缺陷前请确认：这不是设计偏好问题，也不是还没看文档。
         不要在公开表单里贴客户图纸、未公开方案、完整工程文件或聊天记录。
-        安全和隐私问题请走 [SECURITY.md](https://github.com/QingFXQ/ArchDesigh-skill/blob/main/SECURITY.md)。
+        安全和隐私问题请走 [SECURITY.md](https://github.com/QingFXQ/ArchDesign-skill/blob/main/SECURITY.md)。
 
   - type: input
     id: summary

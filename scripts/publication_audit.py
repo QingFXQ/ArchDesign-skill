@@ -198,7 +198,7 @@ def audit():
     for entry in retained_files:
         entry['kinds'] = sorted(entry['kinds'])
     report = {
-        'repository': 'QingFXQ/ArchDesigh.skill',
+        'repository': 'QingFXQ/ArchDesign-skill',
         'checkout': ROOT.name,
         'files_scanned': sum(1 for _ in files()),
         'verdict': 'blocked' if by_severity['blocker'] else

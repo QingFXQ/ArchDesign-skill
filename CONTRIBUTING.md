@@ -1,4 +1,4 @@
-# 参与 ArchDesigh.skill
+# 参与 ArchDesign-skill
 
 这是一个面向建筑课程设计与方案制作的 Skill，配套自己的项目状态、交付门禁和反馈工具。参与不要求会写代码，也不要求会用 Git。
 

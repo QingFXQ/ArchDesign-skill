@@ -14,7 +14,7 @@
 
 | 你想 | 去处 |
 | --- | --- |
-| 问怎么用、怎么配置 | [Discussions → Questions](https://github.com/QingFXQ/ArchDesigh-skill/discussions)（未启用时用 Issue 的 Bug 表单并注明「使用问题」） |
+| 问怎么用、怎么配置 | [Discussions → Questions](https://github.com/QingFXQ/ArchDesign-skill/discussions)（未启用时用 Issue 的 Bug 表单并注明「使用问题」） |
 | 报一个具体缺陷 | [Bug Report](.github/ISSUE_TEMPLATE/bug_report.yml) |
 | 提一个能力需求 | [Feature Proposal](.github/ISSUE_TEMPLATE/feature_proposal.yml) |
 | 贡献案例、经验、规范笔记 | [Knowledge Contribution](.github/ISSUE_TEMPLATE/knowledge_contribution.yml) |

@@ -1,6 +1,6 @@
 # 公开发行版说明
 
-本仓库是 ArchDesigh.skill 的**公开发行快照**。它从维护者的私有开发仓库按白名单构建，使用独立的 Git 历史，不包含旧提交、旧 LFS 对象或私人工程资产。
+本仓库的 main 是 ArchDesign-skill 的维护与安装来源。仓库从按白名单整理的公开快照开始维护，随后接入工程工作流和建筑学研究。
 
 ## 包含什么
 
@@ -32,12 +32,12 @@
 - **案例检索**：随发行版提供 `index/cases.json` 与语义索引，默认 `resources.py design` 可直接使用。
 - **工程资产与 Revit 库**：属于外部本地资源，按 `references/resources.md` 用 `~/.codex/architecture-resources.json` 配置；未配置时相关命令报“资源未配置”，不影响设计流程与文档读取。
 - **历史工程证据**：不参与任何运行时逻辑，缺失不影响 Skill 执行，也不影响测试（`test_package.py` 在没有历史目录时跳过保全校验）。
-- **专业知识库**：初始为空，Agent 直接读 Markdown；没有条目时按通用设计方法与现行规范工作，不影响设计流程。
+- **专业知识库**：按具体设计问题读取随附的 Markdown 方法与案例，结合现行规范判断适用性。
 
 ## 安装
 
 ```text
-git clone <this-repo>
+git clone https://github.com/QingFXQ/ArchDesign-skill.git
 # 把整个 skills/architecture-design-workflow 安装到支持 Skill 的环境
 python -m pip install -r requirements-dev.txt
 python scripts/run_tests.py
@@ -51,7 +51,7 @@ python scripts/audit_repository.py --check
 维护者在私有开发仓库执行：
 
 ```text
-python scripts/build_release.py --out ../ArchDesigh-public --check
+python scripts/build_release.py --out ../ArchDesign-public --check
 ```
 
 构建器按白名单复制文件，跳过上表“不包含”的内容，写出 `RELEASE-MANIFEST.json`（逐文件 SHA256），并在 `--check` 模式下拒绝任何私有路径、凭据或超限文件。快照目录随后执行 `git init` 建立独立历史。
@@ -59,4 +59,4 @@ python scripts/build_release.py --out ../ArchDesigh-public --check
 ## 已知状态
 
 - 采用 MIT License，见 [LICENSE](../LICENSE) 与 [licensing.md](licensing.md)。
-- 当前发行快照尚未创建远程仓库，也未改变原仓库可见性。
+- 安装与更新来自 [ArchDesign-skill 的 main](https://github.com/QingFXQ/ArchDesign-skill/tree/main)。

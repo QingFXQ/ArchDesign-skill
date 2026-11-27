@@ -1,4 +1,4 @@
-# ArchDesigh.skill
+# ArchDesign-skill
 
 建筑设计 Skill 的独立仓库。
 
@@ -63,7 +63,7 @@ python skills/architecture-design-workflow/scripts/feedback.py --root PROJECT se
 | 你想 | 去哪 |
 | --- | --- |
 | 报缺陷、提需求、交案例、做软件适配 | [Issue 表单](.github/ISSUE_TEMPLATE/)（4 类结构化表单） |
-| 讨论做法、展示工作流 | [Discussions](https://github.com/QingFXQ/ArchDesigh-skill/discussions) |
+| 讨论做法、展示工作流 | [Discussions](https://github.com/QingFXQ/ArchDesign-skill/discussions) |
 | 贡献代码、文档或设计经验 | [CONTRIBUTING](CONTRIBUTING.md) |
 | 报告安全或隐私问题 | [SECURITY](SECURITY.md)（私密渠道，不要开公开 Issue） |
 | 不知道怎么问 | [SUPPORT](SUPPORT.md) |

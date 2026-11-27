@@ -27,7 +27,7 @@ GitHub 自带的 `bug`、`documentation`、`enhancement` 等默认标签仍在�
 
 GitHub 的公开 API 不提供创建/改名讨论分类的接口（`Mutation` 类型中只有 `createDiscussion`、`updateDiscussion` 等，没有分类相关字段），因此以下步骤必须在网页端完成：
 
-1. 打开 <https://github.com/QingFXQ/ArchDesigh-skill/discussions>
+1. 打开 <https://github.com/QingFXQ/ArchDesign-skill/discussions>
 2. 点击分类栏右侧的铅笔图标（Edit categories）
 3. 按下表调整。默认已有 Announcements、General、Ideas、Polls、Q&A、Show and tell：
 
@@ -59,7 +59,7 @@ GitHub 的公开 API 不提供创建/改名讨论分类的接口（`Mutation` �
 
 ```text
 gh label list --limit 50 | grep -E '^(type|scope|status|priority)'
-gh api repos/QingFXQ/ArchDesigh.skill --jq '{has_discussions,has_issues,visibility}'
+gh api repos/QingFXQ/ArchDesign-skill --jq '{has_discussions,has_issues,visibility}'
 gh issue list --limit 1        # 新建 Issue 时应能看到 4 个表单入口
 ```
 
